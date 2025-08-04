@@ -9,6 +9,6 @@
     { "nome_gioco": "Days Gone", "steamdbid": "1259420", "versione": "v.1.36.187.0", "online": "false", "download": "", "exe": "Launcher.bat", "dipendenze": "", "disinstallazione": ""},
     { "nome_gioco": "Age of Empires II: Definitive", "steamdbid": "813780", "versione": "v.101.103.12349.0", "online": "false", "download": "https://buzzheavier.com/scxas0t8u7al", "exe": "AoE2DE_s.exe", "dipendenze": "", "disinstallazione": ""}
     { "nome_gioco": "Age of Mythology: Extended", "steamdbid": "266840", "versione": "v.2.8", "online": "false", "download": "https://buzzheavier.com/laphnrw5ntnt", "exe": "AoMX.exe", "dipendenze": "", "disinstallazione": ""},
-    { "nome_gioco": "Age of Mythology: Retold", "steamdbid": "1934680", "versione": "v.100.18.27100.0", "online": "false", "download": "", "exe": "", "dipendenze": "", "disinstallazione":""}
+    { "nome_gioco": "Age of Mythology: Retold", "steamdbid": "1934680", "versione": "v.100.18.27100.0", "online": "false", "download": "", "exe": "", "dipendenze": "", "disinstallazione": ""}
   ]
 }
