@@ -5,12 +5,10 @@
     { "nome_gioco": "PEAK", "steamdbid": "3527290", "versione": "v.1.9.a", "online": "true", "download": "https://buzzheavier.com/hzxqu2vzonz3", "exe": "PEAK.exe", "dipendenze": "steam.exe", "disinstallazione":""},
     { "nome_gioco": "3dSen PC", "steamdbid": "1147940", "versione": "v.0.9.11", "online": "false", "download": "https://buzzheavier.com/fs9hg03enowh", "exe": "3dSen.exe", "dipendenze": "", "disinstallazione":""},
     { "nome_gioco": "Crime Simulator", "steamdbid": "2737070", "versione": "v.18950554", "online": "true", "download": "https://buzzheavier.com/bw94ap3l5r13", "exe": "Launcher.exe", "dipendenze": "", "disinstallazione":""},
-    { "nome_gioco": "BeamNG.drive", "steamdbid": "284160", "versione": "v.0.36.2.0", "online": "true", "download": "https://buzzheavier.com/kte9sq3ma6kx", "exe": "BeamNG.drive.exe", "dipendenze": "steam.exe", "disinstallazione":""},
-  { "nome_gioco": "BeamNG.drive", "steamdbid": "284160", "versione": "v.0.36.2.0", "online": "true", "download": "https://buzzheavier.com/kte9sq3ma6kx", "exe": "BeamNG.drive.exe", "dipendenze": "steam.exe", "disinstallazione":""},
-  { "nome_gioco": "BeamNG.drive", "steamdbid": "284160", "versione": "v.0.36.2.0", "online": "true", "download": "https://buzzheavier.com/kte9sq3ma6kx", "exe": "BeamNG.drive.exe", "dipendenze": "steam.exe", "disinstallazione":""},
-  { "nome_gioco": "BeamNG.drive", "steamdbid": "284160", "versione": "v.0.36.2.0", "online": "true", "download": "https://buzzheavier.com/kte9sq3ma6kx", "exe": "BeamNG.drive.exe", "dipendenze": "steam.exe", "disinstallazione":""}
+    { "nome_gioco": "BeamNG.drive", "steamdbid": "284160", "versione": "v.0.36.2.0", "online": "true", "download": "https://buzzheavier.com/kte9sq3ma6kx", "exe": "BeamNG.drive.exe", "dipendenze": "steam.exe", "disinstallazione":""}
   ]
 }
+
 
 
 
