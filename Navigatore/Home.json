@@ -1,14 +1,68 @@
 {
   "Home": [
-    { "nome_gioco": "Ready or Not", "steamdbid": "1144200", "versione": "v.19222255", "online": "false", "download": "https://buzzheavier.com/t3gjq5q0lowh", "avvii": ["Launcher.bat","NONRICORDO.exe"], "dipendenze": "", "disinstallazione":""},
-    { "nome_gioco": "Schedule I", "steamdbid": "3164500", "versione": "v.0.3.6f6", "online": "true", "download": "https://buzzheavier.com/sabf98ezt8rl", "exe": "Schedule I.exe", "dipendenze": "steam.exe", "disinstallazione":""},
-    { "nome_gioco": "PEAK", "steamdbid": "3527290", "versione": "v.1.9.a", "online": "true", "download": "https://buzzheavier.com/hzxqu2vzonz3", "exe": "PEAK.exe", "dipendenze": "steam.exe", "disinstallazione":""},
-    { "nome_gioco": "3dSen PC", "steamdbid": "1147940", "versione": "v.0.9.11", "online": "false", "download": "https://buzzheavier.com/fs9hg03enowh", "exe": "3dSen.exe", "dipendenze": "", "disinstallazione":""},
-    { "nome_gioco": "Crime Simulator", "steamdbid": "2737070", "versione": "v.18950554", "online": "true", "download": "https://buzzheavier.com/bw94ap3l5r13", "exe": "Launcher.exe", "dipendenze": "", "disinstallazione":""},
-    { "nome_gioco": "BeamNG.drive", "steamdbid": "284160", "versione": "v.0.36.2.0", "online": "true", "download": "https://buzzheavier.com/kte9sq3ma6kx", "exe": "BeamNG.drive.exe", "dipendenze": "steam.exe", "disinstallazione":""}
+    {
+      "nome_gioco": "3dSen PC",
+      "steamdbid": "1147940",
+      "versione": "v.0.9.11",
+      "online": "false",
+      "download": "https://buzzheavier.com/fs9hg03enowh",
+      "exe": "3dSen.exe",
+      "dipendenze": "",
+      "disinstallazione": ""
+    },
+    {
+      "nome_gioco": "Days Gone",
+      "steamdbid": "1259420",
+      "versione": "v.1.36.187.0",
+      "online": "false",
+      "download": "",
+      "exe": "Launcher.bat",
+      "dipendenze": "",
+      "disinstallazione": ""
+    },
+    {
+      "nome_gioco": "Age of Mythology: Extended",
+      "steamdbid": "266840",
+      "versione": "v.2.8",
+      "online": "false",
+      "download": "https://buzzheavier.com/laphnrw5ntnt",
+      "exe": "AoMX.exe",
+      "dipendenze": "",
+      "disinstallazione": ""
+    },
+    {
+      "nome_gioco": "Schedule I",
+      "steamdbid": "3164500",
+      "versione": "v.0.3.6f6",
+      "online": "true",
+      "download": "https://buzzheavier.com/sabf98ezt8rl",
+      "exe": "Schedule I.exe",
+      "dipendenze": "steam.exe",
+      "disinstallazione": ""
+    },
+    {
+      "nome_gioco": "Crime Simulator",
+      "steamdbid": "2737070",
+      "versione": "v.18950554",
+      "online": "true",
+      "download": "https://buzzheavier.com/bw94ap3l5r13",
+      "exe": "Launcher.exe",
+      "dipendenze": "",
+      "disinstallazione": ""
+    },
+    {
+      "nome_gioco": "Ready or Not",
+      "steamdbid": "1144200",
+      "versione": "v.19222255",
+      "online": "false",
+      "download": "https://buzzheavier.com/t3gjq5q0lowh",
+      "avvii": [
+        "InstallEOSServices.bat",
+        "ReadyOrNot.exe"
+      ],
+      "exe": "ReadyOrNot.exe",
+      "dipendenze": "",
+      "disinstallazione": "UnistallEOSServices.bat"
+    }
   ]
 }
-
-
-
-
