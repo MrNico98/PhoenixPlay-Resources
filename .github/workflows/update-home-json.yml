@@ -33,9 +33,9 @@ jobs:
       # Passo 5: Processare e aggiornare Home.json
       - name: Update Home.json
         run: |
-          # Processiamo il Catalogo.json per ottenere le prime 6 righe e formattarle
-          jq '.Home = (input | .[:6])' Catalogo.json > updated_home.json
-          mv updated_home.json Home.json
+           cat Catalogo.json
+           jq '.Home = (input | .[:6])' Catalogo.json > updated_home.json || exit 1
+           mv updated_home.json Home.json
 
       # Passo 6: Commit e push delle modifiche
       - name: Commit and Push changes
