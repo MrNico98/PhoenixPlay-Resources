@@ -39,6 +39,10 @@ jobs:
 
       - name: Commit & Push se cambiato
         if: steps.git-check.outputs.commit == 'true'
+        env:
+          TOKEN: ${{ secrets.PUSH_TOKEN }}
         run: |
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/MrNico98/PhoenixPlay-Resources.git
           git commit -m "Aggiornamento automatico Home.json (giochi random)"
-          git push
+          git push origin main
+
