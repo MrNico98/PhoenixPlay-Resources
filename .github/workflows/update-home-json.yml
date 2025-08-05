@@ -28,7 +28,7 @@ jobs:
     - name: Run update script
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: python PhoenixPlay-Resources/UpdateNew/AggiornamentoNew.py
+      run: python UpdateNew/AggiornamentoNew.py  # Percorso corretto
       
     - name: Commit and push changes
       if: success()
