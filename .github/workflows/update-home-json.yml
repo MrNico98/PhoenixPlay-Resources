@@ -1,0 +1,48 @@
+name: Aggiornamento Home.json
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Esegue ogni giorno a mezzanotte UTC
+  workflow_dispatch:  # Può essere attivato manualmente se necessario
+
+jobs:
+  update-home-json:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Passo 1: Checkout del repository
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # Passo 2: Impostare il token GitHub
+      - name: Set up GitHub token
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: echo "GitHub token set up"
+
+      # Passo 3: Prelevare Catalogo.json
+      - name: Download Catalogo.json
+        run: |
+          curl -o Catalogo.json https://raw.githubusercontent.com/MrNico98/PhoenixPlay-Resources/main/Navigatore/Catalogo.json
+
+      # Passo 4: Prelevare Home.json
+      - name: Download Home.json
+        run: |
+          curl -o Home.json https://raw.githubusercontent.com/MrNico98/PhoenixPlay-Resources/main/Navigatore/Home.json
+
+      # Passo 5: Processare e aggiornare Home.json
+      - name: Update Home.json
+        run: |
+          # Processiamo il Catalogo.json per ottenere le prime 6 righe e formattarle
+          jq '.Home = (input | .[:6])' Catalogo.json > updated_home.json
+          mv updated_home.json Home.json
+
+      # Passo 6: Commit e push delle modifiche
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add Home.json
+          git commit -m "Aggiornato Home.json con i dati più recenti"
+          git push
+
