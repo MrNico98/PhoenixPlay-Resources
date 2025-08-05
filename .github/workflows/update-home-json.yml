@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *'  # Esegui ogni giorno a mezzanotte UTC
   workflow_dispatch:      # Permette l'esecuzione manuale
 
+permissions:
+  contents: write        # Aggiungi questa sezione per i permessi
+
 jobs:
   update-games:
     runs-on: ubuntu-latest
@@ -13,7 +16,8 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0  # Importante per i successivi commit
+        fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}  # Esplicita il token per checkout
       
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -28,7 +32,7 @@ jobs:
     - name: Run update script
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: python UpdateNew/AggiornamentoNew.py  # Percorso corretto
+      run: python UpdateNew/AggiornamentoNew.py
       
     - name: Commit and push changes
       if: success()
