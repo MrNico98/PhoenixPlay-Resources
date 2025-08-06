@@ -112,17 +112,6 @@
       "exe": "steamclient_loader.exe",
       "dipendenze": "",
       "disinstallazione": ""
-    },
-    {
-      "nome_gioco": "TEST",
-      "steamdbid": null,
-      "versione": null,
-      "online": null,
-      "download": null,
-      "avvii": null,
-      "exe": null,
-      "dipendenze": null,
-      "disinstallazione": null
     }
   ]
 }
