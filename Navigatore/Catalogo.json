@@ -11,5 +11,7 @@
     {"nome_gioco":"Days Gone","steamdbid":"1259420","versione":"v1.36.187.0","online":"false","download":"https://buzzheavier.com/n4r7ku7r864i","avvii":null,"exe":"Launcher.bat","dipendenze":null,"disinstallazione":null},
     {"nome_gioco":"Thief Simulator 2","steamdbid":"1332720","versione":"v.1.27c","online":"false","download":"https://buzzheavier.com/7s9c1wmzqu0v","avvii":null,"exe":"Thief Simulator 2.exe","dipendenze":null,"disinstallazione":null},
     {"nome_gioco":"The Last of Us Part I","steamdbid":"1888930","versione":"v.1.1.5.0","online":"false","download":"https://buzzheavier.com/rqccmtpvo0uf","avvii":null,"exe":"launcher.exe","dipendenze":null,"disinstallazione":null},
-    {"nome_gioco":"Marvels Spider-Man Miles Morales","steamdbid":"1817190","versione":"v.3.617.1.0","online":"false","download":"https://buzzheavier.com/esa9p4p5kusq","avvii":null,"exe":"MilesMorales.exe","dipendenze":null,"disinstallazione":null}
+    {"nome_gioco":"Marvels Spider-Man Miles Morales","steamdbid":"1817190","versione":"v.3.617.1.0","online":"false","download":"https://buzzheavier.com/esa9p4p5kusq","avvii":null,"exe":"MilesMorales.exe","dipendenze":null,"disinstallazione":null},
+    {"nome_gioco":"Silent Hill 2","steamdbid":"2124490","versione":"v.1.1.258 834","online":"false","download":"https://buzzheavier.com/nres38g98tmw","avvii":null,"exe":"SHProto.exe","dipendenze":null,"disinstallazione":null},
+    {"nome_gioco":"Sons Of The Forest","steamdbid":"1326470","versione":"v.1.0","online":"true","download":"https://buzzheavier.com/l0ytwwdy27d9","avvii":null,"exe":"SonsOfTheForest.exe","dipendenze":null,"disinstallazione":null}
 ]}
