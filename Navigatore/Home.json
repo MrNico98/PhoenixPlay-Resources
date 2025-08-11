@@ -1,10 +1,10 @@
 {
   "Home": [
-    {"nome_gioco": "Schedule I", "steamdbid": "3164500", "versione": "v.0.3.6f6", "online": "true", "download": "https://buzzheavier.com/sabf98ezt8rl", "avvii": null, "exe": "Schedule I.exe", "dipendenze": "steam.exe", "disinstallazione": ""},
-    {"nome_gioco": "Marvels Spider-Man Miles Morales", "steamdbid": "1817190", "versione": "v.3.617.1.0", "online": "false", "download": "https://buzzheavier.com/esa9p4p5kusq", "avvii": null, "exe": "MilesMorales.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Silent Hill 2", "steamdbid": "2124490", "versione": "v.1.1.258 834", "online": "false", "download": "https://buzzheavier.com/nres38g98tmw", "avvii": null, "exe": "SHProto.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "PEAK", "steamdbid": "3527290", "versione": "v.1.9.a", "online": "true", "download": "https://buzzheavier.com/hzxqu2vzonz3", "avvii": null, "exe": "PEAK.exe", "dipendenze": "steam.exe", "disinstallazione": ""},
-    {"nome_gioco": "Age of Empires II: Definitive", "steamdbid": "813780", "versione": "v.101.103.12349.0", "online": "false", "download": "https://buzzheavier.com/scxas0t8u7al", "avvii": null, "exe": "AoE2DE_s.exe", "dipendenze": "", "disinstallazione": ""},
-    {"nome_gioco": "Crime Simulator", "steamdbid": "2737070", "versione": "v.18950554", "online": "true", "download": "https://buzzheavier.com/bw94ap3l5r13", "avvii": null, "exe": "Launcher.exe", "dipendenze": "", "disinstallazione": ""}
+    {"nome_gioco": "Days Gone", "steamdbid": "1259420", "versione": "v1.36.187.0", "online": "false", "download": "https://buzzheavier.com/n4r7ku7r864i", "avvii": null, "exe": "Launcher.bat", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Ready or Not", "steamdbid": "1144200", "versione": "v.19222255", "online": "false", "download": "https://buzzheavier.com/t3gjq5q0lowh", "avvii": ["InstallEOSServices.bat", "ReadyOrNot.exe"], "exe": "ReadyOrNot.exe", "dipendenze": "", "disinstallazione": "UnistallEOSServices.bat"},
+    {"nome_gioco": "Age of Mythology: Extended", "steamdbid": "266840", "versione": "v.2.8", "online": "false", "download": "https://buzzheavier.com/laphnrw5ntnt", "avvii": null, "exe": "AoMX.exe", "dipendenze": "", "disinstallazione": ""},
+    {"nome_gioco": "BeamNG.drive", "steamdbid": "284160", "versione": "v.0.36.2.0", "online": "true", "download": "https://buzzheavier.com/kte9sq3ma6kx", "avvii": null, "exe": "BeamNG.drive.exe", "dipendenze": "steam.exe", "disinstallazione": ""},
+    {"nome_gioco": "Sons Of The Forest", "steamdbid": "1326470", "versione": "v.1.0", "online": "true", "download": "https://buzzheavier.com/l0ytwwdy27d9", "avvii": null, "exe": "SonsOfTheForest.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "3dSen PC", "steamdbid": "1147940", "versione": "v.0.9.11", "online": "false", "download": "https://buzzheavier.com/fs9hg03enowh", "avvii": null, "exe": "3dSen.exe", "dipendenze": "", "disinstallazione": ""}
   ]
 }
