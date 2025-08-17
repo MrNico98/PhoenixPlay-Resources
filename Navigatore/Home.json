@@ -1,10 +1,10 @@
 {
   "Home": [
-    {"nome_gioco": "Sons Of The Forest", "steamdbid": "1326470", "versione": "v.1.0", "online": "true", "download": "https://buzzheavier.com/l0ytwwdy27d9", "avvii": null, "exe": "SonsOfTheForest.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Age of Mythology: Extended", "steamdbid": "266840", "versione": "v.2.8", "online": "false", "download": "https://buzzheavier.com/laphnrw5ntnt", "avvii": null, "exe": "AoMX.exe", "dipendenze": "", "disinstallazione": ""},
-    {"nome_gioco": "Ready or Not", "steamdbid": "1144200", "versione": "v.19222255", "online": "false", "download": "https://buzzheavier.com/t3gjq5q0lowh", "avvii": ["InstallEOSServices.bat", "ReadyOrNot.exe"], "exe": "ReadyOrNot.exe", "dipendenze": "", "disinstallazione": "UnistallEOSServices.bat"},
-    {"nome_gioco": "Schedule I", "steamdbid": "3164500", "versione": "v.0.3.6f6", "online": "true", "download": "https://buzzheavier.com/sabf98ezt8rl", "avvii": null, "exe": "Schedule I.exe", "dipendenze": "steam.exe", "disinstallazione": ""},
+    {"nome_gioco": "The Last of Us Part I", "steamdbid": "1888930", "versione": "v.1.1.5.0", "online": "false", "download": "https://buzzheavier.com/rqccmtpvo0uf", "avvii": null, "exe": "launcher.exe", "dipendenze": null, "disinstallazione": null},
     {"nome_gioco": "PEAK", "steamdbid": "3527290", "versione": "v.1.9.a", "online": "true", "download": "https://buzzheavier.com/hzxqu2vzonz3", "avvii": null, "exe": "PEAK.exe", "dipendenze": "steam.exe", "disinstallazione": ""},
-    {"nome_gioco": "3dSen PC", "steamdbid": "1147940", "versione": "v.0.9.11", "online": "false", "download": "https://buzzheavier.com/fs9hg03enowh", "avvii": null, "exe": "3dSen.exe", "dipendenze": "", "disinstallazione": ""}
+    {"nome_gioco": "Age of Mythology: Extended", "steamdbid": "266840", "versione": "v.2.8", "online": "false", "download": "https://buzzheavier.com/laphnrw5ntnt", "avvii": null, "exe": "AoMX.exe", "dipendenze": "", "disinstallazione": ""},
+    {"nome_gioco": "Thief Simulator 2", "steamdbid": "1332720", "versione": "v.1.27c", "online": "false", "download": "https://buzzheavier.com/7s9c1wmzqu0v", "avvii": null, "exe": "Thief Simulator 2.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Silent Hill 2", "steamdbid": "2124490", "versione": "v.1.1.258 834", "online": "false", "download": "https://buzzheavier.com/nres38g98tmw", "avvii": null, "exe": "SHProto.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Days Gone", "steamdbid": "1259420", "versione": "v1.36.187.0", "online": "false", "download": "https://buzzheavier.com/n4r7ku7r864i", "avvii": null, "exe": "Launcher.bat", "dipendenze": null, "disinstallazione": null}
   ]
 }
