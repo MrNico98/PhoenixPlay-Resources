@@ -2,11 +2,19 @@
   "version": "0.0.0.0",
   "releaseNotes": {
     "IT": [
-      "Rilascio"
+      "Fix download (cambio hosting)",
+      "Fix avvio TLOU",
+      "Inserito tempo di gioco",
+      "Cambio grafica",
+      "Fix vari al codice"
     ],
     "EN": [
-      "Release"
+      "Download fix (host change)",
+      "TLOU launch fix",
+      "Graphics change",
+      "Game time added",
+      "Various code fixes"
     ]
   },
-  "updateUrl": "",
+  "updateUrl": "https://github.com/MrNico98/PhoenixPlay-Resources/releases/download/Requisiti/Phoenix.Play.exe",
 }
