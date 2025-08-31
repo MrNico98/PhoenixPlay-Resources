@@ -1,10 +1,10 @@
 {
   "Home": [
-    {"nome_gioco": "Age of Mythology: Extended", "steamdbid": "266840", "versione": "v.2.8", "online": "false", "download": "https://pixeldrain.com/u/QwGLQqaS", "avvii": null, "exe": "AoMX.exe", "dipendenze": "", "disinstallazione": ""},
-    {"nome_gioco": "Silent Hill 2", "steamdbid": "2124490", "versione": "v.1.1.258 834", "online": "false", "download": null, "avvii": null, "exe": "SHProto.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Mage Arena", "steamdbid": "3716600", "versione": "v.0.7", "online": "true", "download": "https://pixeldrain.com/u/k4mrR2fq", "avvii": null, "exe": "MageArena.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "The Last of Us Part I", "steamdbid": "1888930", "versione": "v.1.1.5.0", "online": "false", "download": "https://pixeldrain.com/u/aWrLBTy3", "avvii": null, "exe": "launcher.exe", "dipendenze": null, "disinstallazione": null},
     {"nome_gioco": "R.E.P.O.", "steamdbid": "3241660", "versione": "v.0.2.1", "online": "true", "download": "https://pixeldrain.com/u/EqCdPGb7", "avvii": null, "exe": "REPO.exe", "dipendenze": "steam.exe", "disinstallazione": null},
-    {"nome_gioco": "Stronghold Crusader: Definitive Edition", "steamdbid": "3024040", "versione": "v.1.00", "online": "false", "download": "https://pixeldrain.com/u/mnyQSWuK", "avvii": null, "exe": "Stronghold Crusader Definitive Edition.exe", "dipendenze": null, "disinstallazione": null}
+    {"nome_gioco": "Days Gone", "steamdbid": "1259420", "versione": "v1.36.187.0", "online": "false", "download": "https://pixeldrain.com/u/2XciXtmd", "avvii": null, "exe": "Launcher.bat", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "SWAT Commander", "steamdbid": "1619310", "versione": "v.14143389", "online": "true", "download": "https://pixeldrain.com/u/QGqUEC8x", "avvii": null, "exe": "SWATCommander.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "PEAK", "steamdbid": "3527290", "versione": "v.1.9.a", "online": "true", "download": "https://pixeldrain.com/u/paBamqWL", "avvii": null, "exe": "PEAK.exe", "dipendenze": "steam.exe", "disinstallazione": ""},
+    {"nome_gioco": "SILENT HILL 2", "steamdbid": "2124490", "versione": "v.1.1", "online": "false", "download": "https://pixeldrain.com/u/E8G6KexS", "avvii": null, "exe": "SHProto.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "My Summer Car", "steamdbid": "516750", "versione": "v.250120-01", "online": "false", "download": "https://pixeldrain.com/u/hUTZ2R7t", "avvii": null, "exe": "mysummercar.exe", "dipendenze": null, "disinstallazione": null}
   ]
 }
