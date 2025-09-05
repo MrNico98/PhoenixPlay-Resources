@@ -1,10 +1,10 @@
 {
   "Home": [
-    {"nome_gioco": "Gears of War: Reloaded", "steamdbid": "2523720", "versione": "v.1.0.1.3689997", "online": "false", "download": "https://pixeldrain.com/u/Utuu35LG", "avvii": ["Install_EasyAntiCheat.bat"], "exe": "Launch_GOWDE.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "DRAGON BALL: Sparking! ZERO", "steamdbid": "1790600", "versione": "v.2013.012", "online": "true", "download": "https://pixeldrain.com/u/vCcTt6GT", "avvii": null, "exe": "SparkingZERO.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "The Last of Us Part I", "steamdbid": "1888930", "versione": "v.1.1", "online": "false", "download": "https://pixeldrain.com/u/HzVKRydw", "avvii": null, "exe": "launcher.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "ELDEN RING NIGHTREIGN", "steamdbid": "2622380", "versione": "v.1.02", "online": "true", "download": "https://pixeldrain.com/u/A9TfPtsK", "avvii": null, "exe": "nrsc_launcher.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "WUCHANG: Fallen Feathers", "steamdbid": "2277560", "versione": "v.178626", "online": "false", "download": "https://pixeldrain.com/u/gaKKahg2", "avvii": null, "exe": "Project_Plague.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Raft", "steamdbid": "648800", "versione": "v.1.09", "online": "true", "download": "https://pixeldrain.com/u/aqL5La5d", "avvii": null, "exe": "Raft.exe", "dipendenze": null, "disinstallazione": null}
+    {"nome_gioco": "Lies of P", "steamdbid": "1627720", "versione": "v.1.11", "online": "false", "download": "https://pixeldrain.com/u/L7mgPbxr", "avvii": null, "exe": "LOP.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Cities: Skylines II", "steamdbid": "949230", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/PNz5Ae4g", "avvii": null, "exe": "Cities2.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Far Cry 5: Gold Edition", "steamdbid": "761820", "versione": "v.1.011", "online": "false", "download": "https://pixeldrain.com/u/4rVT9ra5", "avvii": ["Language Selector.exe"], "exe": "FarCry5.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Palworld", "steamdbid": "1623730", "versione": "v.0.6", "online": "true", "download": "https://pixeldrain.com/u/CGe1z8Sn", "avvii": null, "exe": "wdapp.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "DARK SOULS III", "steamdbid": "374320", "versione": "v.1.15", "online": "false", "download": "https://pixeldrain.com/u/GfaCgGBw", "avvii": null, "exe": "DarkSoulsIII.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Cronos: The New Dawn", "steamdbid": "2101960", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/XdobAwHV", "avvii": null, "exe": "Cronos.exe", "dipendenze": null, "disinstallazione": null}
   ]
 }
