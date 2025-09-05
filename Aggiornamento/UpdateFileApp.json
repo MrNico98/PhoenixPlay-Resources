@@ -1,13 +1,13 @@
 {
-  "version": "0.0.0.2",
+  "version": "0.0.0.3",
   "releaseNotes": {
     "IT": [
-      "Aggiunta ricerca automatica file exe",
-      "Aggiunta logica delle pagine su catalogo"
+      "Fix errore download",
+      "Fix chiamata API steam"
     ],
     "EN": [
-      "Added automatic search for .exe files",
-      "Added catalog page logic"
+      "Fix download error",
+      "Fix Steam API call"
     ]
   },
   "updateUrl": "https://github.com/MrNico98/PhoenixPlay-Resources/releases/download/Requisiti/Phoenix.Play.exe",
