@@ -1,10 +1,10 @@
 {
   "Home": [
-    {"nome_gioco": "Lies of P", "steamdbid": "1627720", "versione": "v.1.11", "online": "false", "download": "https://pixeldrain.com/u/L7mgPbxr", "avvii": null, "exe": "LOP.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Cities: Skylines II", "steamdbid": "949230", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/PNz5Ae4g", "avvii": null, "exe": "Cities2.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Far Cry 5: Gold Edition", "steamdbid": "761820", "versione": "v.1.011", "online": "false", "download": "https://pixeldrain.com/u/4rVT9ra5", "avvii": ["Language Selector.exe"], "exe": "FarCry5.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Palworld", "steamdbid": "1623730", "versione": "v.0.6", "online": "true", "download": "https://pixeldrain.com/u/CGe1z8Sn", "avvii": null, "exe": "wdapp.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "DARK SOULS III", "steamdbid": "374320", "versione": "v.1.15", "online": "false", "download": "https://pixeldrain.com/u/GfaCgGBw", "avvii": null, "exe": "DarkSoulsIII.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Cronos: The New Dawn", "steamdbid": "2101960", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/XdobAwHV", "avvii": null, "exe": "Cronos.exe", "dipendenze": null, "disinstallazione": null}
+    {"nome_gioco": "Cuphead", "steamdbid": "268910", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/Mv2qcaz8", "avvii": null, "exe": "Cuphead.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Family Guy Back to the Multiverse", "steamdbid": "214230", "versione": "v.28086", "online": "false", "download": "https://pixeldrain.com/u/fY9rUphv", "avvii": null, "exe": "FGUY.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "VOID/BREAKER", "steamdbid": "2615540", "versione": "v.0.9.59", "online": "false", "download": "https://pixeldrain.com/u/PazoNMoz", "avvii": null, "exe": "VOIDBREAKER.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "inZOI", "steamdbid": "2456740", "versione": "v.20250825.6945", "online": "false", "download": "https://pixeldrain.com/u/3ihHL5rX", "avvii": null, "exe": "inZOI.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Balatro", "steamdbid": "2379780", "versione": "v.1.0.1o", "online": "false", "download": "https://pixeldrain.com/u/aoqrqm7C", "avvii": null, "exe": "Balatro.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Enotria: The Last Song", "steamdbid": "2102450", "versione": "v.1.007.28161", "online": "false", "download": "https://pixeldrain.com/u/K2NwvLRB", "avvii": null, "exe": "Enotria.exe", "dipendenze": null, "disinstallazione": null}
   ]
 }
