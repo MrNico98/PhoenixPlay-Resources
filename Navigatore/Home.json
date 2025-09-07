@@ -1,10 +1,10 @@
 {
   "Home": [
-    {"nome_gioco": "Cuphead", "steamdbid": "268910", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/Mv2qcaz8", "avvii": null, "exe": "Cuphead.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Elden Ring Deluxe Edition", "steamdbid": "1245620", "versione": "v.1.16.1", "online": "false", "download": "https://pixeldrain.com/u/yRjCLcRG", "avvii": ["Language Selector.exe - collegamento.lnk"], "exe": "eldenring.exe - collegamento.lnk", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Gears of War: Reloaded", "steamdbid": "2523720", "versione": "v.1.0.1.3689997", "online": "false", "download": "https://pixeldrain.com/u/Utuu35LG", "avvii": ["Install_EasyAntiCheat.bat"], "exe": "Launch_GOWDE.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "No Man’s Sky", "steamdbid": "275850", "versione": "v.6.01", "online": "false", "download": "https://pixeldrain.com/u/7hUfDmXq", "avvii": null, "exe": "NMS.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Lies of P", "steamdbid": "1627720", "versione": "v.1.11", "online": "false", "download": "https://pixeldrain.com/u/L7mgPbxr", "avvii": null, "exe": "LOP.exe", "dipendenze": null, "disinstallazione": null},
     {"nome_gioco": "Family Guy Back to the Multiverse", "steamdbid": "214230", "versione": "v.28086", "online": "false", "download": "https://pixeldrain.com/u/fY9rUphv", "avvii": null, "exe": "FGUY.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "VOID/BREAKER", "steamdbid": "2615540", "versione": "v.0.9.59", "online": "false", "download": "https://pixeldrain.com/u/PazoNMoz", "avvii": null, "exe": "VOIDBREAKER.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "inZOI", "steamdbid": "2456740", "versione": "v.20250825.6945", "online": "false", "download": "https://pixeldrain.com/u/3ihHL5rX", "avvii": null, "exe": "inZOI.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Balatro", "steamdbid": "2379780", "versione": "v.1.0.1o", "online": "false", "download": "https://pixeldrain.com/u/aoqrqm7C", "avvii": null, "exe": "Balatro.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Enotria: The Last Song", "steamdbid": "2102450", "versione": "v.1.007.28161", "online": "false", "download": "https://pixeldrain.com/u/K2NwvLRB", "avvii": null, "exe": "Enotria.exe", "dipendenze": null, "disinstallazione": null}
+    {"nome_gioco": "Detroit: Become Human", "steamdbid": "1222140", "versione": "v.20211117", "online": "false", "download": "https://pixeldrain.com/u/RJhxmKnL", "avvii": null, "exe": "DetroitBecomeHuman.exe", "dipendenze": null, "disinstallazione": null}
   ]
 }
