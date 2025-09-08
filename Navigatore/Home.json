@@ -1,10 +1,10 @@
 {
   "Home": [
-    {"nome_gioco": "Elden Ring Deluxe Edition", "steamdbid": "1245620", "versione": "v.1.16.1", "online": "false", "download": "https://pixeldrain.com/u/yRjCLcRG", "avvii": ["Language Selector.exe - collegamento.lnk"], "exe": "eldenring.exe - collegamento.lnk", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Gears of War: Reloaded", "steamdbid": "2523720", "versione": "v.1.0.1.3689997", "online": "false", "download": "https://pixeldrain.com/u/Utuu35LG", "avvii": ["Install_EasyAntiCheat.bat"], "exe": "Launch_GOWDE.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "No Man’s Sky", "steamdbid": "275850", "versione": "v.6.01", "online": "false", "download": "https://pixeldrain.com/u/7hUfDmXq", "avvii": null, "exe": "NMS.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Lies of P", "steamdbid": "1627720", "versione": "v.1.11", "online": "false", "download": "https://pixeldrain.com/u/L7mgPbxr", "avvii": null, "exe": "LOP.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Family Guy Back to the Multiverse", "steamdbid": "214230", "versione": "v.28086", "online": "false", "download": "https://pixeldrain.com/u/fY9rUphv", "avvii": null, "exe": "FGUY.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Detroit: Become Human", "steamdbid": "1222140", "versione": "v.20211117", "online": "false", "download": "https://pixeldrain.com/u/RJhxmKnL", "avvii": null, "exe": "DetroitBecomeHuman.exe", "dipendenze": null, "disinstallazione": null}
+    {"nome_gioco": "Resident Evil Village", "steamdbid": "1196590", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/mFwedpW5", "avvii": null, "exe": "re8.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Hearts of Iron IV", "steamdbid": "394360", "versione": "v.1.16", "online": "false", "download": "https://pixeldrain.com/u/WNxZLxPV", "avvii": null, "exe": "hoi4.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Crime Simulator", "steamdbid": "2737070", "versione": "v.18950554", "online": "true", "download": "https://pixeldrain.com/u/UqJsngAm", "avvii": null, "exe": "Launcher.exe", "dipendenze": "", "disinstallazione": ""},
+    {"nome_gioco": "DARK SOULS II", "steamdbid": "236430", "versione": "v.1.02", "online": "false", "download": "https://pixeldrain.com/u/d5g8jzTL", "avvii": null, "exe": "DarkSoulsII.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "A Plague Tale: Innocence", "steamdbid": "752590", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/sNiCFst1", "avvii": null, "exe": "APlagueTaleInnocence_x64.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Gears of War: Reloaded", "steamdbid": "2523720", "versione": "v.1.0.1.3689997", "online": "false", "download": "https://pixeldrain.com/u/Utuu35LG", "avvii": ["Install_EasyAntiCheat.bat"], "exe": "Launch_GOWDE.exe", "dipendenze": null, "disinstallazione": null}
   ]
 }
