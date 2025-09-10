@@ -1,10 +1,10 @@
 {
   "Home": [
-    {"nome_gioco": "Marvel’s Spider-Man Remastered", "steamdbid": "1817070", "versione": "v.2.1012", "online": "false", "download": "https://pixeldrain.com/u/D1mg2MDb", "avvii": null, "exe": "Spider-Man.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "RESIDENT EVIL 7 biohazard", "steamdbid": "418370", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/z8phzCy5", "avvii": null, "exe": "re7.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Age of Mythology: Extended", "steamdbid": "266840", "versione": "v.2.8", "online": "false", "download": "https://pixeldrain.com/u/QwGLQqaS", "avvii": null, "exe": "AoMX.exe", "dipendenze": "", "disinstallazione": ""},
-    {"nome_gioco": "HITMAN 3", "steamdbid": "1829591", "versione": "v.3.230", "online": "false", "download": "https://pixeldrain.com/u/QfewZa4d", "avvii": null, "exe": "Launcher.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Age of Mythology: Retold", "steamdbid": "1934680", "versione": "v.100.18.27100.0", "online": "false", "download": "https://pixeldrain.com/u/wd4HPHb7", "avvii": null, "exe": "steamclient_loader.exe", "dipendenze": "", "disinstallazione": ""},
-    {"nome_gioco": "Ready or Not", "steamdbid": "1144200", "versione": "v.19222255", "online": "false", "download": "https://pixeldrain.com/u/ew7XEZtR", "avvii": ["InstallEOSServices.bat", "ReadyOrNot.exe"], "exe": "ReadyOrNot.exe", "dipendenze": "", "disinstallazione": "UnistallEOSServices.bat"}
+    {"nome_gioco": "Balatro", "steamdbid": "2379780", "versione": "v.1.0.1o", "online": "false", "download": "https://pixeldrain.com/u/aoqrqm7C", "avvii": null, "exe": "Balatro.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "The Precinct", "steamdbid": "490110", "versione": "v.1.8", "online": "false", "download": "https://pixeldrain.com/u/fbTghnrV", "avvii": null, "exe": "Precinct.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Sifu", "steamdbid": "2138710", "versione": "v.1.28", "online": "false", "download": "https://pixeldrain.com/u/n484A5oG", "avvii": null, "exe": "Sifu.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Devil May Cry 5", "steamdbid": "601150", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/hPRJ27bP", "avvii": null, "exe": "DevilMayCry5.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Resident Evil / biohazard HD REMASTER", "steamdbid": "339340", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/PZPL3KSN", "avvii": null, "exe": "bhd.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Sons Of The Forest", "steamdbid": "1326470", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/KX2jHpdq", "avvii": null, "exe": "SonsOfTheForest.exe", "dipendenze": null, "disinstallazione": null}
   ]
 }
