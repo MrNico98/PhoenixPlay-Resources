@@ -8,7 +8,7 @@ def get_random_games():
     response = requests.get("https://raw.githubusercontent.com/MrNico98/PhoenixPlay-Resources/main/Navigatore/Catalogo.json")
     catalogo = response.json()
     tutti_giochi = catalogo["Catalogo"]
-    return random.sample(tutti_giochi, min(6, len(tutti_giochi)))
+    return random.sample(tutti_giochi, min(4, len(tutti_giochi)))
 
 def update_home_json(giochi):
     home_data = {"Home": []}
