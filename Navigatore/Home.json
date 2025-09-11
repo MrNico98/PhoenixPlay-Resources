@@ -1,10 +1,10 @@
 {
   "Home": [
-    {"nome_gioco": "Balatro", "steamdbid": "2379780", "versione": "v.1.0.1o", "online": "false", "download": "https://pixeldrain.com/u/aoqrqm7C", "avvii": null, "exe": "Balatro.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "The Precinct", "steamdbid": "490110", "versione": "v.1.8", "online": "false", "download": "https://pixeldrain.com/u/fbTghnrV", "avvii": null, "exe": "Precinct.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Sifu", "steamdbid": "2138710", "versione": "v.1.28", "online": "false", "download": "https://pixeldrain.com/u/n484A5oG", "avvii": null, "exe": "Sifu.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Devil May Cry 5", "steamdbid": "601150", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/hPRJ27bP", "avvii": null, "exe": "DevilMayCry5.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Resident Evil / biohazard HD REMASTER", "steamdbid": "339340", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/PZPL3KSN", "avvii": null, "exe": "bhd.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Sons Of The Forest", "steamdbid": "1326470", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/KX2jHpdq", "avvii": null, "exe": "SonsOfTheForest.exe", "dipendenze": null, "disinstallazione": null}
+    {"nome_gioco": "Horizon Zero Dawn Complete Edition", "steamdbid": "1151640", "versione": "v.1.11", "online": "false", "download": "https://pixeldrain.com/u/tfkaWcst", "avvii": null, "exe": "HorizonZeroDawn.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "PAYDAY 3", "steamdbid": "1272080", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/95Lx9fPm", "avvii": null, "exe": "PAYDAY3Client.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Watch Dogs 2", "steamdbid": "447040", "versione": "v.1.17", "online": "false", "download": "https://pixeldrain.com/u/ymKqQbXy", "avvii": null, "exe": "WatchDogs2.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Persona 5 Strikers", "steamdbid": "1382330", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/SfMxa4Ha", "avvii": null, "exe": "game.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Palworld", "steamdbid": "1623730", "versione": "v.0.6", "online": "true", "download": "https://pixeldrain.com/u/CGe1z8Sn", "avvii": null, "exe": "wdapp.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Stronghold Crusader: Definitive Edition", "steamdbid": "3024040", "versione": "v.1.00", "online": "false", "download": "https://pixeldrain.com/u/mnyQSWuK", "avvii": null, "exe": "Stronghold Crusader Definitive Edition.exe", "dipendenze": null, "disinstallazione": null}
   ]
 }
