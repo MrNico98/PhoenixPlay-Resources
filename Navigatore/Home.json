@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Lords of the Fallen", "steamdbid": "1501750", "versione": "v.2.0", "online": "false", "download": "https://pixeldrain.com/u/Qf1Xo9A8", "avvii": null, "exe": "LOTF2.exe", "dipendenze": null, "disinstallazione": null, "size": "45 GB"},
-    {"nome_gioco": "Sekiro: Shadows Die Twice", "steamdbid": "814380", "versione": "v.1.06", "online": "false", "download": "https://pixeldrain.com/u/FyEMMLmx", "avvii": null, "exe": "sekiro.exe", "dipendenze": null, "disinstallazione": null, "size": "25 GB"},
-    {"nome_gioco": "Killing Floor 3", "steamdbid": "1430190", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/4EneXkbA", "avvii": ["EasyAntiCheat_EOS_Setup.exe"], "exe": "start_protected_game.exe", "dipendenze": null, "disinstallazione": null, "size": "30 GB"},
-    {"nome_gioco": "A Plague Tale: Innocence", "steamdbid": "752590", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/sNiCFst1", "avvii": null, "exe": "APlagueTaleInnocence_x64.exe", "dipendenze": null, "disinstallazione": null, "size": "50 GB"}
+    {"nome_gioco": "SILENT HILL 2", "steamdbid": "2124490", "versione": "v.1.1", "online": "false", "download": "https://pixeldrain.com/u/E8G6KexS", "avvii": null, "exe": "SHProto.exe", "dipendenze": null, "disinstallazione": null, "size": "50 GB"},
+    {"nome_gioco": "Age of Mythology: Extended", "steamdbid": "266840", "versione": "v.2.8", "online": "false", "download": "https://pixeldrain.com/u/QwGLQqaS", "avvii": null, "exe": "AoMX.exe", "dipendenze": "", "disinstallazione": "", "size": "3 GB"},
+    {"nome_gioco": "Schedule I", "steamdbid": "3164500", "versione": "v.0.4.0f3", "online": "true", "download": "https://pixeldrain.com/u/5VHHftpM", "avvii": null, "exe": "Schedule I.exe", "dipendenze": "steam.exe", "disinstallazione": "", "size": "8 GB"},
+    {"nome_gioco": "Watch Dogs 2", "steamdbid": "447040", "versione": "v.1.17", "online": "false", "download": "https://pixeldrain.com/u/ymKqQbXy", "avvii": null, "exe": "WatchDogs2.exe", "dipendenze": null, "disinstallazione": null, "size": "44 GB"}
   ]
 }
