@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "SILENT HILL 2", "steamdbid": "2124490", "versione": "v.1.1", "online": "false", "download": "https://pixeldrain.com/u/E8G6KexS", "avvii": null, "exe": "SHProto.exe", "dipendenze": null, "disinstallazione": null, "size": "50 GB"},
-    {"nome_gioco": "Age of Mythology: Extended", "steamdbid": "266840", "versione": "v.2.8", "online": "false", "download": "https://pixeldrain.com/u/QwGLQqaS", "avvii": null, "exe": "AoMX.exe", "dipendenze": "", "disinstallazione": "", "size": "3 GB"},
-    {"nome_gioco": "Schedule I", "steamdbid": "3164500", "versione": "v.0.4.0f3", "online": "true", "download": "https://pixeldrain.com/u/5VHHftpM", "avvii": null, "exe": "Schedule I.exe", "dipendenze": "steam.exe", "disinstallazione": "", "size": "8 GB"},
-    {"nome_gioco": "Watch Dogs 2", "steamdbid": "447040", "versione": "v.1.17", "online": "false", "download": "https://pixeldrain.com/u/ymKqQbXy", "avvii": null, "exe": "WatchDogs2.exe", "dipendenze": null, "disinstallazione": null, "size": "44 GB"}
+    {"nome_gioco": "Drive Beyond Horizons", "steamdbid": "2625420", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/L8Mi1xS8", "avvii": null, "exe": "DriveBeyondHorizons.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "9.8 GB"},
+    {"nome_gioco": "Marvel’s Spider-Man Remastered", "steamdbid": "1817070", "versione": "v.2.1012", "online": "false", "download": "https://pixeldrain.com/u/D1mg2MDb", "avvii": null, "exe": "Spider-Man.exe", "dipendenze": null, "disinstallazione": null, "size": "75 GB"},
+    {"nome_gioco": "Dead Island 2 Gold Edition", "steamdbid": "701160", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/D9PB5k2a", "avvii": null, "exe": "DeadIsland.exe", "dipendenze": null, "disinstallazione": null, "size": "70 GB"},
+    {"nome_gioco": "Lords of the Fallen", "steamdbid": "1501750", "versione": "v.2.0", "online": "false", "download": "https://pixeldrain.com/u/Qf1Xo9A8", "avvii": null, "exe": "LOTF2.exe", "dipendenze": null, "disinstallazione": null, "size": "45 GB"}
   ]
 }
