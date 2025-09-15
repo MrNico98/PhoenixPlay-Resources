@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Drive Beyond Horizons", "steamdbid": "2625420", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/L8Mi1xS8", "avvii": null, "exe": "DriveBeyondHorizons.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "9.8 GB"},
-    {"nome_gioco": "Marvel’s Spider-Man Remastered", "steamdbid": "1817070", "versione": "v.2.1012", "online": "false", "download": "https://pixeldrain.com/u/D1mg2MDb", "avvii": null, "exe": "Spider-Man.exe", "dipendenze": null, "disinstallazione": null, "size": "75 GB"},
-    {"nome_gioco": "Dead Island 2 Gold Edition", "steamdbid": "701160", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/D9PB5k2a", "avvii": null, "exe": "DeadIsland.exe", "dipendenze": null, "disinstallazione": null, "size": "70 GB"},
-    {"nome_gioco": "Lords of the Fallen", "steamdbid": "1501750", "versione": "v.2.0", "online": "false", "download": "https://pixeldrain.com/u/Qf1Xo9A8", "avvii": null, "exe": "LOTF2.exe", "dipendenze": null, "disinstallazione": null, "size": "45 GB"}
+    {"nome_gioco": "Far Cry Primal", "steamdbid": "371660", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/sbwFGBd8", "avvii": null, "exe": "FCPrimal.exe", "dipendenze": null, "disinstallazione": null, "size": "20 GB"},
+    {"nome_gioco": "Stronghold Crusader: Definitive Edition", "steamdbid": "3024040", "versione": "v.1.00", "online": "false", "download": "https://pixeldrain.com/u/mnyQSWuK", "avvii": null, "exe": "Stronghold Crusader Definitive Edition.exe", "dipendenze": null, "disinstallazione": null, "size": "7 GB"},
+    {"nome_gioco": "The Precinct", "steamdbid": "490110", "versione": "v.1.8", "online": "false", "download": "https://pixeldrain.com/u/fbTghnrV", "avvii": null, "exe": "Precinct.exe", "dipendenze": null, "disinstallazione": null, "size": "8 GB"},
+    {"nome_gioco": "A Plague Tale: Innocence", "steamdbid": "752590", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/sNiCFst1", "avvii": null, "exe": "APlagueTaleInnocence_x64.exe", "dipendenze": null, "disinstallazione": null, "size": "50 GB"}
   ]
 }
