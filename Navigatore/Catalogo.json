@@ -101,5 +101,6 @@
     {"nome_gioco":"Sleeping Dogs: Definitive Edition","size":"20 GB","steamdbid":"307690","versione":"v.1.0","online":"false","download":["https://pixeldrain.com/u/mdCo6yCq"],"avvii":null,"exe":"Launcher.exe","dipendenze":null,"disinstallazione":null},
     {"nome_gioco":"Total War: THREE KINGDOMS","size":"60 GB","steamdbid":"779340","versione":"v.1.5","online":"false","download":["https://pixeldrain.com/u/gwfovmML"],"avvii":null,"exe":"Three_Kingdoms.exe","dipendenze":null,"disinstallazione":null},
     {"nome_gioco":"Dragon\u2019s Dogma 2","size":"60 GB","steamdbid":"2054970","versione":"v.1.0","online":"false","download":["https://pixeldrain.com/u/RWBnoF3S"],"avvii":null,"exe":"DD2.exe","dipendenze":null,"disinstallazione":null},
-    {"nome_gioco":"Just Cause 4","size":"64.18 GB","steamdbid":"517630","versione":"v.4110618","online":"false","download":["https://pixeldrain.com/u/65LQcDQr"],"avvii":null,"exe":"JustCause4.exe","dipendenze":null,"disinstallazione":null}
+    {"nome_gioco":"Just Cause 4","size":"64.18 GB","steamdbid":"517630","versione":"v.4110618","online":"false","download":["https://pixeldrain.com/u/65LQcDQr"],"avvii":null,"exe":"JustCause4.exe","dipendenze":null,"disinstallazione":null},
+    {"nome_gioco":"TEST","size":null,"steamdbid":null,"versione":null,"online":null,"download":["https://pixeldrain.com/u/KWdix88b","https://pixeldrain.com/u/GtLY5PPK"],"avvii":null,"exe":null,"dipendenze":null,"disinstallazione":null}
 ]}
