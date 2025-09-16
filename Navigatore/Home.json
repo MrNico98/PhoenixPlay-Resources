@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Far Cry Primal", "steamdbid": "371660", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/sbwFGBd8", "avvii": null, "exe": "FCPrimal.exe", "dipendenze": null, "disinstallazione": null, "size": "20 GB"},
-    {"nome_gioco": "Stronghold Crusader: Definitive Edition", "steamdbid": "3024040", "versione": "v.1.00", "online": "false", "download": "https://pixeldrain.com/u/mnyQSWuK", "avvii": null, "exe": "Stronghold Crusader Definitive Edition.exe", "dipendenze": null, "disinstallazione": null, "size": "7 GB"},
-    {"nome_gioco": "The Precinct", "steamdbid": "490110", "versione": "v.1.8", "online": "false", "download": "https://pixeldrain.com/u/fbTghnrV", "avvii": null, "exe": "Precinct.exe", "dipendenze": null, "disinstallazione": null, "size": "8 GB"},
-    {"nome_gioco": "A Plague Tale: Innocence", "steamdbid": "752590", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/sNiCFst1", "avvii": null, "exe": "APlagueTaleInnocence_x64.exe", "dipendenze": null, "disinstallazione": null, "size": "50 GB"}
+    {"nome_gioco": "Raft", "steamdbid": "648800", "versione": "v.1.09", "online": "true", "download": "https://pixeldrain.com/u/aqL5La5d", "avvii": null, "exe": "Raft.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "10 GB"},
+    {"nome_gioco": "Killing Floor 3", "steamdbid": "1430190", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/4EneXkbA", "avvii": ["EasyAntiCheat_EOS_Setup.exe"], "exe": "start_protected_game.exe", "dipendenze": null, "disinstallazione": null, "size": "30 GB"},
+    {"nome_gioco": "Until Dawn", "steamdbid": "2172010", "versione": "v.1.08", "online": "false", "download": "https://pixeldrain.com/u/n6pKgfd4", "avvii": null, "exe": "Bates.exe", "dipendenze": null, "disinstallazione": null, "size": "70 GB"},
+    {"nome_gioco": "Detroit: Become Human", "steamdbid": "1222140", "versione": "v.20211117", "online": "false", "download": "https://pixeldrain.com/u/qXxn6YAr", "avvii": null, "exe": "DetroitBecomeHuman.exe", "dipendenze": null, "disinstallazione": null, "size": "55 GB"}
   ]
 }
