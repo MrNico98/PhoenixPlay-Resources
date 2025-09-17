@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Raft", "steamdbid": "648800", "versione": "v.1.09", "online": "true", "download": "https://pixeldrain.com/u/aqL5La5d", "avvii": null, "exe": "Raft.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "10 GB"},
-    {"nome_gioco": "Killing Floor 3", "steamdbid": "1430190", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/4EneXkbA", "avvii": ["EasyAntiCheat_EOS_Setup.exe"], "exe": "start_protected_game.exe", "dipendenze": null, "disinstallazione": null, "size": "30 GB"},
-    {"nome_gioco": "Until Dawn", "steamdbid": "2172010", "versione": "v.1.08", "online": "false", "download": "https://pixeldrain.com/u/n6pKgfd4", "avvii": null, "exe": "Bates.exe", "dipendenze": null, "disinstallazione": null, "size": "70 GB"},
-    {"nome_gioco": "Detroit: Become Human", "steamdbid": "1222140", "versione": "v.20211117", "online": "false", "download": "https://pixeldrain.com/u/qXxn6YAr", "avvii": null, "exe": "DetroitBecomeHuman.exe", "dipendenze": null, "disinstallazione": null, "size": "55 GB"}
+    {"nome_gioco": "Crime Simulator", "steamdbid": "2737070", "versione": "v.18950554", "online": "true", "download": "https://pixeldrain.com/u/UqJsngAm", "avvii": null, "exe": "Launcher.exe", "dipendenze": "steam.exe", "disinstallazione": "", "size": "20 GB"},
+    {"nome_gioco": "Daemon X Machina: Titanic Scion", "steamdbid": "1342490", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/f7KxGr8R", "avvii": null, "exe": "Game.exe", "dipendenze": null, "disinstallazione": null, "size": "50 GB"},
+    {"nome_gioco": "Far Cry 5: Gold Edition", "steamdbid": "552520", "versione": "v.1.011", "online": "false", "download": "https://pixeldrain.com/u/4rVT9ra5", "avvii": ["Language Selector.exe"], "exe": "FarCry5.exe", "dipendenze": null, "disinstallazione": null, "size": "75 GB"},
+    {"nome_gioco": "Sifu", "steamdbid": "2138710", "versione": "v.1.28", "online": "false", "download": "https://pixeldrain.com/u/n484A5oG", "avvii": null, "exe": "Sifu.exe", "dipendenze": null, "disinstallazione": null, "size": "24 GB"}
   ]
 }
