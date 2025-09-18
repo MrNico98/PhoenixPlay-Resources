@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Crime Simulator", "steamdbid": "2737070", "versione": "v.18950554", "online": "true", "download": "https://pixeldrain.com/u/UqJsngAm", "avvii": null, "exe": "Launcher.exe", "dipendenze": "steam.exe", "disinstallazione": "", "size": "20 GB"},
-    {"nome_gioco": "Daemon X Machina: Titanic Scion", "steamdbid": "1342490", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/f7KxGr8R", "avvii": null, "exe": "Game.exe", "dipendenze": null, "disinstallazione": null, "size": "50 GB"},
-    {"nome_gioco": "Far Cry 5: Gold Edition", "steamdbid": "552520", "versione": "v.1.011", "online": "false", "download": "https://pixeldrain.com/u/4rVT9ra5", "avvii": ["Language Selector.exe"], "exe": "FarCry5.exe", "dipendenze": null, "disinstallazione": null, "size": "75 GB"},
-    {"nome_gioco": "Sifu", "steamdbid": "2138710", "versione": "v.1.28", "online": "false", "download": "https://pixeldrain.com/u/n484A5oG", "avvii": null, "exe": "Sifu.exe", "dipendenze": null, "disinstallazione": null, "size": "24 GB"}
+    {"nome_gioco": "Forza Motorsport", "size": "130 GB", "steamdbid": "2440510", "versione": "v.1.835.2356.0", "online": "true", "download": "", "download1": ["https://pixeldrain.com/u/SZA1Ss3M", "https://pixeldrain.com/u/yCNWLfAQ"], "avvii": ["ForzaMotorsport_loader.exe"], "exe": "forza_steamworks_release_final.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "F1 22", "steamdbid": "1692250", "versione": "v.1.05", "online": "false", "download": "https://pixeldrain.com/u/onZf3sec", "avvii": null, "exe": "F1_22.exe", "dipendenze": null, "disinstallazione": null, "size": "80 GB"},
+    {"nome_gioco": "Days Gone", "steamdbid": "1259420", "versione": "v1.36.187.0", "online": "false", "download": "https://pixeldrain.com/u/2XciXtmd", "avvii": null, "exe": "Launcher.bat", "dipendenze": null, "disinstallazione": null, "size": "70 GB"},
+    {"nome_gioco": "Thief Simulator 2", "steamdbid": "1332720", "versione": "v.1.27c", "online": "false", "download": "https://pixeldrain.com/u/gvVkSTnq", "avvii": null, "exe": "Thief Simulator 2.exe", "dipendenze": null, "disinstallazione": null, "size": "12 GB"}
   ]
 }
