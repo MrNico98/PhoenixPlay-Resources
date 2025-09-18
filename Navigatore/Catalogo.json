@@ -117,4 +117,6 @@
     {"nome_gioco":"Shape of Dreams","size":"12 GB","steamdbid":"2444750","versione":"v.1.0","online":"true","download":"https://pixeldrain.com/u/uZr1gMDw","avvii":null,"exe":"Shape of Dreams.exe","dipendenze":"steam.exe","disinstallazione":null},
     {"nome_gioco":"Firefighting Simulator Ignite","size":"40 GB","steamdbid":"1669480","versione":"v.19871642","online":"true","download":"https://pixeldrain.com/u/Cewrckn3","avvii":null,"exe":"FFSIgnite.exe","dipendenze":"steam.exe","disinstallazione":null},
     {"nome_gioco":"The Elder Scrolls V: Skyrim Legendary Edition","size":"12 GB","steamdbid":"489830","versione":"v.1.0","online":"false","download":"https://pixeldrain.com/u/YXqX7MMh","avvii":null,"exe":"SkyrimLauncher.exe","dipendenze":null,"disinstallazione":null},
-    {"nome_gioco":"Injustice 2 Legendary Edition","size":"52 GB","steamdbid":"627270","versione":"v.1.0","online":"false","download":"https://pixeldrain.com/u/bLDiTeU4","avvii":null,"exe":"Injustice2.exe","dipendenze":null,"disinstallazione":null}]}
+    {"nome_gioco":"Injustice 2 Legendary Edition","size":"52 GB","steamdbid":"627270","versione":"v.1.0","online":"false","download":"https://pixeldrain.com/u/bLDiTeU4","avvii":null,"exe":"Injustice2.exe","dipendenze":null,"disinstallazione":null},
+    {"nome_gioco":"Formula Legends","size":"7 GB","steamdbid":"3194360","versione":"v.20017489","online":"false","download":"https://pixeldrain.com/u/gmT2XAT3","avvii":null,"exe":"ASC.exe","dipendenze":null,"disinstallazione":null}
+]}
