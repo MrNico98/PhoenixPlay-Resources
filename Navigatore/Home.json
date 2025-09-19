@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Forza Motorsport", "size": "130 GB", "steamdbid": "2440510", "versione": "v.1.835.2356.0", "online": "true", "download": "", "download1": ["https://pixeldrain.com/u/SZA1Ss3M", "https://pixeldrain.com/u/yCNWLfAQ"], "avvii": ["ForzaMotorsport_loader.exe"], "exe": "forza_steamworks_release_final.exe", "dipendenze": "steam.exe", "disinstallazione": null},
-    {"nome_gioco": "F1 22", "steamdbid": "1692250", "versione": "v.1.05", "online": "false", "download": "https://pixeldrain.com/u/onZf3sec", "avvii": null, "exe": "F1_22.exe", "dipendenze": null, "disinstallazione": null, "size": "80 GB"},
-    {"nome_gioco": "Days Gone", "steamdbid": "1259420", "versione": "v1.36.187.0", "online": "false", "download": "https://pixeldrain.com/u/2XciXtmd", "avvii": null, "exe": "Launcher.bat", "dipendenze": null, "disinstallazione": null, "size": "70 GB"},
-    {"nome_gioco": "Thief Simulator 2", "steamdbid": "1332720", "versione": "v.1.27c", "online": "false", "download": "https://pixeldrain.com/u/gvVkSTnq", "avvii": null, "exe": "Thief Simulator 2.exe", "dipendenze": null, "disinstallazione": null, "size": "12 GB"}
+    {"nome_gioco": "Total War: THREE KINGDOMS", "size": "60 GB", "steamdbid": "779340", "versione": "v.1.5", "online": "false", "download": "https://pixeldrain.com/u/gwfovmML", "avvii": null, "exe": "Three_Kingdoms.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Age of Mythology: Extended", "steamdbid": "266840", "versione": "v.2.8", "online": "false", "download": "https://pixeldrain.com/u/QwGLQqaS", "avvii": null, "exe": "AoMX.exe", "dipendenze": "", "disinstallazione": "", "size": "3 GB"},
+    {"nome_gioco": "3dSen PC", "steamdbid": "1147940", "versione": "v.0.9.11", "online": "false", "download": "https://pixeldrain.com/u/mEcunkWy", "avvii": null, "exe": "3dSen.exe", "dipendenze": "", "disinstallazione": "", "size": "500 MB"},
+    {"nome_gioco": "A Plague Tale: Requiem", "size": "55 GB", "steamdbid": "1182900", "versione": "v.1.4", "online": "false", "download": "https://pixeldrain.com/u/L8bgkvA5", "avvii": null, "exe": "APlagueTaleRequiem_x64.exe", "dipendenze": null, "disinstallazione": null}
   ]
 }
