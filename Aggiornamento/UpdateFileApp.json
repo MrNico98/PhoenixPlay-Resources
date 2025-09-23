@@ -1,27 +1,11 @@
 {
-"version": "0.0.0.4",
+"version": "0.0.0.5",
 "releaseNotes": {
 "IT": [
-"Fix Connessione SSL - Risolto problema che causava problemi di connessione con certificati SSL.",
-"Fix Errore Steam - Corretto un problema importante legato a Steam.",
-"Fix Gestione Ricerca e Caratteri Speciali - La ricerca funziona anche con caratteri speciali.",
-"Aggiunto Numero Pagina - Navigazione nel catalogo migliorata.",
-"Aggiunto Supporto ZIP Multipli - Gestione migliorata per titoli molto pesanti.",
-"Aggiunto Tasto in Impostazioni per DNS - Cambio DNS semplificato (richiede admin).",
-"Aggiunto Tasto per Collegamento Desktop - Aggiungi collegamenti sul Desktop.",
-"Aggiunto Tasto per Cartella di Gioco - Accesso rapido alla cartella di gioco.",
-"Aggiunto Dettaglio sul Peso del Gioco - Visualizza spazio necessario per l'installazione."
+"Fix Estrazione requisito"
 ],
 "EN": [
-"SSL Connection Fix - Resolved issues causing problems with SSL certificate connections.",
-"Steam Error Fix - Fixed a major issue related to Steam.",
-"Search and Special Characters Fix - Title search now works correctly with special characters.",
-"Added Page Number - Easier catalog navigation.",
-"Added Multi-ZIP Support - Improved handling for very large titles.",
-"Added DNS Button in Settings - Change DNS with one click (requires admin privileges).",
-"Added Desktop Shortcut Button - Add executable shortcuts to your Desktop.",
-"Added Game Folder Button - Quick access to game installation folders.",
-"Added Game Size Detail - View required free space for installation next to each title."
+"Fix extraction zip"
 ]
 },
 "updateUrl": "https://github.com/MrNico98/PhoenixPlay-Resources/releases/download/Requisiti/Phoenix.Play.exe"
