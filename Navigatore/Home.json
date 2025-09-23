@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Resident Evil / biohazard HD REMASTER", "steamdbid": "304240", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/PZPL3KSN", "avvii": null, "exe": "bhd.exe", "dipendenze": null, "disinstallazione": null, "size": "20 GB"},
-    {"nome_gioco": "F1 2012", "steamdbid": "208500", "versione": "v.1.3.3.0", "online": "false", "download": "https://pixeldrain.com/u/7KJ6Fkx6", "avvii": null, "exe": "F1_2012.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Total War: ROME II Emperor Edition", "size": null, "steamdbid": "214950", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/KC9btnwF", "avvii": null, "exe": "Rome2.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "RESIDENT EVIL 7 biohazard", "steamdbid": "418370", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/z8phzCy5", "avvii": null, "exe": "re7.exe", "dipendenze": null, "disinstallazione": null, "size": "56 GB"}
+    {"nome_gioco": "BeamNG.drive", "steamdbid": "284160", "versione": "v.0.36.2.0", "online": "true", "download": "https://pixeldrain.com/u/u9P6QpWD", "avvii": null, "exe": "BeamNG.drive.exe", "dipendenze": "steam.exe", "disinstallazione": "", "size": "18 GB"},
+    {"nome_gioco": "Indiana Jones e l'Antico Cerchio", "size": "137 GB", "steamdbid": "2677660", "versione": "v.1.0.9.0", "online": "false", "download": "", "download1": ["https://pixeldrain.com/u/szBoHvyy", "https://pixeldrain.com/u/wkWvd3cV"], "avvii": ["language.changer.exe"], "exe": "TheGreatCircle.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "ARMORED CORE VI FIRES OF RUBICON", "size": "60 GB", "steamdbid": "1888160", "versione": "v.1.07", "online": "false", "download": "https://pixeldrain.com/u/N54boFq7", "avvii": null, "exe": "start_protected_game.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Marvels Spider-Man Miles Morales", "steamdbid": "1817190", "versione": "v.3.617.1.0", "online": "false", "download": "https://pixeldrain.com/u/ihJkrFdC", "avvii": null, "exe": "MilesMorales.exe", "dipendenze": null, "disinstallazione": null, "size": "75 GB"}
   ]
 }
