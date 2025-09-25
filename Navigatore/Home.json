@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Door Kickers 2: Task Force North", "size": "1 GB", "steamdbid": "1239080", "versione": "v.1.10", "online": "false", "download": "https://pixeldrain.com/u/H2PQkWyB", "avvii": null, "exe": "DoorKickers2.exe", "dipendenze": "steam .exe", "disinstallazione": null},
-    {"nome_gioco": "HITMAN 3", "steamdbid": "1829591", "versione": "v.3.230", "online": "false", "download": "https://pixeldrain.com/u/QfewZa4d", "avvii": null, "exe": "Launcher.exe", "dipendenze": null, "disinstallazione": null, "size": "71.9 GB"},
-    {"nome_gioco": "Palworld", "steamdbid": "1623730", "versione": "v.0.6", "online": "true", "download": "https://pixeldrain.com/u/CGe1z8Sn", "avvii": null, "exe": "wdapp.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "40 GB"},
-    {"nome_gioco": "Elden Ring Deluxe Edition", "steamdbid": "1245620", "versione": "v.1.16.1", "online": "false", "download": "https://pixeldrain.com/u/yRjCLcRG", "avvii": ["Language Selector.exe - collegamento.lnk"], "exe": "eldenring.exe - collegamento.lnk", "dipendenze": null, "disinstallazione": null, "size": "67 GB"}
+    {"nome_gioco": "Resident Evil / biohazard HD REMASTER", "steamdbid": "304240", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/PZPL3KSN", "avvii": null, "exe": "bhd.exe", "dipendenze": null, "disinstallazione": null, "size": "20 GB"},
+    {"nome_gioco": "DREDGE", "size": "2 GB", "steamdbid": "1562430", "versione": "v.1.5", "online": "false", "download": "https://pixeldrain.com/u/Yr7nBAsR", "avvii": null, "exe": "DREDGE.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Terraria", "steamdbid": "105600", "versione": "v.1.4", "online": "true", "download": "https://pixeldrain.com/u/oMnMgmqv", "avvii": null, "exe": "Terraria.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "552 MB"},
+    {"nome_gioco": "Resident Evil Village", "steamdbid": "1196590", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/mFwedpW5", "avvii": null, "exe": "re8.exe", "dipendenze": null, "disinstallazione": null, "size": "34.8 GB"}
   ]
 }
