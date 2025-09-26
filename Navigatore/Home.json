@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Resident Evil / biohazard HD REMASTER", "steamdbid": "304240", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/PZPL3KSN", "avvii": null, "exe": "bhd.exe", "dipendenze": null, "disinstallazione": null, "size": "20 GB"},
-    {"nome_gioco": "DREDGE", "size": "2 GB", "steamdbid": "1562430", "versione": "v.1.5", "online": "false", "download": "https://pixeldrain.com/u/Yr7nBAsR", "avvii": null, "exe": "DREDGE.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Terraria", "steamdbid": "105600", "versione": "v.1.4", "online": "true", "download": "https://pixeldrain.com/u/oMnMgmqv", "avvii": null, "exe": "Terraria.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "552 MB"},
-    {"nome_gioco": "Resident Evil Village", "steamdbid": "1196590", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/mFwedpW5", "avvii": null, "exe": "re8.exe", "dipendenze": null, "disinstallazione": null, "size": "34.8 GB"}
+    {"nome_gioco": "Hearts of Iron IV", "steamdbid": "394360", "versione": "v.1.16", "online": "false", "download": "https://pixeldrain.com/u/WNxZLxPV", "avvii": null, "exe": "hoi4.exe", "dipendenze": null, "disinstallazione": null, "size": "5.23 GB"},
+    {"nome_gioco": "Devil May Cry 5", "steamdbid": "601150", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/hPRJ27bP", "avvii": null, "exe": "DevilMayCry5.exe", "dipendenze": null, "disinstallazione": null, "size": "40.6 GB"},
+    {"nome_gioco": "Ghost Of Tsushima DIRECTOR’S CUT", "steamdbid": "2215430", "versione": "v.1053.7", "online": "false", "download": "https://pixeldrain.com/u/WwLuEGP8", "avvii": null, "exe": "GhostOfTsushima.exe", "dipendenze": null, "disinstallazione": null, "size": "65 GB"},
+    {"nome_gioco": "A Total War Saga: THRONES OF BRITANNIA", "size": "30 GB", "steamdbid": "712100", "versione": "v.1.2", "online": "false", "download": "https://pixeldrain.com/u/1NF9QZD5", "avvii": null, "exe": "thrones.exe", "dipendenze": null, "disinstallazione": null}
   ]
 }
