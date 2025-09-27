@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Hearts of Iron IV", "steamdbid": "394360", "versione": "v.1.16", "online": "false", "download": "https://pixeldrain.com/u/WNxZLxPV", "avvii": null, "exe": "hoi4.exe", "dipendenze": null, "disinstallazione": null, "size": "5.23 GB"},
-    {"nome_gioco": "Devil May Cry 5", "steamdbid": "601150", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/hPRJ27bP", "avvii": null, "exe": "DevilMayCry5.exe", "dipendenze": null, "disinstallazione": null, "size": "40.6 GB"},
-    {"nome_gioco": "Ghost Of Tsushima DIRECTOR’S CUT", "steamdbid": "2215430", "versione": "v.1053.7", "online": "false", "download": "https://pixeldrain.com/u/WwLuEGP8", "avvii": null, "exe": "GhostOfTsushima.exe", "dipendenze": null, "disinstallazione": null, "size": "65 GB"},
-    {"nome_gioco": "A Total War Saga: THRONES OF BRITANNIA", "size": "30 GB", "steamdbid": "712100", "versione": "v.1.2", "online": "false", "download": "https://pixeldrain.com/u/1NF9QZD5", "avvii": null, "exe": "thrones.exe", "dipendenze": null, "disinstallazione": null}
+    {"nome_gioco": "Supermarket Simulator", "steamdbid": "2670630", "versione": "v.1.0.2", "online": "false", "download": "https://pixeldrain.com/u/eFgVxcB2", "avvii": null, "exe": "Supermarket Simulator.exe", "dipendenze": null, "disinstallazione": null, "size": "5 GB"},
+    {"nome_gioco": "Pinball FX", "steamdbid": "2328760", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/Yg4qFuxm", "avvii": null, "exe": "PinballFX.exe", "dipendenze": null, "disinstallazione": null, "size": "37.6 GB"},
+    {"nome_gioco": "Stick It to the Stickman", "steamdbid": "2085540", "versione": "v.19661041", "online": "false", "download": "https://pixeldrain.com/u/zX1qg7AC", "avvii": null, "exe": "Stick It To The Stickman.exe", "dipendenze": null, "disinstallazione": null, "size": "6 GB"},
+    {"nome_gioco": "The Operator", "size": "3 GB", "steamdbid": "1771980", "versione": "v.2.3", "online": "false", "download": "https://pixeldrain.com/u/qJNdbRvH", "avvii": null, "exe": "OPERATOR.exe", "dipendenze": null, "disinstallazione": null}
   ]
 }
