@@ -1,11 +1,11 @@
 {
-"version": "0.0.0.5",
+"version": "0.0.0.6",
 "releaseNotes": {
 "IT": [
-"Fix Estrazione requisito"
+"Aggiunto cambio DNS per IPv6"
 ],
 "EN": [
-"Fix extraction zip"
+"Added DNS switching for IPv6"
 ]
 },
 "updateUrl": "https://github.com/MrNico98/PhoenixPlay-Resources/releases/download/Requisiti/Phoenix.Play.exe"
