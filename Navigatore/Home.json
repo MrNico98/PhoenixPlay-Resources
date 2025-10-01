@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Enotria: The Last Song", "steamdbid": "2102450", "versione": "v.1.007.28161", "online": "false", "download": "https://pixeldrain.com/u/K2NwvLRB", "avvii": null, "exe": "Enotria.exe", "dipendenze": null, "disinstallazione": null, "size": "50 GB"},
-    {"nome_gioco": "WUCHANG: Fallen Feathers", "steamdbid": "2277560", "versione": "v.178626", "online": "false", "download": "https://pixeldrain.com/u/gaKKahg2", "avvii": null, "exe": "Project_Plague.exe", "dipendenze": null, "disinstallazione": null, "size": "60 GB"},
-    {"nome_gioco": "God of War", "steamdbid": "1593500", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/KKLQrdkm", "avvii": null, "exe": "GoW.exe", "dipendenze": null, "disinstallazione": null, "size": "70 GB"},
-    {"nome_gioco": "Dying Light: The Beast", "size": "70 GB", "steamdbid": "3008130", "versione": "v.1.2", "online": "true", "download": "https://pixeldrain.com/u/4UNefDYC", "avvii": null, "exe": "DyingLightGame_TheBeast_x64_rwdi.exe", "dipendenze": "steam.exe", "disinstallazione": null}
+    {"nome_gioco": "Sleeping Dogs: Definitive Edition", "size": "20 GB", "steamdbid": "307690", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/mdCo6yCq", "avvii": null, "exe": "Launcher.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Clair Obscur: Expedition 33", "steamdbid": "1903340", "versione": "v.57069", "online": "false", "download": "https://pixeldrain.com/u/E6vFTBBA", "avvii": null, "exe": "Expedition33_Steam.exe", "dipendenze": null, "disinstallazione": null, "size": "55 GB"},
+    {"nome_gioco": "PEAK", "size": "4 GB", "steamdbid": "3527290", "versione": "v.1.29", "online": "true", "download": "https://pixeldrain.com/u/4Jzr99MN", "avvii": null, "exe": "PEAK.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "Hollow Knight: Silksong", "steamdbid": "1030300", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/vJqnirLT", "avvii": null, "exe": "Hollow Knight Silksong.exe", "dipendenze": null, "disinstallazione": null, "size": "8 GB"}
   ]
 }
