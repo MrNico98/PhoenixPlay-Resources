@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Sleeping Dogs: Definitive Edition", "size": "20 GB", "steamdbid": "307690", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/mdCo6yCq", "avvii": null, "exe": "Launcher.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Clair Obscur: Expedition 33", "steamdbid": "1903340", "versione": "v.57069", "online": "false", "download": "https://pixeldrain.com/u/E6vFTBBA", "avvii": null, "exe": "Expedition33_Steam.exe", "dipendenze": null, "disinstallazione": null, "size": "55 GB"},
-    {"nome_gioco": "PEAK", "size": "4 GB", "steamdbid": "3527290", "versione": "v.1.29", "online": "true", "download": "https://pixeldrain.com/u/4Jzr99MN", "avvii": null, "exe": "PEAK.exe", "dipendenze": "steam.exe", "disinstallazione": null},
-    {"nome_gioco": "Hollow Knight: Silksong", "steamdbid": "1030300", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/vJqnirLT", "avvii": null, "exe": "Hollow Knight Silksong.exe", "dipendenze": null, "disinstallazione": null, "size": "8 GB"}
+    {"nome_gioco": "Sons Of The Forest", "steamdbid": "1326470", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/KX2jHpdq", "avvii": null, "exe": "SonsOfTheForest.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "20 GB"},
+    {"nome_gioco": "Assassin’s Creed Syndicate Gold Edition", "steamdbid": "368500", "versione": "v.1.51", "online": "false", "download": "https://pixeldrain.com/u/9wrhQqsn", "avvii": null, "exe": "ACS.exe", "dipendenze": null, "disinstallazione": null, "size": "48.3 GB"},
+    {"nome_gioco": "F1 22", "steamdbid": "1692250", "versione": "v.1.05", "online": "false", "download": "https://pixeldrain.com/u/onZf3sec", "avvii": null, "exe": "F1_22.exe", "dipendenze": null, "disinstallazione": null, "size": "80 GB"},
+    {"nome_gioco": "Thief Simulator 2", "steamdbid": "1332720", "versione": "v.1.27c", "online": "false", "download": "https://pixeldrain.com/u/gvVkSTnq", "avvii": null, "exe": "Thief Simulator 2.exe", "dipendenze": null, "disinstallazione": null, "size": "12 GB"}
   ]
 }
