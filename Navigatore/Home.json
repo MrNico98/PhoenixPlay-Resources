@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Cuphead", "steamdbid": "268910", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/Mv2qcaz8", "avvii": null, "exe": "Cuphead.exe", "dipendenze": null, "disinstallazione": null, "size": "4.6 GB"},
-    {"nome_gioco": "Marvel’s Spider-Man Remastered", "steamdbid": "1817070", "versione": "v.2.1012", "online": "false", "download": "https://pixeldrain.com/u/D1mg2MDb", "avvii": null, "exe": "Spider-Man.exe", "dipendenze": null, "disinstallazione": null, "size": "75 GB"},
-    {"nome_gioco": "Marvels Spider-Man Miles Morales", "steamdbid": "1817190", "versione": "v.3.617.1.0", "online": "false", "download": "https://pixeldrain.com/u/ihJkrFdC", "avvii": null, "exe": "MilesMorales.exe", "dipendenze": null, "disinstallazione": null, "size": "75 GB"},
-    {"nome_gioco": "inZOI", "steamdbid": "2456740", "versione": "v.20250825.6945", "online": "false", "download": "https://pixeldrain.com/u/3ihHL5rX", "avvii": null, "exe": "inZOI.exe", "dipendenze": null, "disinstallazione": null, "size": "26 GB"}
+    {"nome_gioco": "Terraria", "steamdbid": "105600", "versione": "v.1.4", "online": "true", "download": "https://pixeldrain.com/u/oMnMgmqv", "avvii": null, "exe": "Terraria.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "552 MB"},
+    {"nome_gioco": "Crime Simulator", "steamdbid": "2737070", "versione": "v.18950554", "online": "true", "download": "https://pixeldrain.com/u/UqJsngAm", "avvii": null, "exe": "Launcher.exe", "dipendenze": "steam.exe", "disinstallazione": "", "size": "20 GB"},
+    {"nome_gioco": "PEAK", "size": "4 GB", "steamdbid": "3527290", "versione": "v.1.29", "online": "true", "download": "https://pixeldrain.com/u/4Jzr99MN", "avvii": null, "exe": "PEAK.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "Dead Island 2 Gold Edition", "steamdbid": "701160", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/D9PB5k2a", "avvii": null, "exe": "DeadIsland.exe", "dipendenze": null, "disinstallazione": null, "size": "70 GB"}
   ]
 }
