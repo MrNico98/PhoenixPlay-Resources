@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Geometry Dash", "size": "100 MB", "steamdbid": "322170", "versione": "v.2.2074", "online": "false", "download": "https://pixeldrain.com/u/ohuPka9q", "avvii": null, "exe": "GeometryDash.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Door Kickers 2: Task Force North", "size": "1 GB", "steamdbid": "1239080", "versione": "v.1.10", "online": "false", "download": "https://pixeldrain.com/u/H2PQkWyB", "avvii": null, "exe": "DoorKickers2.exe", "dipendenze": "steam .exe", "disinstallazione": null},
-    {"nome_gioco": "Mafia III: Definitive Edition", "size": "50 GB", "steamdbid": "360430", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/1Q1usxyb", "avvii": null, "exe": "Launcher.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Total War: ROME II Emperor Edition", "size": null, "steamdbid": "214950", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/KC9btnwF", "avvii": null, "exe": "Rome2.exe", "dipendenze": null, "disinstallazione": null}
+    {"nome_gioco": "Crime Simulator", "steamdbid": "2737070", "versione": "v.18950554", "online": "true", "download": "https://pixeldrain.com/u/UqJsngAm", "avvii": null, "exe": "Launcher.exe", "dipendenze": "steam.exe", "disinstallazione": "", "size": "20 GB"},
+    {"nome_gioco": "Enotria: The Last Song", "steamdbid": "2102450", "versione": "v.1.007.28161", "online": "false", "download": "https://pixeldrain.com/u/K2NwvLRB", "avvii": null, "exe": "Enotria.exe", "dipendenze": null, "disinstallazione": null, "size": "50 GB"},
+    {"nome_gioco": "The Operator", "size": "3 GB", "steamdbid": "1771980", "versione": "v.2.3", "online": "false", "download": "https://pixeldrain.com/u/qJNdbRvH", "avvii": null, "exe": "OPERATOR.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Geometry Dash", "size": "100 MB", "steamdbid": "322170", "versione": "v.2.2074", "online": "false", "download": "https://pixeldrain.com/u/ohuPka9q", "avvii": null, "exe": "GeometryDash.exe", "dipendenze": null, "disinstallazione": null}
   ]
 }
