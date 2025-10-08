@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Dead Rising 2", "size": "30 GB", "steamdbid": "45740", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/qTzyAuZP", "avvii": null, "exe": "deadrising2.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Indiana Jones e l'Antico Cerchio", "size": "137 GB", "steamdbid": "2677660", "versione": "v.1.0.9.0", "online": "false", "download": "", "download1": ["https://pixeldrain.com/u/szBoHvyy", "https://pixeldrain.com/u/wkWvd3cV"], "avvii": ["language.changer.exe"], "exe": "TheGreatCircle.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "DARK SOULS: REMASTERED", "steamdbid": "570940", "versione": "v.1.03", "online": "false", "download": "https://pixeldrain.com/u/jA94ZgmU", "avvii": null, "exe": "DarkSoulsRemastered.exe", "dipendenze": null, "disinstallazione": null, "size": "8 GB"},
-    {"nome_gioco": "Storage Hunter Simulator", "steamdbid": "1442430", "versione": "v.17512746", "online": "false", "download": "https://pixeldrain.com/u/5cwcUZVg", "avvii": null, "exe": "StorageHunter.exe", "dipendenze": null, "disinstallazione": null, "size": "8.6 GB"}
+    {"nome_gioco": "Conan Exiles", "size": "115 GB", "steamdbid": "440900", "versione": "v.4.7", "online": "true", "download": "https://pixeldrain.com/u/HrwSr6Fr", "avvii": null, "exe": "ConanSandbox.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "Total War: THREE KINGDOMS", "size": "60 GB", "steamdbid": "779340", "versione": "v.1.5", "online": "false", "download": "https://pixeldrain.com/u/gwfovmML", "avvii": null, "exe": "Three_Kingdoms.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Lords of the Fallen", "steamdbid": "1501750", "versione": "v.2.0", "online": "false", "download": "https://pixeldrain.com/u/Qf1Xo9A8", "avvii": null, "exe": "LOTF2.exe", "dipendenze": null, "disinstallazione": null, "size": "45 GB"},
+    {"nome_gioco": "RESIDENT EVIL 7 biohazard", "steamdbid": "418370", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/z8phzCy5", "avvii": null, "exe": "re7.exe", "dipendenze": null, "disinstallazione": null, "size": "56 GB"}
   ]
 }
