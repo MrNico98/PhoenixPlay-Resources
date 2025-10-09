@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Conan Exiles", "size": "115 GB", "steamdbid": "440900", "versione": "v.4.7", "online": "true", "download": "https://pixeldrain.com/u/HrwSr6Fr", "avvii": null, "exe": "ConanSandbox.exe", "dipendenze": "steam.exe", "disinstallazione": null},
-    {"nome_gioco": "Total War: THREE KINGDOMS", "size": "60 GB", "steamdbid": "779340", "versione": "v.1.5", "online": "false", "download": "https://pixeldrain.com/u/gwfovmML", "avvii": null, "exe": "Three_Kingdoms.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Lords of the Fallen", "steamdbid": "1501750", "versione": "v.2.0", "online": "false", "download": "https://pixeldrain.com/u/Qf1Xo9A8", "avvii": null, "exe": "LOTF2.exe", "dipendenze": null, "disinstallazione": null, "size": "45 GB"},
-    {"nome_gioco": "RESIDENT EVIL 7 biohazard", "steamdbid": "418370", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/z8phzCy5", "avvii": null, "exe": "re7.exe", "dipendenze": null, "disinstallazione": null, "size": "56 GB"}
+    {"nome_gioco": "Cyberpunk 2077", "steamdbid": "1091500", "versione": "v.2.3", "online": "false", "download": "https://pixeldrain.com/u/VZyn8FSu", "avvii": null, "exe": "REDprelauncher.exe", "dipendenze": null, "disinstallazione": null, "size": "89.1 GB"},
+    {"nome_gioco": "Marvel’s Spider-Man Remastered", "steamdbid": "1817070", "versione": "v.2.1012", "online": "false", "download": "https://pixeldrain.com/u/D1mg2MDb", "avvii": null, "exe": "Spider-Man.exe", "dipendenze": null, "disinstallazione": null, "size": "75 GB"},
+    {"nome_gioco": "Gears of War: Reloaded", "steamdbid": "2523720", "versione": "v.1.0.1.3689997", "online": "false", "download": "https://pixeldrain.com/u/Utuu35LG", "avvii": ["Install_EasyAntiCheat.bat"], "exe": "Launch_GOWDE.exe", "dipendenze": null, "disinstallazione": null, "size": "70 GB"},
+    {"nome_gioco": "GROUND BRANCH", "steamdbid": "16900", "versione": "v.31072025", "online": "true", "download": "https://pixeldrain.com/u/GPf1keN7", "avvii": null, "exe": "GroundBranch.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "41.5 GB"}
   ]
 }
