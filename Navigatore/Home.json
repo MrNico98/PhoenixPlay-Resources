@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Cyberpunk 2077", "steamdbid": "1091500", "versione": "v.2.3", "online": "false", "download": "https://pixeldrain.com/u/VZyn8FSu", "avvii": null, "exe": "REDprelauncher.exe", "dipendenze": null, "disinstallazione": null, "size": "89.1 GB"},
-    {"nome_gioco": "Marvel’s Spider-Man Remastered", "steamdbid": "1817070", "versione": "v.2.1012", "online": "false", "download": "https://pixeldrain.com/u/D1mg2MDb", "avvii": null, "exe": "Spider-Man.exe", "dipendenze": null, "disinstallazione": null, "size": "75 GB"},
-    {"nome_gioco": "Gears of War: Reloaded", "steamdbid": "2523720", "versione": "v.1.0.1.3689997", "online": "false", "download": "https://pixeldrain.com/u/Utuu35LG", "avvii": ["Install_EasyAntiCheat.bat"], "exe": "Launch_GOWDE.exe", "dipendenze": null, "disinstallazione": null, "size": "70 GB"},
-    {"nome_gioco": "GROUND BRANCH", "steamdbid": "16900", "versione": "v.31072025", "online": "true", "download": "https://pixeldrain.com/u/GPf1keN7", "avvii": null, "exe": "GroundBranch.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "41.5 GB"}
+    {"nome_gioco": "Palworld", "steamdbid": "1623730", "versione": "v.0.6", "online": "true", "download": "https://pixeldrain.com/u/CGe1z8Sn", "avvii": null, "exe": "wdapp.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "40 GB"},
+    {"nome_gioco": "Broken Arrow", "steamdbid": "1604270", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/GVjQL4wg", "avvii": null, "exe": "BrokenArrow.exe", "dipendenze": null, "disinstallazione": null, "size": "85 GB"},
+    {"nome_gioco": "Cronos: The New Dawn", "steamdbid": "2101960", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/XdobAwHV", "avvii": null, "exe": "Cronos.exe", "dipendenze": null, "disinstallazione": null, "size": "30 GB"},
+    {"nome_gioco": "Hollow Knight: Silksong", "steamdbid": "1030300", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/vJqnirLT", "avvii": null, "exe": "Hollow Knight Silksong.exe", "dipendenze": null, "disinstallazione": null, "size": "8 GB"}
   ]
 }
