@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Palworld", "steamdbid": "1623730", "versione": "v.0.6", "online": "true", "download": "https://pixeldrain.com/u/CGe1z8Sn", "avvii": null, "exe": "wdapp.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "40 GB"},
-    {"nome_gioco": "Broken Arrow", "steamdbid": "1604270", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/GVjQL4wg", "avvii": null, "exe": "BrokenArrow.exe", "dipendenze": null, "disinstallazione": null, "size": "85 GB"},
+    {"nome_gioco": "Killing Floor 3", "steamdbid": "1430190", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/4EneXkbA", "avvii": ["EasyAntiCheat_EOS_Setup.exe"], "exe": "start_protected_game.exe", "dipendenze": null, "disinstallazione": null, "size": "30 GB"},
+    {"nome_gioco": "Metro 2033 Redux", "steamdbid": "286690", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/xQAcok6m", "avvii": null, "exe": "metro.exe", "dipendenze": null, "disinstallazione": null, "size": "10 GB"},
     {"nome_gioco": "Cronos: The New Dawn", "steamdbid": "2101960", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/XdobAwHV", "avvii": null, "exe": "Cronos.exe", "dipendenze": null, "disinstallazione": null, "size": "30 GB"},
-    {"nome_gioco": "Hollow Knight: Silksong", "steamdbid": "1030300", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/vJqnirLT", "avvii": null, "exe": "Hollow Knight Silksong.exe", "dipendenze": null, "disinstallazione": null, "size": "8 GB"}
+    {"nome_gioco": "Clair Obscur: Expedition 33", "steamdbid": "1903340", "versione": "v.57069", "online": "false", "download": "https://pixeldrain.com/u/E6vFTBBA", "avvii": null, "exe": "Expedition33_Steam.exe", "dipendenze": null, "disinstallazione": null, "size": "55 GB"}
   ]
 }
