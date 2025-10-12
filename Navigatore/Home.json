@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Killing Floor 3", "steamdbid": "1430190", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/4EneXkbA", "avvii": ["EasyAntiCheat_EOS_Setup.exe"], "exe": "start_protected_game.exe", "dipendenze": null, "disinstallazione": null, "size": "30 GB"},
-    {"nome_gioco": "Metro 2033 Redux", "steamdbid": "286690", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/xQAcok6m", "avvii": null, "exe": "metro.exe", "dipendenze": null, "disinstallazione": null, "size": "10 GB"},
-    {"nome_gioco": "Cronos: The New Dawn", "steamdbid": "2101960", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/XdobAwHV", "avvii": null, "exe": "Cronos.exe", "dipendenze": null, "disinstallazione": null, "size": "30 GB"},
-    {"nome_gioco": "Clair Obscur: Expedition 33", "steamdbid": "1903340", "versione": "v.57069", "online": "false", "download": "https://pixeldrain.com/u/E6vFTBBA", "avvii": null, "exe": "Expedition33_Steam.exe", "dipendenze": null, "disinstallazione": null, "size": "55 GB"}
+    {"nome_gioco": "Age of Empires II: Definitive", "size": "30 GB", "steamdbid": "813780", "versione": "v.101.103", "online": "false", "download": "https://pixeldrain.com/u/s5usoZUv", "avvii": null, "exe": "AoE2DE_s.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Thief Simulator 2", "steamdbid": "1332720", "versione": "v.1.27c", "online": "false", "download": "https://pixeldrain.com/u/gvVkSTnq", "avvii": null, "exe": "Thief Simulator 2.exe", "dipendenze": null, "disinstallazione": null, "size": "12 GB"},
+    {"nome_gioco": "Schedule I", "size": "8 GB", "steamdbid": "3164500", "versione": "v.0.4", "online": "true", "download": "https://pixeldrain.com/u/GidsaN5T", "avvii": null, "exe": "Schedule I.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "Detroit: Become Human", "steamdbid": "1222140", "versione": "v.20211117", "online": "false", "download": "https://pixeldrain.com/u/qXxn6YAr", "avvii": null, "exe": "DetroitBecomeHuman.exe", "dipendenze": null, "disinstallazione": null, "size": "55 GB"}
   ]
 }
