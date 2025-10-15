@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Lies of P", "steamdbid": "1627720", "versione": "v.1.11", "online": "false", "download": "https://pixeldrain.com/u/L7mgPbxr", "avvii": null, "exe": "LOP.exe", "dipendenze": null, "disinstallazione": null, "size": "55.4 GB"},
-    {"nome_gioco": "Marvel’s Spider-Man Remastered", "steamdbid": "1817070", "versione": "v.2.1012", "online": "false", "download": "https://pixeldrain.com/u/D1mg2MDb", "avvii": null, "exe": "Spider-Man.exe", "dipendenze": null, "disinstallazione": null, "size": "75 GB"},
-    {"nome_gioco": "Killing Floor 3", "steamdbid": "1430190", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/4EneXkbA", "avvii": ["EasyAntiCheat_EOS_Setup.exe"], "exe": "start_protected_game.exe", "dipendenze": null, "disinstallazione": null, "size": "30 GB"},
-    {"nome_gioco": "Palworld", "steamdbid": "1623730", "versione": "v.0.6", "online": "true", "download": "https://pixeldrain.com/u/CGe1z8Sn", "avvii": null, "exe": "wdapp.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "40 GB"}
+    {"nome_gioco": "Pinball FX", "steamdbid": "2328760", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/Yg4qFuxm", "avvii": null, "exe": "PinballFX.exe", "dipendenze": null, "disinstallazione": null, "size": "37.6 GB"},
+    {"nome_gioco": "Total War: THREE KINGDOMS", "size": "60 GB", "steamdbid": "779340", "versione": "v.1.5", "online": "false", "download": "https://pixeldrain.com/u/gwfovmML", "avvii": null, "exe": "Three_Kingdoms.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Mage Arena", "steamdbid": "3716600", "versione": "v.0.7", "online": "true", "download": "https://pixeldrain.com/u/KmQ3m9vH", "avvii": null, "exe": "MageArena.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "2 GB"},
+    {"nome_gioco": "Raft", "steamdbid": "648800", "versione": "v.1.09", "online": "true", "download": "https://pixeldrain.com/u/aqL5La5d", "avvii": null, "exe": "Raft.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "10 GB"}
   ]
 }
