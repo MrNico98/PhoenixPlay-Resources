@@ -1,19 +1,15 @@
 {
-"version": "0.0.0.7",
+"version": "0.0.0.8",
 "releaseNotes": {
 "IT": [
-"Implementato il sistema di aggiornamento per i giochi installati",
-"Migliorata la gestione dei file temporanei e locali",
-"Migliorata la gestione dei download",
-"Corretto il problema di apertura della cartella di gioco",
-"Corretto il problema dell'immagine del gioco che non veniva sempre visualizzata correttamente durante il download"
+"Fix disinstallazione giochi",
+"Aggiunto sul pulsante destro la voce 'Aggiorna'",
+"Aggiunto gestione installazione nativa giochi MSStore craccati"
 ],
 "EN": [
-"Implemented update system for installed games",
-"Improved temporary and local file management",
-"Improved download management",
-"Fixed game folder opening",
-"Fixed game image not always displaying correctly when downloading"  
+"Fix game uninstallation",
+"Added 'Update' option to the right button",
+"Added native installation management for cracked MSStore games"
 ]
 },
 "updateUrl": "https://github.com/MrNico98/PhoenixPlay-Resources/releases/download/Requisiti/Phoenix.Play.exe"
