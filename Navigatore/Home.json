@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Indiana Jones e l'Antico Cerchio", "size": "137 GB", "steamdbid": "2677660", "versione": "v.1.0.9.0", "online": "false", "download": "", "download1": ["https://pixeldrain.com/u/szBoHvyy", "https://pixeldrain.com/u/wkWvd3cV"], "avvii": ["language.changer.exe"], "exe": "TheGreatCircle.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Forza Motorsport", "size": "130 GB", "steamdbid": "2440510", "versione": "v.1.835.2356.0", "online": "true", "download": "", "download1": ["https://pixeldrain.com/u/SZA1Ss3M", "https://pixeldrain.com/u/yCNWLfAQ"], "avvii": ["ForzaMotorsport_loader.exe"], "exe": "forza_steamworks_release_final.exe", "dipendenze": "steam.exe", "disinstallazione": null},
-    {"nome_gioco": "WUCHANG: Fallen Feathers", "steamdbid": "2277560", "versione": "v.178626", "online": "false", "download": "https://pixeldrain.com/u/gaKKahg2", "avvii": null, "exe": "Project_Plague.exe", "dipendenze": null, "disinstallazione": null, "size": "60 GB"},
-    {"nome_gioco": "ARMORED CORE VI FIRES OF RUBICON", "size": "60 GB", "steamdbid": "1888160", "versione": "v.1.07", "online": "false", "download": "https://pixeldrain.com/u/N54boFq7", "avvii": null, "exe": "start_protected_game.exe", "dipendenze": null, "disinstallazione": null}
+    {"nome_gioco": "Control Ultimate Edition", "size": "42 GB", "steamdbid": "870780", "versione": "v.0.0", "online": "false", "download": "https://pixeldrain.com/u/TPDiXYY9", "avvii": null, "exe": "Control.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Days Gone", "steamdbid": "1259420", "versione": "v1.36.187.0", "online": "false", "download": "https://pixeldrain.com/u/2XciXtmd", "avvii": null, "exe": "Launcher.bat", "dipendenze": null, "disinstallazione": null, "size": "70 GB"},
+    {"nome_gioco": "Dead Rising 2", "size": "30 GB", "steamdbid": "45740", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/qTzyAuZP", "avvii": null, "exe": "deadrising2.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS", "size": "30.36 GB", "steamdbid": "1020790", "versione": "v.1.50", "online": "false", "download": "https://pixeldrain.com/u/a3BjVyVW", "avvii": null, "exe": "NSUNSC.exe", "dipendenze": null, "disinstallazione": null}
   ]
 }
