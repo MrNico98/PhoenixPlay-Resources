@@ -1,16 +1,26 @@
 {
-"version": "0.0.0.8",
-"releaseNotes": {
-"IT": [
-"Fix disinstallazione giochi",
-"Aggiunto sul pulsante destro la voce 'Aggiorna'",
-"Aggiunto gestione installazione nativa giochi MSStore craccati"
-],
-"EN": [
-"Fix game uninstallation",
-"Added 'Update' option to the right button",
-"Added native installation management for cracked MSStore games"
-]
-},
-"updateUrl": "https://github.com/MrNico98/PhoenixPlay-Resources/releases/download/Requisiti/Phoenix.Play.exe"
+  "version": "0.0.0.9",
+  "releaseNotes": {
+    "IT": [
+      "Migliorato il supporto downlod file multipli",
+      "Migliorato il supporto per estrazioni file multipli",
+      "Aggiunto avviso sulla disinstallazione in caso di app Xbox",
+      "Aggiunta console log per gestione errori (F5)",
+      "Fix app Xbox craccate",
+      "Fix disinstallazione giochi",
+      "Incremento stabilità catalogo (numerosi giochi)",
+      "Cambio gestione DNS"
+    ],
+    "EN": [
+      "Improved support for multiple file downloads",
+      "Improved support for multiple file extractions",
+      "Added uninstall warning for Xbox apps",
+      "Added console log for error handling (F5)",
+      "Fix for cracked Xbox apps",
+      "Fix for game uninstallation",
+      "Increased catalog stability (many games)",
+      "Changed DNS management"
+    ]
+  },
+  "updateUrl": "https://github.com/MrNico98/PhoenixPlay-Resources/releases/download/Requisiti/Phoenix.Play.exe"
 }
