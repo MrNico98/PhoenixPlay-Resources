@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Batman Arkham Knight Premium", "steamdbid": "208650", "versione": "v.1.999", "online": "false", "download": "https://pixeldrain.com/u/t4Gj2JWM", "avvii": ["LanguageSelector.exe"], "exe": "BatmanAK.exe", "dipendenze": null, "disinstallazione": null, "size": "52.3 GB"},
-    {"nome_gioco": "SCUM", "steamdbid": "513710", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/LDNHFeGK", "avvii": null, "exe": "SCUM_Launcher.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "80 GB"},
-    {"nome_gioco": "Sifu", "steamdbid": "2138710", "versione": "v.1.28", "online": "false", "download": "https://pixeldrain.com/u/n484A5oG", "avvii": null, "exe": "Sifu.exe", "dipendenze": null, "disinstallazione": null, "size": "24 GB"},
-    {"nome_gioco": "PEAK", "size": "4 GB", "steamdbid": "3527290", "versione": "v.1.33", "online": "true", "download": "https://pixeldrain.com/u/bzscE9Mi", "avvii": null, "exe": "PEAK.exe", "dipendenze": "steam.exe", "disinstallazione": null, "xbox_support": false}
+    {"nome_gioco": "Phasmophobia", "size": "16 GB", "steamdbid": "739630", "versione": "v.0.14", "online": "true", "download": "https://pixeldrain.com/u/8QTiRXhy", "avvii": null, "exe": "Launcher.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "Lords of the Fallen", "steamdbid": "1501750", "versione": "v.2.0", "online": "false", "download": "https://pixeldrain.com/u/Qf1Xo9A8", "avvii": null, "exe": "LOTF2.exe", "dipendenze": null, "disinstallazione": null, "size": "45 GB"},
+    {"nome_gioco": "Formula Legends", "size": "7 GB", "steamdbid": "3194360", "versione": "v.20017489", "online": "false", "download": "https://pixeldrain.com/u/gmT2XAT3", "avvii": null, "exe": "ASC.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Six Days in Fallujah", "size": "22 GB", "steamdbid": "1548850", "versione": "v.0.4", "online": "false", "download": "https://pixeldrain.com/u/3WPEMoK1", "avvii": null, "exe": "SixDays.exe", "dipendenze": null, "disinstallazione": null}
   ]
 }
