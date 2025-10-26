@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Mount & Blade II: Bannerlord", "steamdbid": "261550", "versione": "v.1.2", "online": "false", "download": "https://pixeldrain.com/u/TeP1E98e", "avvii": null, "exe": "Bannerlord.exe", "dipendenze": null, "disinstallazione": null, "size": "60 GB"},
-    {"nome_gioco": "Mindseye", "size": "70 GB", "steamdbid": "3265250", "versione": "v.4598223", "online": "false", "download": "https://pixeldrain.com/u/er7sUQ1r", "avvii": ["InstallPrerequisites.bat"], "exe": "MindsEye.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "inZOI", "steamdbid": "2456740", "versione": "v.20250825.6945", "online": "false", "download": "https://pixeldrain.com/u/3ihHL5rX", "avvii": null, "exe": "inZOI.exe", "dipendenze": null, "disinstallazione": null, "size": "26 GB"},
-    {"nome_gioco": "No Man’s Sky", "steamdbid": "275850", "versione": "v.6.01", "online": "false", "download": "https://pixeldrain.com/u/7hUfDmXq", "avvii": null, "exe": "NMS.exe", "dipendenze": null, "disinstallazione": null, "size": "25.6 GB"}
+    {"nome_gioco": "Cronos: The New Dawn", "steamdbid": "2101960", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/XdobAwHV", "avvii": null, "exe": "Cronos.exe", "dipendenze": null, "disinstallazione": null, "size": "30 GB"},
+    {"nome_gioco": "My Summer Car", "steamdbid": "516750", "versione": "v.250120-01", "online": "false", "download": "https://pixeldrain.com/u/hUTZ2R7t", "avvii": null, "exe": "mysummercar.exe", "dipendenze": null, "disinstallazione": null, "size": "1 GB"},
+    {"nome_gioco": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS", "size": "30.36 GB", "steamdbid": "1020790", "versione": "v.1.50", "online": "false", "download": "https://pixeldrain.com/u/a3BjVyVW", "avvii": null, "exe": "NSUNSC.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "F1 22", "steamdbid": "1692250", "versione": "v.1.05", "online": "false", "download": "https://pixeldrain.com/u/onZf3sec", "avvii": null, "exe": "F1_22.exe", "dipendenze": null, "disinstallazione": null, "size": "80 GB"}
   ]
 }
