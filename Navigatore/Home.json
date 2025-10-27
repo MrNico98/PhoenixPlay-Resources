@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Cronos: The New Dawn", "steamdbid": "2101960", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/XdobAwHV", "avvii": null, "exe": "Cronos.exe", "dipendenze": null, "disinstallazione": null, "size": "30 GB"},
-    {"nome_gioco": "My Summer Car", "steamdbid": "516750", "versione": "v.250120-01", "online": "false", "download": "https://pixeldrain.com/u/hUTZ2R7t", "avvii": null, "exe": "mysummercar.exe", "dipendenze": null, "disinstallazione": null, "size": "1 GB"},
-    {"nome_gioco": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS", "size": "30.36 GB", "steamdbid": "1020790", "versione": "v.1.50", "online": "false", "download": "https://pixeldrain.com/u/a3BjVyVW", "avvii": null, "exe": "NSUNSC.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "F1 22", "steamdbid": "1692250", "versione": "v.1.05", "online": "false", "download": "https://pixeldrain.com/u/onZf3sec", "avvii": null, "exe": "F1_22.exe", "dipendenze": null, "disinstallazione": null, "size": "80 GB"}
+    {"nome_gioco": "Horizon Zero Dawn Complete Edition", "steamdbid": "1151640", "versione": "v.1.11", "online": "false", "download": "https://pixeldrain.com/u/tfkaWcst", "avvii": null, "exe": "HorizonZeroDawn.exe", "dipendenze": null, "disinstallazione": null, "size": "100 GB"},
+    {"nome_gioco": "A Plague Tale: Requiem", "size": "55 GB", "steamdbid": "1182900", "versione": "v.1.4", "online": "false", "download": "https://pixeldrain.com/u/L8bgkvA5", "avvii": null, "exe": "APlagueTaleRequiem_x64.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Door Kickers 2: Task Force North", "size": "1 GB", "steamdbid": "1239080", "versione": "v.1.10", "online": "false", "download": "https://pixeldrain.com/u/H2PQkWyB", "avvii": null, "exe": "DoorKickers2.exe", "dipendenze": "steam .exe", "disinstallazione": null},
+    {"nome_gioco": "Lost Soul Aside", "steamdbid": "3378960", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/aZPCU9Pn", "avvii": null, "exe": "LostSoulAside.exe", "dipendenze": null, "disinstallazione": null, "size": "80 GB"}
   ]
 }
