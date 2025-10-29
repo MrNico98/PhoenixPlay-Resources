@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "ARMORED CORE VI FIRES OF RUBICON", "size": "60 GB", "steamdbid": "1888160", "versione": "v.1.07", "online": "false", "download": "https://pixeldrain.com/u/N54boFq7", "avvii": null, "exe": "start_protected_game.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Mindseye", "size": "70 GB", "steamdbid": "3265250", "versione": "v.4598223", "online": "false", "download": "https://pixeldrain.com/u/er7sUQ1r", "avvii": ["InstallPrerequisites.bat"], "exe": "MindsEye.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Dragon’s Dogma 2", "size": "60 GB", "steamdbid": "2054970", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/RWBnoF3S", "avvii": null, "exe": "DD2.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Hell is Us", "size": "30 GB", "steamdbid": "1620730", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/MCz9H62D", "avvii": null, "exe": "HellIsUs.exe", "dipendenze": null, "disinstallazione": null}
+    {"nome_gioco": "Little Nightmares III", "size": "12 GB", "steamdbid": "1392860", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/NMAYH7tu", "avvii": null, "exe": "LittleNightmaresIII.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "ELDEN RING NIGHTREIGN", "steamdbid": "2622380", "versione": "v.1.02", "online": "true", "download": "https://pixeldrain.com/u/A9TfPtsK", "avvii": null, "exe": "nrsc_launcher.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "30 GB"},
+    {"nome_gioco": "Escape the Backrooms", "size": "6 GB", "steamdbid": "1943950", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/9i6YdAua", "avvii": null, "exe": "Backrooms.exe", "dipendenze": "steam.exe", "disinstallazione": null, "xbox": false},
+    {"nome_gioco": "Assassin’s Creed Syndicate Gold Edition", "steamdbid": "368500", "versione": "v.1.51", "online": "false", "download": "https://pixeldrain.com/u/9wrhQqsn", "avvii": null, "exe": "ACS.exe", "dipendenze": null, "disinstallazione": null, "size": "48.3 GB"}
   ]
 }
