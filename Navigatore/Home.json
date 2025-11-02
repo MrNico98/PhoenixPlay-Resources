@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Formula Legends", "size": "7 GB", "steamdbid": "3194360", "versione": "v.20017489", "online": "false", "download": "https://pixeldrain.com/u/gmT2XAT3", "avvii": null, "exe": "ASC.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Farthest Frontier", "size": "4 GB", "steamdbid": "1044720", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/jjygorWX", "avvii": null, "exe": "Farthest Frontier.exe", "dipendenze": null, "disinstallazione": null, "xbox": false},
-    {"nome_gioco": "Family Guy Back to the Multiverse", "steamdbid": "214230", "versione": "v.28086", "online": "false", "download": "https://pixeldrain.com/u/fY9rUphv", "avvii": null, "exe": "FGUY.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Killing Floor 3", "steamdbid": "1430190", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/4EneXkbA", "avvii": ["EasyAntiCheat_EOS_Setup.exe"], "exe": "start_protected_game.exe", "dipendenze": null, "disinstallazione": null, "size": "30 GB"}
+    {"nome_gioco": "RV There Yet", "size": "3200 MB", "steamdbid": "3949040", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/oSRNZXtu", "avvii": null, "exe": "Ride.exe", "dipendenze": "steam.exe", "disinstallazione": null, "xbox": false},
+    {"nome_gioco": "Broken Arrow", "steamdbid": "1604270", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/GVjQL4wg", "avvii": null, "exe": "BrokenArrow.exe", "dipendenze": null, "disinstallazione": null, "size": "85 GB"},
+    {"nome_gioco": "A Plague Tale: Innocence", "steamdbid": "752590", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/sNiCFst1", "avvii": null, "exe": "APlagueTaleInnocence_x64.exe", "dipendenze": null, "disinstallazione": null, "size": "50 GB"},
+    {"nome_gioco": "My Summer Car", "steamdbid": "516750", "versione": "v.250120-01", "online": "false", "download": "https://pixeldrain.com/u/hUTZ2R7t", "avvii": null, "exe": "mysummercar.exe", "dipendenze": null, "disinstallazione": null, "size": "1 GB"}
   ]
 }
