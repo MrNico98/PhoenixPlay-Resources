@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "RV There Yet", "size": "3200 MB", "steamdbid": "3949040", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/oSRNZXtu", "avvii": null, "exe": "Ride.exe", "dipendenze": "steam.exe", "disinstallazione": null, "xbox": false},
-    {"nome_gioco": "Broken Arrow", "steamdbid": "1604270", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/GVjQL4wg", "avvii": null, "exe": "BrokenArrow.exe", "dipendenze": null, "disinstallazione": null, "size": "85 GB"},
-    {"nome_gioco": "A Plague Tale: Innocence", "steamdbid": "752590", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/sNiCFst1", "avvii": null, "exe": "APlagueTaleInnocence_x64.exe", "dipendenze": null, "disinstallazione": null, "size": "50 GB"},
-    {"nome_gioco": "My Summer Car", "steamdbid": "516750", "versione": "v.250120-01", "online": "false", "download": "https://pixeldrain.com/u/hUTZ2R7t", "avvii": null, "exe": "mysummercar.exe", "dipendenze": null, "disinstallazione": null, "size": "1 GB"}
+    {"nome_gioco": "Bodycam", "steamdbid": "2406770", "versione": "v.19052025", "online": "true", "download": "https://pixeldrain.com/u/7nPpUdrB", "avvii": null, "exe": "Bodycam.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "2.3 GB"},
+    {"nome_gioco": "Days Gone", "steamdbid": "1259420", "versione": "v1.36.187.0", "online": "false", "download": "https://pixeldrain.com/u/2XciXtmd", "avvii": null, "exe": "Launcher.bat", "dipendenze": null, "disinstallazione": null, "size": "70 GB"},
+    {"nome_gioco": "HITMAN 3", "steamdbid": "1829591", "versione": "v.3.230", "online": "false", "download": "https://pixeldrain.com/u/QfewZa4d", "avvii": null, "exe": "Launcher.exe", "dipendenze": null, "disinstallazione": null, "size": "71.9 GB"},
+    {"nome_gioco": "The Precinct", "size": "8 GB", "steamdbid": "490110", "versione": "v.1.9", "online": "false", "download": "https://pixeldrain.com/u/N6mfeyZZ", "avvii": null, "exe": "Precinct.exe", "dipendenze": null, "disinstallazione": null, "xbox": false}
   ]
 }
