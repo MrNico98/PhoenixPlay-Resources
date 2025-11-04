@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Bodycam", "steamdbid": "2406770", "versione": "v.19052025", "online": "true", "download": "https://pixeldrain.com/u/7nPpUdrB", "avvii": null, "exe": "Bodycam.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "2.3 GB"},
-    {"nome_gioco": "Days Gone", "steamdbid": "1259420", "versione": "v1.36.187.0", "online": "false", "download": "https://pixeldrain.com/u/2XciXtmd", "avvii": null, "exe": "Launcher.bat", "dipendenze": null, "disinstallazione": null, "size": "70 GB"},
-    {"nome_gioco": "HITMAN 3", "steamdbid": "1829591", "versione": "v.3.230", "online": "false", "download": "https://pixeldrain.com/u/QfewZa4d", "avvii": null, "exe": "Launcher.exe", "dipendenze": null, "disinstallazione": null, "size": "71.9 GB"},
-    {"nome_gioco": "The Precinct", "size": "8 GB", "steamdbid": "490110", "versione": "v.1.9", "online": "false", "download": "https://pixeldrain.com/u/N6mfeyZZ", "avvii": null, "exe": "Precinct.exe", "dipendenze": null, "disinstallazione": null, "xbox": false}
+    {"nome_gioco": "RESIDENT EVIL 7 biohazard", "steamdbid": "418370", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/z8phzCy5", "avvii": null, "exe": "re7.exe", "dipendenze": null, "disinstallazione": null, "size": "56 GB"},
+    {"nome_gioco": "Gears of War: Reloaded", "steamdbid": "2523720", "versione": "v.1.0.1.3689997", "online": "false", "download": "https://pixeldrain.com/u/Utuu35LG", "avvii": ["Install_EasyAntiCheat.bat"], "exe": "Launch_GOWDE.exe", "dipendenze": null, "disinstallazione": null, "size": "70 GB"},
+    {"nome_gioco": "Crime Simulator", "size": "20 GB", "steamdbid": "2737070", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/Q36Nr2K9", "avvii": null, "exe": "Launcher.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "Resident Evil / biohazard HD REMASTER", "steamdbid": "304240", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/PZPL3KSN", "avvii": null, "exe": "bhd.exe", "dipendenze": null, "disinstallazione": null, "size": "20 GB"}
   ]
 }
