@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "RESIDENT EVIL 7 biohazard", "steamdbid": "418370", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/z8phzCy5", "avvii": null, "exe": "re7.exe", "dipendenze": null, "disinstallazione": null, "size": "56 GB"},
-    {"nome_gioco": "Gears of War: Reloaded", "steamdbid": "2523720", "versione": "v.1.0.1.3689997", "online": "false", "download": "https://pixeldrain.com/u/Utuu35LG", "avvii": ["Install_EasyAntiCheat.bat"], "exe": "Launch_GOWDE.exe", "dipendenze": null, "disinstallazione": null, "size": "70 GB"},
-    {"nome_gioco": "Crime Simulator", "size": "20 GB", "steamdbid": "2737070", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/Q36Nr2K9", "avvii": null, "exe": "Launcher.exe", "dipendenze": "steam.exe", "disinstallazione": null},
-    {"nome_gioco": "Resident Evil / biohazard HD REMASTER", "steamdbid": "304240", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/PZPL3KSN", "avvii": null, "exe": "bhd.exe", "dipendenze": null, "disinstallazione": null, "size": "20 GB"}
+    {"nome_gioco": "A Plague Tale: Requiem", "size": "55 GB", "steamdbid": "1182900", "versione": "v.1.4", "online": "false", "download": "https://pixeldrain.com/u/L8bgkvA5", "avvii": null, "exe": "APlagueTaleRequiem_x64.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "The Witcher 3: Wild Hunt", "steamdbid": "292030", "versione": "v.4.04", "online": "false", "download": "https://pixeldrain.com/u/QB2jzXm6", "avvii": null, "exe": "REDprelauncher.exe", "dipendenze": null, "disinstallazione": null, "size": "50.1 GB"},
+    {"nome_gioco": "7 Days to Die", "steamdbid": "251570", "versione": "v.2.2", "online": "true", "download": "https://pixeldrain.com/u/jnX76vGE", "avvii": null, "exe": "7dLauncher.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "12.7 GB"},
+    {"nome_gioco": "Total War: THREE KINGDOMS", "size": "60 GB", "steamdbid": "779340", "versione": "v.1.5", "online": "false", "download": "https://pixeldrain.com/u/gwfovmML", "avvii": null, "exe": "Three_Kingdoms.exe", "dipendenze": null, "disinstallazione": null}
   ]
 }
