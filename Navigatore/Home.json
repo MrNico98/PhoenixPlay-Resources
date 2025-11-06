@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "A Plague Tale: Requiem", "size": "55 GB", "steamdbid": "1182900", "versione": "v.1.4", "online": "false", "download": "https://pixeldrain.com/u/L8bgkvA5", "avvii": null, "exe": "APlagueTaleRequiem_x64.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "The Witcher 3: Wild Hunt", "steamdbid": "292030", "versione": "v.4.04", "online": "false", "download": "https://pixeldrain.com/u/QB2jzXm6", "avvii": null, "exe": "REDprelauncher.exe", "dipendenze": null, "disinstallazione": null, "size": "50.1 GB"},
-    {"nome_gioco": "7 Days to Die", "steamdbid": "251570", "versione": "v.2.2", "online": "true", "download": "https://pixeldrain.com/u/jnX76vGE", "avvii": null, "exe": "7dLauncher.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "12.7 GB"},
-    {"nome_gioco": "Total War: THREE KINGDOMS", "size": "60 GB", "steamdbid": "779340", "versione": "v.1.5", "online": "false", "download": "https://pixeldrain.com/u/gwfovmML", "avvii": null, "exe": "Three_Kingdoms.exe", "dipendenze": null, "disinstallazione": null}
+    {"nome_gioco": "Indiana Jones e l'Antico Cerchio", "size": "137 GB", "steamdbid": "2677660", "versione": "v.1.0.9.0", "online": "false", "download": "", "download1": ["https://pixeldrain.com/u/szBoHvyy", "https://pixeldrain.com/u/wkWvd3cV"], "avvii": ["language.changer.exe"], "exe": "TheGreatCircle.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Mount & Blade II: Bannerlord", "steamdbid": "261550", "versione": "v.1.2", "online": "false", "download": "https://pixeldrain.com/u/TeP1E98e", "avvii": null, "exe": "Bannerlord.exe", "dipendenze": null, "disinstallazione": null, "size": "60 GB"},
+    {"nome_gioco": "Vampire: The Masquerade – Bloodlines 2", "size": "30 GB", "steamdbid": "1096410", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/rcfw3nMK", "avvii": null, "exe": "Bloodlines2.exe", "dipendenze": null, "disinstallazione": null, "xbox": false},
+    {"nome_gioco": "SOMA", "steamdbid": "282140", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/mG938ZjP", "avvii": null, "exe": "Soma_NoSteam.exe", "dipendenze": null, "disinstallazione": null, "size": "25 GB"}
   ]
 }
