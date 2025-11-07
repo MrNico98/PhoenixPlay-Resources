@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Indiana Jones e l'Antico Cerchio", "size": "137 GB", "steamdbid": "2677660", "versione": "v.1.0.9.0", "online": "false", "download": "", "download1": ["https://pixeldrain.com/u/szBoHvyy", "https://pixeldrain.com/u/wkWvd3cV"], "avvii": ["language.changer.exe"], "exe": "TheGreatCircle.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Mount & Blade II: Bannerlord", "steamdbid": "261550", "versione": "v.1.2", "online": "false", "download": "https://pixeldrain.com/u/TeP1E98e", "avvii": null, "exe": "Bannerlord.exe", "dipendenze": null, "disinstallazione": null, "size": "60 GB"},
-    {"nome_gioco": "Vampire: The Masquerade – Bloodlines 2", "size": "30 GB", "steamdbid": "1096410", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/rcfw3nMK", "avvii": null, "exe": "Bloodlines2.exe", "dipendenze": null, "disinstallazione": null, "xbox": false},
-    {"nome_gioco": "SOMA", "steamdbid": "282140", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/mG938ZjP", "avvii": null, "exe": "Soma_NoSteam.exe", "dipendenze": null, "disinstallazione": null, "size": "25 GB"}
+    {"nome_gioco": "Thief Simulator 2", "steamdbid": "1332720", "versione": "v.1.27c", "online": "false", "download": "https://pixeldrain.com/u/gvVkSTnq", "avvii": null, "exe": "Thief Simulator 2.exe", "dipendenze": null, "disinstallazione": null, "size": "12 GB"},
+    {"nome_gioco": "Resident Evil Village", "steamdbid": "1196590", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/mFwedpW5", "avvii": null, "exe": "re8.exe", "dipendenze": null, "disinstallazione": null, "size": "34.8 GB"},
+    {"nome_gioco": "Watch Dogs 2", "steamdbid": "447040", "versione": "v.1.17", "online": "false", "download": "https://pixeldrain.com/u/ymKqQbXy", "avvii": null, "exe": "WatchDogs2.exe", "dipendenze": null, "disinstallazione": null, "size": "44 GB"},
+    {"nome_gioco": "Farthest Frontier", "size": "4 GB", "steamdbid": "1044720", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/jjygorWX", "avvii": null, "exe": "Farthest Frontier.exe", "dipendenze": null, "disinstallazione": null, "xbox": false}
   ]
 }
