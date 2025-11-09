@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "DARK SOULS II", "steamdbid": "236430", "versione": "v.1.02", "online": "false", "download": "https://pixeldrain.com/u/d5g8jzTL", "avvii": null, "exe": "DarkSoulsII.exe", "dipendenze": null, "disinstallazione": null, "size": "14.8 GB"},
-    {"nome_gioco": "F1 2012", "steamdbid": "208500", "versione": "v.1.3.3.0", "online": "false", "download": "https://pixeldrain.com/u/7KJ6Fkx6", "avvii": null, "exe": "F1_2012.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Thief Simulator 2", "steamdbid": "1332720", "versione": "v.1.27c", "online": "false", "download": "https://pixeldrain.com/u/gvVkSTnq", "avvii": null, "exe": "Thief Simulator 2.exe", "dipendenze": null, "disinstallazione": null, "size": "12 GB"},
-    {"nome_gioco": "The Last of Us Part II Remastered", "size": "150 GB", "steamdbid": "2531310", "versione": "v.1.4.10515.636", "online": "false", "download": "", "download1": ["https://pixeldrain.com/u/WgzQYtJb", "https://pixeldrain.com/u/ibrusv5C"], "avvii": null, "exe": "launcher.exe", "dipendenze": null, "disinstallazione": null}
+    {"nome_gioco": "inZOI", "size": "26 GB", "steamdbid": "2456740", "versione": "v.20250902.7159", "online": "false", "download": "https://pixeldrain.com/u/MuXm9yXP", "avvii": null, "exe": "inZOI.exe", "dipendenze": null, "disinstallazione": null, "xbox": false},
+    {"nome_gioco": "Pinball FX", "steamdbid": "2328760", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/Yg4qFuxm", "avvii": null, "exe": "PinballFX.exe", "dipendenze": null, "disinstallazione": null, "size": "37.6 GB"},
+    {"nome_gioco": "Age of Mythology: Retold", "steamdbid": "1934680", "versione": "v.100.18.27100.0", "online": "false", "download": "https://pixeldrain.com/u/wd4HPHb7", "avvii": null, "exe": "steamclient_loader.exe", "dipendenze": "", "disinstallazione": "", "size": "25 GB"},
+    {"nome_gioco": "SILENT HILL 2", "steamdbid": "2124490", "versione": "v.1.1", "online": "false", "download": "https://pixeldrain.com/u/E8G6KexS", "avvii": null, "exe": "SHProto.exe", "dipendenze": null, "disinstallazione": null, "size": "50 GB"}
   ]
 }
