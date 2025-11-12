@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "GROUND BRANCH", "steamdbid": "16900", "versione": "v.31072025", "online": "true", "download": "https://pixeldrain.com/u/GPf1keN7", "avvii": null, "exe": "GroundBranch.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "41.5 GB"},
-    {"nome_gioco": "HITMAN 3", "steamdbid": "1829591", "versione": "v.3.230", "online": "false", "download": "https://pixeldrain.com/u/QfewZa4d", "avvii": null, "exe": "Launcher.exe", "dipendenze": null, "disinstallazione": null, "size": "71.9 GB"},
-    {"nome_gioco": "Fast Food Simulator", "size": "5 GB", "steamdbid": "2916430", "versione": "v.0.5", "online": "true", "download": "https://pixeldrain.com/u/pVsLqgqK", "avvii": null, "exe": "Fast Food Simulator.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "GTA/Grand Theft Auto: San Andreas", "size": "5 GB", "steamdbid": "1547000", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/bGuZbnPM", "avvii": null, "exe": "gta-sa.exe", "dipendenze": null, "disinstallazione": null}
+    {"nome_gioco": "RIDE 4", "size": "43 GB", "steamdbid": "1259980", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/8tTY6hEV", "avvii": null, "exe": "ride4.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Balatro", "steamdbid": "2379780", "versione": "v.1.0.1o", "online": "false", "download": "https://pixeldrain.com/u/aoqrqm7C", "avvii": null, "exe": "Balatro.exe", "dipendenze": null, "disinstallazione": null, "size": "50 MB"},
+    {"nome_gioco": "DARK SOULS III", "steamdbid": "374320", "versione": "v.1.15", "online": "false", "download": "https://pixeldrain.com/u/GfaCgGBw", "avvii": null, "exe": "DarkSoulsIII.exe", "dipendenze": null, "disinstallazione": null, "size": "25.2 GB"},
+    {"nome_gioco": "SOMA", "steamdbid": "282140", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/mG938ZjP", "avvii": null, "exe": "Soma_NoSteam.exe", "dipendenze": null, "disinstallazione": null, "size": "25 GB"}
   ]
 }
