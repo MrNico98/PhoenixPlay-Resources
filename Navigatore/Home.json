@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "RIDE 4", "size": "43 GB", "steamdbid": "1259980", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/8tTY6hEV", "avvii": null, "exe": "ride4.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Balatro", "steamdbid": "2379780", "versione": "v.1.0.1o", "online": "false", "download": "https://pixeldrain.com/u/aoqrqm7C", "avvii": null, "exe": "Balatro.exe", "dipendenze": null, "disinstallazione": null, "size": "50 MB"},
-    {"nome_gioco": "DARK SOULS III", "steamdbid": "374320", "versione": "v.1.15", "online": "false", "download": "https://pixeldrain.com/u/GfaCgGBw", "avvii": null, "exe": "DarkSoulsIII.exe", "dipendenze": null, "disinstallazione": null, "size": "25.2 GB"},
-    {"nome_gioco": "SOMA", "steamdbid": "282140", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/mG938ZjP", "avvii": null, "exe": "Soma_NoSteam.exe", "dipendenze": null, "disinstallazione": null, "size": "25 GB"}
+    {"nome_gioco": "Thief Simulator 2", "steamdbid": "1332720", "versione": "v.1.27c", "online": "false", "download": "https://pixeldrain.com/u/gvVkSTnq", "avvii": null, "exe": "Thief Simulator 2.exe", "dipendenze": null, "disinstallazione": null, "size": "12 GB"},
+    {"nome_gioco": "Euro Truck Simulator 2", "steamdbid": "227300", "versione": "v.1.55", "online": "true", "download": "https://pixeldrain.com/u/J5M7Fh1A", "avvii": null, "exe": "eurotrucks2.exe", "dipendenze": null, "disinstallazione": null, "size": "29.5 GB"},
+    {"nome_gioco": "Far Cry 5: Gold Edition", "steamdbid": "552520", "versione": "v.1.011", "online": "false", "download": "https://pixeldrain.com/u/4rVT9ra5", "avvii": ["Language Selector.exe"], "exe": "FarCry5.exe", "dipendenze": null, "disinstallazione": null, "size": "75 GB"},
+    {"nome_gioco": "RIDE 4", "size": "43 GB", "steamdbid": "1259980", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/8tTY6hEV", "avvii": null, "exe": "ride4.exe", "dipendenze": null, "disinstallazione": null}
   ]
 }
