@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Thief Simulator 2", "steamdbid": "1332720", "versione": "v.1.27c", "online": "false", "download": "https://pixeldrain.com/u/gvVkSTnq", "avvii": null, "exe": "Thief Simulator 2.exe", "dipendenze": null, "disinstallazione": null, "size": "12 GB"},
-    {"nome_gioco": "Euro Truck Simulator 2", "steamdbid": "227300", "versione": "v.1.55", "online": "true", "download": "https://pixeldrain.com/u/J5M7Fh1A", "avvii": null, "exe": "eurotrucks2.exe", "dipendenze": null, "disinstallazione": null, "size": "29.5 GB"},
-    {"nome_gioco": "Far Cry 5: Gold Edition", "steamdbid": "552520", "versione": "v.1.011", "online": "false", "download": "https://pixeldrain.com/u/4rVT9ra5", "avvii": ["Language Selector.exe"], "exe": "FarCry5.exe", "dipendenze": null, "disinstallazione": null, "size": "75 GB"},
-    {"nome_gioco": "RIDE 4", "size": "43 GB", "steamdbid": "1259980", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/8tTY6hEV", "avvii": null, "exe": "ride4.exe", "dipendenze": null, "disinstallazione": null}
+    {"nome_gioco": "NBA 2K23", "size": "110 GB", "steamdbid": "1919590", "versione": "v.10159500", "online": "false", "download": "", "download1": ["https://pixeldrain.com/u/327JLjoo", "https://pixeldrain.com/u/KkFDNAt1"], "avvii": null, "exe": "NBA2K23.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Cyberpunk 2077", "size": "89.1 GB", "steamdbid": "1091500", "versione": "v.2.31", "online": "false", "download": "https://pixeldrain.com/u/jmhH4A7j", "avvii": null, "exe": "REDprelauncher.exe", "dipendenze": null, "disinstallazione": null, "xbox": false},
+    {"nome_gioco": "Clair Obscur: Expedition 33", "steamdbid": "1903340", "versione": "v.57069", "online": "false", "download": "https://pixeldrain.com/u/E6vFTBBA", "avvii": null, "exe": "Expedition33_Steam.exe", "dipendenze": null, "disinstallazione": null, "size": "55 GB"},
+    {"nome_gioco": "Atomic Heart", "size": "90 GB", "steamdbid": "668580", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/f16BLpxr", "avvii": null, "exe": "AtomicHeart.exe", "dipendenze": null, "disinstallazione": null}
   ]
 }
