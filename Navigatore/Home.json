@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "NBA 2K23", "size": "110 GB", "steamdbid": "1919590", "versione": "v.10159500", "online": "false", "download": "", "download1": ["https://pixeldrain.com/u/327JLjoo", "https://pixeldrain.com/u/KkFDNAt1"], "avvii": null, "exe": "NBA2K23.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Cyberpunk 2077", "size": "89.1 GB", "steamdbid": "1091500", "versione": "v.2.31", "online": "false", "download": "https://pixeldrain.com/u/jmhH4A7j", "avvii": null, "exe": "REDprelauncher.exe", "dipendenze": null, "disinstallazione": null, "xbox": false},
-    {"nome_gioco": "Clair Obscur: Expedition 33", "steamdbid": "1903340", "versione": "v.57069", "online": "false", "download": "https://pixeldrain.com/u/E6vFTBBA", "avvii": null, "exe": "Expedition33_Steam.exe", "dipendenze": null, "disinstallazione": null, "size": "55 GB"},
-    {"nome_gioco": "Atomic Heart", "size": "90 GB", "steamdbid": "668580", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/f16BLpxr", "avvii": null, "exe": "AtomicHeart.exe", "dipendenze": null, "disinstallazione": null}
+    {"nome_gioco": "Atomic Heart", "size": "90 GB", "steamdbid": "668580", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/f16BLpxr", "avvii": null, "exe": "AtomicHeart.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "DARK SOULS III", "steamdbid": "374320", "versione": "v.1.15", "online": "false", "download": "https://pixeldrain.com/u/GfaCgGBw", "avvii": null, "exe": "DarkSoulsIII.exe", "dipendenze": null, "disinstallazione": null, "size": "25.2 GB"},
+    {"nome_gioco": "Max Payne 3", "size": null, "steamdbid": "204100", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/yHtN33rk", "avvii": null, "exe": "MaxPayne3.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Dragon’s Dogma 2", "size": "60 GB", "steamdbid": "2054970", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/RWBnoF3S", "avvii": null, "exe": "DD2.exe", "dipendenze": null, "disinstallazione": null}
   ]
 }
