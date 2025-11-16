@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Atomic Heart", "size": "90 GB", "steamdbid": "668580", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/f16BLpxr", "avvii": null, "exe": "AtomicHeart.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "DARK SOULS III", "steamdbid": "374320", "versione": "v.1.15", "online": "false", "download": "https://pixeldrain.com/u/GfaCgGBw", "avvii": null, "exe": "DarkSoulsIII.exe", "dipendenze": null, "disinstallazione": null, "size": "25.2 GB"},
-    {"nome_gioco": "Max Payne 3", "size": null, "steamdbid": "204100", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/yHtN33rk", "avvii": null, "exe": "MaxPayne3.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Dragon’s Dogma 2", "size": "60 GB", "steamdbid": "2054970", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/RWBnoF3S", "avvii": null, "exe": "DD2.exe", "dipendenze": null, "disinstallazione": null}
+    {"nome_gioco": "Until Dawn", "steamdbid": "2172010", "versione": "v.1.08", "online": "false", "download": "https://pixeldrain.com/u/n6pKgfd4", "avvii": null, "exe": "Bates.exe", "dipendenze": null, "disinstallazione": null, "size": "70 GB"},
+    {"nome_gioco": "Door Kickers 2: Task Force North", "size": "1 GB", "steamdbid": "1239080", "versione": "v.1.10", "online": "false", "download": "https://pixeldrain.com/u/H2PQkWyB", "avvii": null, "exe": "DoorKickers2.exe", "dipendenze": "steam .exe", "disinstallazione": null},
+    {"nome_gioco": "Farthest Frontier", "size": "4 GB", "steamdbid": "1044720", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/jjygorWX", "avvii": null, "exe": "Farthest Frontier.exe", "dipendenze": null, "disinstallazione": null, "xbox": false},
+    {"nome_gioco": "Town to City", "size": "3 GB", "steamdbid": "3115220", "versione": "v.0.1", "online": "false", "download": "https://pixeldrain.com/u/3ssX4qig", "avvii": null, "exe": "TownToCity.exe", "dipendenze": null, "disinstallazione": null}
   ]
 }
