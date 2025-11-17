@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Until Dawn", "steamdbid": "2172010", "versione": "v.1.08", "online": "false", "download": "https://pixeldrain.com/u/n6pKgfd4", "avvii": null, "exe": "Bates.exe", "dipendenze": null, "disinstallazione": null, "size": "70 GB"},
-    {"nome_gioco": "Door Kickers 2: Task Force North", "size": "1 GB", "steamdbid": "1239080", "versione": "v.1.10", "online": "false", "download": "https://pixeldrain.com/u/H2PQkWyB", "avvii": null, "exe": "DoorKickers2.exe", "dipendenze": "steam .exe", "disinstallazione": null},
-    {"nome_gioco": "Farthest Frontier", "size": "4 GB", "steamdbid": "1044720", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/jjygorWX", "avvii": null, "exe": "Farthest Frontier.exe", "dipendenze": null, "disinstallazione": null, "xbox": false},
-    {"nome_gioco": "Town to City", "size": "3 GB", "steamdbid": "3115220", "versione": "v.0.1", "online": "false", "download": "https://pixeldrain.com/u/3ssX4qig", "avvii": null, "exe": "TownToCity.exe", "dipendenze": null, "disinstallazione": null}
+    {"nome_gioco": "Bodycam", "steamdbid": "2406770", "versione": "v.19052025", "online": "true", "download": "https://pixeldrain.com/u/7nPpUdrB", "avvii": null, "exe": "Bodycam.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "2.3 GB"},
+    {"nome_gioco": "Sifu", "steamdbid": "2138710", "versione": "v.1.28", "online": "false", "download": "https://pixeldrain.com/u/n484A5oG", "avvii": null, "exe": "Sifu.exe", "dipendenze": null, "disinstallazione": null, "size": "24 GB"},
+    {"nome_gioco": "Escape the Backrooms", "size": "6 GB", "steamdbid": "1943950", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/9i6YdAua", "avvii": null, "exe": "Backrooms.exe", "dipendenze": "steam.exe", "disinstallazione": null, "xbox": false},
+    {"nome_gioco": "Injustice 2 Legendary Edition", "size": "52 GB", "steamdbid": "627270", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/bLDiTeU4", "avvii": null, "exe": "Injustice2.exe", "dipendenze": null, "disinstallazione": null}
   ]
 }
