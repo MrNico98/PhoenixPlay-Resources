@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Bodycam", "steamdbid": "2406770", "versione": "v.19052025", "online": "true", "download": "https://pixeldrain.com/u/7nPpUdrB", "avvii": null, "exe": "Bodycam.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "2.3 GB"},
-    {"nome_gioco": "Sifu", "steamdbid": "2138710", "versione": "v.1.28", "online": "false", "download": "https://pixeldrain.com/u/n484A5oG", "avvii": null, "exe": "Sifu.exe", "dipendenze": null, "disinstallazione": null, "size": "24 GB"},
-    {"nome_gioco": "Escape the Backrooms", "size": "6 GB", "steamdbid": "1943950", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/9i6YdAua", "avvii": null, "exe": "Backrooms.exe", "dipendenze": "steam.exe", "disinstallazione": null, "xbox": false},
-    {"nome_gioco": "Injustice 2 Legendary Edition", "size": "52 GB", "steamdbid": "627270", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/bLDiTeU4", "avvii": null, "exe": "Injustice2.exe", "dipendenze": null, "disinstallazione": null}
+    {"nome_gioco": "The Last of Us Part II Remastered", "size": "150 GB", "steamdbid": "2531310", "versione": "v.1.4.10515.636", "online": "false", "download": "", "download1": ["https://pixeldrain.com/u/WgzQYtJb", "https://pixeldrain.com/u/ibrusv5C"], "avvii": null, "exe": "launcher.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "SCUM", "steamdbid": "513710", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/LDNHFeGK", "avvii": null, "exe": "SCUM_Launcher.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "80 GB"},
+    {"nome_gioco": "Raft", "steamdbid": "648800", "versione": "v.1.09", "online": "true", "download": "https://pixeldrain.com/u/aqL5La5d", "avvii": null, "exe": "Raft.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "10 GB"},
+    {"nome_gioco": "Mad Max", "size": "32 GB", "steamdbid": "234140", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/XmnGH9UX", "avvii": ["language.changer.exe"], "exe": "AVAMain.exe", "dipendenze": null, "disinstallazione": null}
   ]
 }
