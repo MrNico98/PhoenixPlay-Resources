@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Broken Arrow", "steamdbid": "1604270", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/GVjQL4wg", "avvii": null, "exe": "BrokenArrow.exe", "dipendenze": null, "disinstallazione": null, "size": "85 GB"},
-    {"nome_gioco": "GROUND BRANCH", "steamdbid": "16900", "versione": "v.31072025", "online": "true", "download": "https://pixeldrain.com/u/GPf1keN7", "avvii": null, "exe": "GroundBranch.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "41.5 GB"},
-    {"nome_gioco": "Thief Simulator 2", "steamdbid": "1332720", "versione": "v.1.27c", "online": "false", "download": "https://pixeldrain.com/u/gvVkSTnq", "avvii": null, "exe": "Thief Simulator 2.exe", "dipendenze": null, "disinstallazione": null, "size": "12 GB"},
-    {"nome_gioco": "Formula Legends", "size": "7 GB", "steamdbid": "3194360", "versione": "v.20017489", "online": "false", "download": "https://pixeldrain.com/u/gmT2XAT3", "avvii": null, "exe": "ASC.exe", "dipendenze": null, "disinstallazione": null}
+    {"nome_gioco": "Terraria", "steamdbid": "105600", "versione": "v.1.4", "online": "true", "download": "https://pixeldrain.com/u/oMnMgmqv", "avvii": null, "exe": "Terraria.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "552 MB"},
+    {"nome_gioco": "Family Guy Back to the Multiverse", "steamdbid": "214230", "versione": "v.28086", "online": "false", "download": "https://pixeldrain.com/u/fY9rUphv", "avvii": null, "exe": "FGUY.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Firefighting Simulator Ignite", "size": "40 GB", "steamdbid": "1669480", "versione": "v.19871642", "online": "true", "download": "https://pixeldrain.com/u/Cewrckn3", "avvii": null, "exe": "FFSIgnite.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "Marvels Spider-Man Miles Morales", "steamdbid": "1817190", "versione": "v.3.617.1.0", "online": "false", "download": "https://pixeldrain.com/u/ihJkrFdC", "avvii": null, "exe": "MilesMorales.exe", "dipendenze": null, "disinstallazione": null, "size": "75 GB"}
   ]
 }
