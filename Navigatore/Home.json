@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Terraria", "steamdbid": "105600", "versione": "v.1.4", "online": "true", "download": "https://pixeldrain.com/u/oMnMgmqv", "avvii": null, "exe": "Terraria.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "552 MB"},
-    {"nome_gioco": "Family Guy Back to the Multiverse", "steamdbid": "214230", "versione": "v.28086", "online": "false", "download": "https://pixeldrain.com/u/fY9rUphv", "avvii": null, "exe": "FGUY.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Firefighting Simulator Ignite", "size": "40 GB", "steamdbid": "1669480", "versione": "v.19871642", "online": "true", "download": "https://pixeldrain.com/u/Cewrckn3", "avvii": null, "exe": "FFSIgnite.exe", "dipendenze": "steam.exe", "disinstallazione": null},
-    {"nome_gioco": "Marvels Spider-Man Miles Morales", "steamdbid": "1817190", "versione": "v.3.617.1.0", "online": "false", "download": "https://pixeldrain.com/u/ihJkrFdC", "avvii": null, "exe": "MilesMorales.exe", "dipendenze": null, "disinstallazione": null, "size": "75 GB"}
+    {"nome_gioco": "SOMA", "steamdbid": "282140", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/mG938ZjP", "avvii": null, "exe": "Soma_NoSteam.exe", "dipendenze": null, "disinstallazione": null, "size": "25 GB"},
+    {"nome_gioco": "Papers, Please", "size": "131 MB", "steamdbid": "239030", "versione": "v.1.4.11.124", "online": "false", "download": "https://pixeldrain.com/u/9Kfe1xEn", "avvii": null, "exe": "PapersPlease.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "The Precinct", "size": "8 GB", "steamdbid": "490110", "versione": "v.1.9", "online": "false", "download": "https://pixeldrain.com/u/N6mfeyZZ", "avvii": null, "exe": "Precinct.exe", "dipendenze": null, "disinstallazione": null, "xbox": false},
+    {"nome_gioco": "Mount & Blade II: Bannerlord", "steamdbid": "261550", "versione": "v.1.2", "online": "false", "download": "https://pixeldrain.com/u/TeP1E98e", "avvii": null, "exe": "Bannerlord.exe", "dipendenze": null, "disinstallazione": null, "size": "60 GB"}
   ]
 }
