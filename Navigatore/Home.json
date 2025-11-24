@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "SOMA", "steamdbid": "282140", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/mG938ZjP", "avvii": null, "exe": "Soma_NoSteam.exe", "dipendenze": null, "disinstallazione": null, "size": "25 GB"},
-    {"nome_gioco": "Papers, Please", "size": "131 MB", "steamdbid": "239030", "versione": "v.1.4.11.124", "online": "false", "download": "https://pixeldrain.com/u/9Kfe1xEn", "avvii": null, "exe": "PapersPlease.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "The Precinct", "size": "8 GB", "steamdbid": "490110", "versione": "v.1.9", "online": "false", "download": "https://pixeldrain.com/u/N6mfeyZZ", "avvii": null, "exe": "Precinct.exe", "dipendenze": null, "disinstallazione": null, "xbox": false},
-    {"nome_gioco": "Mount & Blade II: Bannerlord", "steamdbid": "261550", "versione": "v.1.2", "online": "false", "download": "https://pixeldrain.com/u/TeP1E98e", "avvii": null, "exe": "Bannerlord.exe", "dipendenze": null, "disinstallazione": null, "size": "60 GB"}
+    {"nome_gioco": "DRAGON BALL: Sparking! ZERO", "steamdbid": "1790600", "versione": "v.2013.012", "online": "true", "download": "https://pixeldrain.com/u/vCcTt6GT", "avvii": null, "exe": "SparkingZERO.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "29 GB"},
+    {"nome_gioco": "Cyberpunk 2077", "size": "89.1 GB", "steamdbid": "1091500", "versione": "v.2.31", "online": "false", "download": "https://pixeldrain.com/u/jmhH4A7j", "avvii": null, "exe": "REDprelauncher.exe", "dipendenze": null, "disinstallazione": null, "xbox": false},
+    {"nome_gioco": "Resident Evil / biohazard HD REMASTER", "steamdbid": "304240", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/PZPL3KSN", "avvii": null, "exe": "bhd.exe", "dipendenze": null, "disinstallazione": null, "size": "20 GB"},
+    {"nome_gioco": "Euro Truck Simulator 2", "steamdbid": "227300", "versione": "v.1.55", "online": "true", "download": "https://pixeldrain.com/u/J5M7Fh1A", "avvii": null, "exe": "eurotrucks2.exe", "dipendenze": null, "disinstallazione": null, "size": "29.5 GB"}
   ]
 }
