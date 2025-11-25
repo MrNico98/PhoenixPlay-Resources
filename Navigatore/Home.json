@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "DRAGON BALL: Sparking! ZERO", "steamdbid": "1790600", "versione": "v.2013.012", "online": "true", "download": "https://pixeldrain.com/u/vCcTt6GT", "avvii": null, "exe": "SparkingZERO.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "29 GB"},
-    {"nome_gioco": "Cyberpunk 2077", "size": "89.1 GB", "steamdbid": "1091500", "versione": "v.2.31", "online": "false", "download": "https://pixeldrain.com/u/jmhH4A7j", "avvii": null, "exe": "REDprelauncher.exe", "dipendenze": null, "disinstallazione": null, "xbox": false},
-    {"nome_gioco": "Resident Evil / biohazard HD REMASTER", "steamdbid": "304240", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/PZPL3KSN", "avvii": null, "exe": "bhd.exe", "dipendenze": null, "disinstallazione": null, "size": "20 GB"},
-    {"nome_gioco": "Euro Truck Simulator 2", "steamdbid": "227300", "versione": "v.1.55", "online": "true", "download": "https://pixeldrain.com/u/J5M7Fh1A", "avvii": null, "exe": "eurotrucks2.exe", "dipendenze": null, "disinstallazione": null, "size": "29.5 GB"}
+    {"nome_gioco": "Dead Rising 3 Apocalypse Edition", "size": "30 GB", "steamdbid": "265550", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/nSV8k5Pb", "avvii": null, "exe": "deadrising3.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS", "size": "30.36 GB", "steamdbid": "1020790", "versione": "v.1.50", "online": "false", "download": "https://pixeldrain.com/u/a3BjVyVW", "avvii": null, "exe": "NSUNSC.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Bodycam", "steamdbid": "2406770", "versione": "v.19052025", "online": "true", "download": "https://pixeldrain.com/u/7nPpUdrB", "avvii": null, "exe": "Bodycam.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "2.3 GB"},
+    {"nome_gioco": "The Operator", "size": "3 GB", "steamdbid": "1771980", "versione": "v.2.3", "online": "false", "download": "https://pixeldrain.com/u/qJNdbRvH", "avvii": null, "exe": "OPERATOR.exe", "dipendenze": null, "disinstallazione": null}
   ]
 }
