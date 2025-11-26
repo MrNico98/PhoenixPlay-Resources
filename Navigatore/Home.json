@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Dead Rising 3 Apocalypse Edition", "size": "30 GB", "steamdbid": "265550", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/nSV8k5Pb", "avvii": null, "exe": "deadrising3.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS", "size": "30.36 GB", "steamdbid": "1020790", "versione": "v.1.50", "online": "false", "download": "https://pixeldrain.com/u/a3BjVyVW", "avvii": null, "exe": "NSUNSC.exe", "dipendenze": null, "disinstallazione": null},
-    {"nome_gioco": "Bodycam", "steamdbid": "2406770", "versione": "v.19052025", "online": "true", "download": "https://pixeldrain.com/u/7nPpUdrB", "avvii": null, "exe": "Bodycam.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "2.3 GB"},
-    {"nome_gioco": "The Operator", "size": "3 GB", "steamdbid": "1771980", "versione": "v.2.3", "online": "false", "download": "https://pixeldrain.com/u/qJNdbRvH", "avvii": null, "exe": "OPERATOR.exe", "dipendenze": null, "disinstallazione": null}
+    {"nome_gioco": "Broken Arrow", "steamdbid": "1604270", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/GVjQL4wg", "avvii": null, "exe": "BrokenArrow.exe", "dipendenze": null, "disinstallazione": null, "size": "85 GB"},
+    {"nome_gioco": "Marvel’s Spider-Man Remastered", "steamdbid": "1817070", "versione": "v.2.1012", "online": "false", "download": "https://pixeldrain.com/u/D1mg2MDb", "avvii": null, "exe": "Spider-Man.exe", "dipendenze": null, "disinstallazione": null, "size": "75 GB"},
+    {"nome_gioco": "Escape the Backrooms", "size": "6 GB", "steamdbid": "1943950", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/9i6YdAua", "avvii": null, "exe": "Backrooms.exe", "dipendenze": "steam.exe", "disinstallazione": null, "xbox": false},
+    {"nome_gioco": "Daemon X Machina: Titanic Scion", "steamdbid": "1342490", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/f7KxGr8R", "avvii": null, "exe": "Game.exe", "dipendenze": null, "disinstallazione": null, "size": "50 GB"}
   ]
 }
