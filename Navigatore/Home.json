@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Broken Arrow", "steamdbid": "1604270", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/GVjQL4wg", "avvii": null, "exe": "BrokenArrow.exe", "dipendenze": null, "disinstallazione": null, "size": "85 GB"},
-    {"nome_gioco": "Marvel’s Spider-Man Remastered", "steamdbid": "1817070", "versione": "v.2.1012", "online": "false", "download": "https://pixeldrain.com/u/D1mg2MDb", "avvii": null, "exe": "Spider-Man.exe", "dipendenze": null, "disinstallazione": null, "size": "75 GB"},
-    {"nome_gioco": "Escape the Backrooms", "size": "6 GB", "steamdbid": "1943950", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/9i6YdAua", "avvii": null, "exe": "Backrooms.exe", "dipendenze": "steam.exe", "disinstallazione": null, "xbox": false},
-    {"nome_gioco": "Daemon X Machina: Titanic Scion", "steamdbid": "1342490", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/f7KxGr8R", "avvii": null, "exe": "Game.exe", "dipendenze": null, "disinstallazione": null, "size": "50 GB"}
+    {"nome_gioco": "Nioh 2 – The Complete Edition", "size": "85 GB", "steamdbid": "1325200", "versione": "v.1.28", "online": "false", "download": "https://pixeldrain.com/u/oRLgnjMk", "avvii": null, "exe": "nioh2.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Tom Clancy’s Ghost Recon Wildlands", "steamdbid": "460930", "versione": "v.4792145", "online": "false", "download": "https://pixeldrain.com/u/tmqR2jaF", "avvii": null, "exe": "GRW.exe", "dipendenze": null, "disinstallazione": null, "size": "66 GB"},
+    {"nome_gioco": "Pinball FX", "steamdbid": "2328760", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/Yg4qFuxm", "avvii": null, "exe": "PinballFX.exe", "dipendenze": null, "disinstallazione": null, "size": "37.6 GB"},
+    {"nome_gioco": "Cuphead", "steamdbid": "268910", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/Mv2qcaz8", "avvii": null, "exe": "Cuphead.exe", "dipendenze": null, "disinstallazione": null, "size": "4.6 GB"}
   ]
 }
