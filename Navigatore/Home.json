@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "DARK SOULS III", "steamdbid": "374320", "versione": "v.1.15", "online": "false", "download": "https://pixeldrain.com/u/GfaCgGBw", "avvii": null, "exe": "DarkSoulsIII.exe", "dipendenze": null, "disinstallazione": null, "size": "25.2 GB"},
-    {"nome_gioco": "Pinball FX", "steamdbid": "2328760", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/Yg4qFuxm", "avvii": null, "exe": "PinballFX.exe", "dipendenze": null, "disinstallazione": null, "size": "37.6 GB"},
-    {"nome_gioco": "Balatro", "steamdbid": "2379780", "versione": "v.1.0.1o", "online": "false", "download": "https://pixeldrain.com/u/aoqrqm7C", "avvii": null, "exe": "Balatro.exe", "dipendenze": null, "disinstallazione": null, "size": "50 MB"},
-    {"nome_gioco": "PAYDAY 3", "steamdbid": "1272080", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/95Lx9fPm", "avvii": null, "exe": "PAYDAY3Client.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "65 GB"}
+    {"nome_gioco": "Broken Arrow", "steamdbid": "1604270", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/GVjQL4wg", "avvii": null, "exe": "BrokenArrow.exe", "dipendenze": null, "disinstallazione": null, "size": "85 GB"},
+    {"nome_gioco": "Indiana Jones e l'Antico Cerchio", "size": "137 GB", "steamdbid": "2677660", "versione": "v.1.0.9.0", "online": "false", "download": "", "download1": ["https://pixeldrain.com/u/szBoHvyy", "https://pixeldrain.com/u/wkWvd3cV"], "avvii": ["language.changer.exe"], "exe": "TheGreatCircle.exe", "dipendenze": null, "disinstallazione": null},
+    {"nome_gioco": "Firefighting Simulator Ignite", "size": "40 GB", "steamdbid": "1669480", "versione": "v.19871642", "online": "true", "download": "https://pixeldrain.com/u/Cewrckn3", "avvii": null, "exe": "FFSIgnite.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "Megabonk", "size": "500 MB", "steamdbid": "3405340", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/USYfmo4o", "avvii": null, "exe": "Megabonk.exe", "dipendenze": null, "disinstallazione": null, "xbox": false}
   ]
 }
