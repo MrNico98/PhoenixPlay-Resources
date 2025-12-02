@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Grocery Store Simulator", "steamdbid": "2961880", "versione": "v.1.1 ", "online": "true", "download": "https://pixeldrain.com/u/bAySiAXb", "avvii": null, "exe": "Simulatorita.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "6 GB"},
-    {"nome_gioco": "Dispatch", "size": "25 GB", "steamdbid": "2592160", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/CSJRJhks", "avvii": null, "exe": "Dispatch.exe", "dipendenze": null, "disinstallazione": null, "xbox": false},
-    {"nome_gioco": "Storage Hunter Simulator", "steamdbid": "1442430", "versione": "v.17512746", "online": "false", "download": "https://pixeldrain.com/u/5cwcUZVg", "avvii": null, "exe": "StorageHunter.exe", "dipendenze": null, "disinstallazione": null, "size": "8.6 GB"},
-    {"nome_gioco": "7 Days to Die", "steamdbid": "251570", "versione": "v.2.2", "online": "true", "download": "https://pixeldrain.com/u/jnX76vGE", "avvii": null, "exe": "7dLauncher.exe", "dipendenze": "steam.exe", "disinstallazione": null, "size": "12.7 GB"}
+    {"nome_gioco": "Ready or Not", "size": "50 GB", "steamdbid": "1144200", "versione": "v.19222255", "online": "true", "download": "https://pixeldrain.com/u/ew7XEZtR", "avvii": ["InstallEOSServices.bat", "ReadyOrNot.exe"], "exe": "ReadyOrNot.exe", "dipendenze": "", "disinstallazione": "UnistallEOSServices.bat"},
+    {"nome_gioco": "Papers, Please", "size": "131 MB", "steamdbid": "239030", "versione": "v.1.4.11.124", "online": "false", "download": "https://pixeldrain.com/u/9Kfe1xEn", "avvii": null, "exe": "PapersPlease.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Arctic Motel Simulator", "size": "19 GB", "steamdbid": "3098470", "versione": "v.3.0.2", "online": "false", "download": "https://pixeldrain.com/u/KwYdi3oy", "avvii": null, "exe": "Arctic Motel Simulator.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Cronos: The New Dawn", "size": "30 GB", "steamdbid": "2101960", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/XdobAwHV", "avvii": null, "exe": "Cronos.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
