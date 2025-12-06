@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Lords of the Fallen", "size": "45 GB", "steamdbid": "1501750", "versione": "v.2.0", "online": "false", "download": "https://pixeldrain.com/u/Qf1Xo9A8", "avvii": null, "exe": "LOTF2.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Canvas of Kings", "size": "2 GB", "steamdbid": "2498570", "versione": "v.0.0", "online": "false", "download": "https://pixeldrain.com/u/3KoAMrNf", "avvii": null, "exe": "CanvasOfKings.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Age of Mythology: Retold", "size": "25 GB", "steamdbid": "1934680", "versione": "v.100.18.27100.0", "online": "false", "download": "https://pixeldrain.com/u/wd4HPHb7", "avvii": null, "exe": "steamclient_loader.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Elden Ring Deluxe Edition", "size": "67 GB", "steamdbid": "1245620", "versione": "v.1.16.1", "online": "false", "download": "https://pixeldrain.com/u/yRjCLcRG", "avvii": ["Language Selector.exe - collegamento.lnk"], "exe": "eldenring.exe - collegamento.lnk", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Euro Truck Simulator 2", "size": "29.5 GB", "steamdbid": "227300", "versione": "v.1.55", "online": "true", "download": "https://pixeldrain.com/u/J5M7Fh1A", "avvii": null, "exe": "eurotrucks2.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "My Summer Car", "size": "1 GB", "steamdbid": "516750", "versione": "v.250120-01", "online": "false", "download": "https://pixeldrain.com/u/hUTZ2R7t", "avvii": null, "exe": "mysummercar.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Hollow Knight: Silksong", "size": "8 GB", "steamdbid": "1030300", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/vJqnirLT", "avvii": null, "exe": "Hollow Knight Silksong.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Farthest Frontier", "size": "4 GB", "steamdbid": "1044720", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/jjygorWX", "avvii": null, "exe": "Farthest Frontier.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
