@@ -1,8 +1,8 @@
 {
   "Home": [
+    {"nome_gioco": "Watch Dogs 2", "size": "44 GB", "steamdbid": "447040", "versione": "v.1.17", "online": "false", "download": "https://pixeldrain.com/u/ymKqQbXy", "avvii": null, "exe": "WatchDogs2.exe", "dipendenze": "", "disinstallazione": null},
     {"nome_gioco": "Sleeping Dogs: Definitive Edition", "size": "20 GB", "steamdbid": "307690", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/mdCo6yCq", "avvii": null, "exe": "Launcher.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "The Last of Us Part II Remastered", "size": "150 GB", "steamdbid": "2531310", "versione": "v.1.4.10515.636", "online": "false", "download1": ["https://pixeldrain.com/u/WgzQYtJb", "https://pixeldrain.com/u/ibrusv5C"], "avvii": null, "exe": "launcher.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "A Total War Saga: THRONES OF BRITANNIA", "size": "30 GB", "steamdbid": "712100", "versione": "v.1.2", "online": "false", "download": "https://pixeldrain.com/u/1NF9QZD5", "avvii": null, "exe": "thrones.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "R.E.P.O.", "size": "1 GB", "steamdbid": "3241660", "versione": "v.0.2", "online": "true", "download": "https://pixeldrain.com/u/nwpzpu4j", "avvii": null, "exe": "REPO.exe", "dipendenze": "steam.exe", "disinstallazione": null}
+    {"nome_gioco": "Raft", "size": "10 GB", "steamdbid": "648800", "versione": "v.1.09", "online": "true", "download": "https://pixeldrain.com/u/aqL5La5d", "avvii": null, "exe": "Raft.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "Dragon’s Dogma 2", "size": "60 GB", "steamdbid": "2054970", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/RWBnoF3S", "avvii": null, "exe": "DD2.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
