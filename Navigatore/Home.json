@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Age of Mythology: Retold", "size": "25 GB", "steamdbid": "1934680", "versione": "v.100.18.27100.0", "online": "false", "download": "https://pixeldrain.com/u/wd4HPHb7", "avvii": null, "exe": "steamclient_loader.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Nioh 2 – The Complete Edition", "size": "85 GB", "steamdbid": "1325200", "versione": "v.1.28", "online": "false", "download": "https://pixeldrain.com/u/oRLgnjMk", "avvii": null, "exe": "nioh2.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Suzerain", "size": "2 GB", "steamdbid": "1207650", "versione": "v.3.0.9", "online": "false", "download": "https://pixeldrain.com/u/dTztmhi7", "avvii": null, "exe": "Suzerain.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Fast Food Simulator", "size": "5 GB", "steamdbid": "2916430", "versione": "v.0.5", "online": "true", "download": "https://pixeldrain.com/u/pVsLqgqK", "avvii": null, "exe": "Fast Food Simulator.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "The Witcher: Enhanced Edition", "size": "55 GB", "steamdbid": "20900", "versione": "v.1.5", "online": "false", "download": "https://pixeldrain.com/u/gp2Pb58N", "avvii": null, "exe": "launcher.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Total War: THREE KINGDOMS", "size": "60 GB", "steamdbid": "779340", "versione": "v.1.5", "online": "false", "download": "https://pixeldrain.com/u/gwfovmML", "avvii": null, "exe": "Three_Kingdoms.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "The Elder Scrolls V: Skyrim Legendary Edition", "size": "12 GB", "steamdbid": "489830", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/YXqX7MMh", "avvii": null, "exe": "SkyrimLauncher.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Sleeping Dogs: Definitive Edition", "size": "20 GB", "steamdbid": "307690", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/mdCo6yCq", "avvii": null, "exe": "Launcher.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
