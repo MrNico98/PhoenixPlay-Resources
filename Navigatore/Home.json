@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Conan Exiles", "size": "115 GB", "steamdbid": "440900", "versione": "v.4.7", "online": "true", "download": "https://pixeldrain.com/u/HrwSr6Fr", "avvii": null, "exe": "ConanSandbox.exe", "dipendenze": "steam.exe", "disinstallazione": null},
-    {"nome_gioco": "Europa Universalis V", "size": "20 GB", "steamdbid": "3450310", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/xY6i7LWG", "avvii": null, "exe": "eu5.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "The Operator", "size": "3 GB", "steamdbid": "1771980", "versione": "v.2.3", "online": "false", "download": "https://pixeldrain.com/u/qJNdbRvH", "avvii": null, "exe": "OPERATOR.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "GTA/Grand Theft Auto: San Andreas", "size": "5 GB", "steamdbid": "1547000", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/bGuZbnPM", "avvii": null, "exe": "gta-sa.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Gotham Knights", "size": "45 GB", "steamdbid": "1496790", "versione": "v.5.000", "online": "false", "download": "https://pixeldrain.com/u/N9ES1Q8y", "avvii": null, "exe": "GothamKnights.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "HITMAN 3", "size": "71.9 GB", "steamdbid": "1829591", "versione": "v.3.230", "online": "false", "download": "https://pixeldrain.com/u/QfewZa4d", "avvii": null, "exe": "Launcher.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "The Witcher 3: Wild Hunt", "size": "50.1 GB", "steamdbid": "292030", "versione": "v.4.04", "online": "false", "download": "https://pixeldrain.com/u/QB2jzXm6", "avvii": null, "exe": "REDprelauncher.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Dispatch", "size": "25 GB", "steamdbid": "2592160", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/CSJRJhks", "avvii": null, "exe": "Dispatch.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
