@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Gotham Knights", "size": "45 GB", "steamdbid": "1496790", "versione": "v.5.000", "online": "false", "download": "https://pixeldrain.com/u/N9ES1Q8y", "avvii": null, "exe": "GothamKnights.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "HITMAN 3", "size": "71.9 GB", "steamdbid": "1829591", "versione": "v.3.230", "online": "false", "download": "https://pixeldrain.com/u/QfewZa4d", "avvii": null, "exe": "Launcher.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "The Witcher 3: Wild Hunt", "size": "50.1 GB", "steamdbid": "292030", "versione": "v.4.04", "online": "false", "download": "https://pixeldrain.com/u/QB2jzXm6", "avvii": null, "exe": "REDprelauncher.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Dispatch", "size": "25 GB", "steamdbid": "2592160", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/CSJRJhks", "avvii": null, "exe": "Dispatch.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Sons Of The Forest", "size": "20 GB", "steamdbid": "1326470", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/KX2jHpdq", "avvii": null, "exe": "SonsOfTheForest.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "BEYBLADE X EVOBATTLE", "size": "6 GB", "steamdbid": "3818010", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/sH6bWufm", "avvii": null, "exe": "BEYBLADE X EVOBATTLE.exe", "dipendenze": null, "disinstallazione": null, "xbox_support": false},
+    {"nome_gioco": "Call of Duty Black Ops II", "size": "25 GB", "steamdbid": "202970", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/w9BmBzRq", "avvii": null, "exe": "t6sp.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Ghost Of Tsushima DIRECTOR’S CUT", "size": "65 GB", "steamdbid": "2215430", "versione": "v.1053.7", "online": "false", "download": "https://pixeldrain.com/u/WwLuEGP8", "avvii": null, "exe": "GhostOfTsushima.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
