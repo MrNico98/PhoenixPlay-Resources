@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Frostpunk 2", "size": "30 GB", "steamdbid": "1601580", "versione": "v.1.4", "online": "false", "download": "https://pixeldrain.com/u/4FNoxQdn", "avvii": null, "exe": "Frostpunk2.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Town to City", "size": "3 GB", "steamdbid": "3115220", "versione": "v.0.1", "online": "false", "download": "https://pixeldrain.com/u/3ssX4qig", "avvii": null, "exe": "TownToCity.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Drive Beyond Horizons", "size": "9.8 GB", "steamdbid": "2625420", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/L8Mi1xS8", "avvii": null, "exe": "DriveBeyondHorizons.exe", "dipendenze": "steam.exe", "disinstallazione": null},
-    {"nome_gioco": "SWAT Commander", "size": "30 GB", "steamdbid": "1619310", "versione": "v.14143389", "online": "true", "download": "https://pixeldrain.com/u/QGqUEC8x", "avvii": null, "exe": "SWATCommander.exe", "dipendenze": "steam.exe", "disinstallazione": null}
+    {"nome_gioco": "Alien: Rogue Incursion Evolved Edition", "size": "30 GB", "steamdbid": "3655390", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/QKGqgtBc", "avvii": null, "exe": "Midnight.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "PAYDAY 3", "size": "65 GB", "steamdbid": "1272080", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/95Lx9fPm", "avvii": null, "exe": "PAYDAY3Client.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "Dead Island 2 Gold Edition", "size": "70 GB", "steamdbid": "701160", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/D9PB5k2a", "avvii": null, "exe": "DeadIsland.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Tom Clancy’s Ghost Recon Wildlands", "size": "66 GB", "steamdbid": "460930", "versione": "v.4792145", "online": "false", "download": "https://pixeldrain.com/u/tmqR2jaF", "avvii": null, "exe": "GRW.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
