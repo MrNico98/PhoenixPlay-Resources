@@ -1,25 +1,13 @@
 {
-  "version": "0.0.0.9",
+  "version": "0.0.1.0",
   "releaseNotes": {
     "IT": [
-      "Migliorato il supporto downlod file multipli",
-      "Migliorato il supporto per estrazioni file multipli",
-      "Aggiunto avviso sulla disinstallazione in caso di app Xbox",
-      "Aggiunta console log per gestione errori (F5)",
-      "Fix app Xbox craccate",
-      "Fix disinstallazione giochi",
-      "Incremento stabilità catalogo (numerosi giochi)",
-      "Cambio gestione DNS"
+      "Aggiunta ripresa download in caso di pausa o disconnessione",
+      "Migliorato cambio DNS"
     ],
     "EN": [
-      "Improved support for multiple file downloads",
-      "Improved support for multiple file extractions",
-      "Added uninstall warning for Xbox apps",
-      "Added console log for error handling (F5)",
-      "Fix for cracked Xbox apps",
-      "Fix for game uninstallation",
-      "Increased catalog stability (many games)",
-      "Changed DNS management"
+      "Added download resume when paused or disconnected",
+      "Improved changed DNS management"
     ]
   },
   "updateUrl": "https://github.com/MrNico98/PhoenixPlay-Resources/releases/download/Requisiti/Phoenix.Play.exe"
