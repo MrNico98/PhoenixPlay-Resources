@@ -1,8 +1,8 @@
 {
   "Home": [
     {"nome_gioco": "Lies of P", "size": "55.4 GB", "steamdbid": "1627720", "versione": "v.1.11", "online": "false", "download": "https://pixeldrain.com/u/L7mgPbxr", "avvii": null, "exe": "LOP.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Kindergarten 3", "size": "300 MB", "steamdbid": "2695570", "versione": "v.1.01", "online": "false", "download": "https://pixeldrain.com/u/rjCLUqSx", "avvii": null, "exe": "Kindergarten3.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "The Last of Us Part II Remastered", "size": "150 GB", "steamdbid": "2531310", "versione": "v.1.4.10515.636", "online": "false", "download1": ["https://pixeldrain.com/u/WgzQYtJb", "https://pixeldrain.com/u/ibrusv5C"], "avvii": null, "exe": "launcher.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Tom Clancy’s Ghost Recon Wildlands", "size": "66 GB", "steamdbid": "460930", "versione": "v.4792145", "online": "false", "download": "https://pixeldrain.com/u/tmqR2jaF", "avvii": null, "exe": "GRW.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Suzerain", "size": "2 GB", "steamdbid": "1207650", "versione": "v.3.0.9", "online": "false", "download": "https://pixeldrain.com/u/dTztmhi7", "avvii": null, "exe": "Suzerain.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Arctic Motel Simulator", "size": "19 GB", "steamdbid": "3098470", "versione": "v.3.0.2", "online": "false", "download": "https://pixeldrain.com/u/KwYdi3oy", "avvii": null, "exe": "Arctic Motel Simulator.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Family Guy Back to the Multiverse", "steamdbid": "214230", "versione": "v.28086", "online": "false", "download": "https://pixeldrain.com/u/fY9rUphv", "avvii": null, "exe": "FGUY.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
