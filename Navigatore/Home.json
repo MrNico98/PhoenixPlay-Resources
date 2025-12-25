@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Hell is Us", "size": "30 GB", "steamdbid": "1620730", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/MCz9H62D", "avvii": null, "exe": "HellIsUs.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Age of Mythology: Retold", "size": "25 GB", "steamdbid": "1934680", "versione": "v.100.18.27100.0", "online": "false", "download": "https://pixeldrain.com/u/wd4HPHb7", "avvii": null, "exe": "steamclient_loader.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Wolfenstein: Youngblood", "size": "40 GB", "steamdbid": "1056960", "versione": "v.11991189", "online": "false", "download": "https://pixeldrain.com/u/zdw1n7So", "avvii": null, "exe": "Youngblood_x64vk.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "DREDGE", "size": "2 GB", "steamdbid": "1562430", "versione": "v.1.5", "online": "false", "download": "https://pixeldrain.com/u/Yr7nBAsR", "avvii": null, "exe": "DREDGE.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Max Payne 3", "steamdbid": "204100", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/yHtN33rk", "avvii": null, "exe": "MaxPayne3.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Nioh 2 – The Complete Edition", "size": "85 GB", "steamdbid": "1325200", "versione": "v.1.28", "online": "false", "download": "https://pixeldrain.com/u/oRLgnjMk", "avvii": null, "exe": "nioh2.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Assassin’s Creed Syndicate Gold Edition", "size": "48.3 GB", "steamdbid": "368500", "versione": "v.1.51", "online": "false", "download": "https://pixeldrain.com/u/9wrhQqsn", "avvii": null, "exe": "ACS.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Balatro", "size": "50 MB", "steamdbid": "2379780", "versione": "v.1.0.1o", "online": "false", "download": "https://pixeldrain.com/u/aoqrqm7C", "avvii": null, "exe": "Balatro.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
