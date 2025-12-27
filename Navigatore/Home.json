@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Hogwarts Legacy Deluxe Edition", "size": "90 GB", "steamdbid": "990080", "versione": "v.1117238", "online": "false", "download": "https://pixeldrain.com/u/PZvH3oyV", "avvii": null, "exe": "HogwartsLegacy.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "RESIDENT EVIL 7 biohazard", "size": "56 GB", "steamdbid": "418370", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/z8phzCy5", "avvii": null, "exe": "re7.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Assassin’s Creed Syndicate Gold Edition", "size": "48.3 GB", "steamdbid": "368500", "versione": "v.1.51", "online": "false", "download": "https://pixeldrain.com/u/9wrhQqsn", "avvii": null, "exe": "ACS.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "inZOI", "size": "26 GB", "steamdbid": "2456740", "versione": "v.20251030.8384", "online": "false", "download": "https://pixeldrain.com/u/7HBk9BUw", "avvii": null, "exe": "inZOI.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Ready or Not", "size": "50 GB", "steamdbid": "1144200", "versione": "v.19222255", "online": "true", "download": "https://pixeldrain.com/u/ew7XEZtR", "avvii": ["InstallEOSServices.bat", "ReadyOrNot.exe"], "exe": "ReadyOrNot.exe", "dipendenze": "", "disinstallazione": "UnistallEOSServices.bat"},
+    {"nome_gioco": "Grocery Store Simulator", "size": "6 GB", "steamdbid": "2961880", "versione": "v.1.1 ", "online": "true", "download": "https://pixeldrain.com/u/bAySiAXb", "avvii": null, "exe": "Simulatorita.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "HITMAN 3", "size": "71.9 GB", "steamdbid": "1829591", "versione": "v.3.230", "online": "false", "download": "https://pixeldrain.com/u/QfewZa4d", "avvii": null, "exe": "Launcher.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "SILENT HILL f", "size": "50 GB", "steamdbid": "2947440", "versione": "v.1.1", "online": "false", "download": "https://pixeldrain.com/u/iV5dewt2", "avvii": null, "exe": "SILENT HILL f Launcher.bat", "dipendenze": "", "disinstallazione": null}
   ]
 }
