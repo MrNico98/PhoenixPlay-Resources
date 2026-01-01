@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "The Witcher 3: Wild Hunt", "size": "50.1 GB", "steamdbid": "292030", "versione": "v.4.04", "online": "false", "download": "https://pixeldrain.com/u/QB2jzXm6", "avvii": null, "exe": "REDprelauncher.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Assassin’s Creed Syndicate Gold Edition", "size": "48.3 GB", "steamdbid": "368500", "versione": "v.1.51", "online": "false", "download": "https://pixeldrain.com/u/9wrhQqsn", "avvii": null, "exe": "ACS.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Sifu", "size": "24 GB", "steamdbid": "2138710", "versione": "v.1.28", "online": "false", "download": "https://pixeldrain.com/u/n484A5oG", "avvii": null, "exe": "Sifu.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Forza Motorsport", "size": "130 GB", "steamdbid": "2440510", "versione": "v.1.835.2356.0", "online": "true", "download1": ["https://pixeldrain.com/u/SZA1Ss3M", "https://pixeldrain.com/u/yCNWLfAQ"], "avvii": ["ForzaMotorsport_loader.exe"], "exe": "forza_steamworks_release_final.exe", "dipendenze": "steam.exe", "disinstallazione": null}
+    {"nome_gioco": "A Total War Saga: THRONES OF BRITANNIA", "size": "30 GB", "steamdbid": "712100", "versione": "v.1.2", "online": "false", "download": "https://pixeldrain.com/u/1NF9QZD5", "avvii": null, "exe": "thrones.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Mindseye", "size": "70 GB", "steamdbid": "3265250", "versione": "v.4598223", "online": "false", "download": "https://pixeldrain.com/u/er7sUQ1r", "avvii": ["InstallPrerequisites.bat"], "exe": "MindsEye.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "The Last of Us Part I", "size": "100 GB", "steamdbid": "1888930", "versione": "v.1.1", "online": "false", "download": "https://pixeldrain.com/u/HzVKRydw", "avvii": null, "exe": "launcher.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Until Dawn", "size": "70 GB", "steamdbid": "2172010", "versione": "v.1.08", "online": "false", "download": "https://pixeldrain.com/u/n6pKgfd4", "avvii": null, "exe": "Bates.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
