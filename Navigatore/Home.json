@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "A Total War Saga: THRONES OF BRITANNIA", "size": "30 GB", "steamdbid": "712100", "versione": "v.1.2", "online": "false", "download": "https://pixeldrain.com/u/1NF9QZD5", "avvii": null, "exe": "thrones.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Mindseye", "size": "70 GB", "steamdbid": "3265250", "versione": "v.4598223", "online": "false", "download": "https://pixeldrain.com/u/er7sUQ1r", "avvii": ["InstallPrerequisites.bat"], "exe": "MindsEye.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "The Last of Us Part I", "size": "100 GB", "steamdbid": "1888930", "versione": "v.1.1", "online": "false", "download": "https://pixeldrain.com/u/HzVKRydw", "avvii": null, "exe": "launcher.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Until Dawn", "size": "70 GB", "steamdbid": "2172010", "versione": "v.1.08", "online": "false", "download": "https://pixeldrain.com/u/n6pKgfd4", "avvii": null, "exe": "Bates.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Detroit: Become Human", "size": "55 GB", "steamdbid": "1222140", "versione": "v.20211117", "online": "false", "download": "https://pixeldrain.com/u/qXxn6YAr", "avvii": null, "exe": "DetroitBecomeHuman.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Euro Truck Simulator 2", "size": "29.5 GB", "steamdbid": "227300", "versione": "v.1.55", "online": "true", "download": "https://pixeldrain.com/u/J5M7Fh1A", "avvii": null, "exe": "eurotrucks2.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Uncrashed : FPV Drone Simulator", "size": "30 GB", "steamdbid": "1682970", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/kC5nuYo2", "avvii": null, "exe": "Uncrashed.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Door Kickers 2: Task Force North", "size": "1 GB", "steamdbid": "1239080", "versione": "v.1.10", "online": "false", "download": "https://pixeldrain.com/u/H2PQkWyB", "avvii": null, "exe": "DoorKickers2.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
