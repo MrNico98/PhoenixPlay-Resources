@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Detroit: Become Human", "size": "55 GB", "steamdbid": "1222140", "versione": "v.20211117", "online": "false", "download": "https://pixeldrain.com/u/qXxn6YAr", "avvii": null, "exe": "DetroitBecomeHuman.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Euro Truck Simulator 2", "size": "29.5 GB", "steamdbid": "227300", "versione": "v.1.55", "online": "true", "download": "https://pixeldrain.com/u/J5M7Fh1A", "avvii": null, "exe": "eurotrucks2.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Uncrashed : FPV Drone Simulator", "size": "30 GB", "steamdbid": "1682970", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/kC5nuYo2", "avvii": null, "exe": "Uncrashed.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Door Kickers 2: Task Force North", "size": "1 GB", "steamdbid": "1239080", "versione": "v.1.10", "online": "false", "download": "https://pixeldrain.com/u/H2PQkWyB", "avvii": null, "exe": "DoorKickers2.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Hail to the Rainbow", "size": "15 GB", "steamdbid": "1699230", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/xtLPkk4Z", "avvii": null, "exe": "Hail to the Rainbow.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Clair Obscur: Expedition 33", "size": "55 GB", "steamdbid": "1903340", "versione": "v.57069", "online": "false", "download": "https://pixeldrain.com/u/E6vFTBBA", "avvii": null, "exe": "Expedition33_Steam.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Far Cry Primal", "size": "20 GB", "steamdbid": "371660", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/sbwFGBd8", "avvii": null, "exe": "FCPrimal.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "RIDE 4", "size": "43 GB", "steamdbid": "1259980", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/8tTY6hEV", "avvii": null, "exe": "ride4.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
