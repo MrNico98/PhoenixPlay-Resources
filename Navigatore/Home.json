@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "RESIDENT EVIL 7 biohazard", "size": "56 GB", "steamdbid": "418370", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/z8phzCy5", "avvii": null, "exe": "re7.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Storage Hunter Simulator", "size": "8.6 GB", "steamdbid": "1442430", "versione": "v.17512746", "online": "false", "download": "https://pixeldrain.com/u/5cwcUZVg", "avvii": null, "exe": "StorageHunter.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "F1 22", "size": "80 GB", "steamdbid": "1692250", "versione": "v.1.05", "online": "false", "download": "https://pixeldrain.com/u/onZf3sec", "avvii": null, "exe": "F1_22.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Days Gone", "size": "70 GB", "steamdbid": "1259420", "versione": "v1.36.187.0", "online": "false", "download": "https://pixeldrain.com/u/2XciXtmd", "avvii": null, "exe": "Launcher.bat", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "HITMAN 3", "size": "71.9 GB", "steamdbid": "1829591", "versione": "v.3.230", "online": "false", "download": "https://pixeldrain.com/u/QfewZa4d", "avvii": null, "exe": "Launcher.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Bodycam", "size": "2.3 GB", "steamdbid": "2406770", "versione": "v.19052025", "online": "true", "download": "https://pixeldrain.com/u/7nPpUdrB", "avvii": null, "exe": "Bodycam.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "Total War: NAPOLEON – Definitive Edition", "size": "30 GB", "steamdbid": "34030", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/8mbvx1RS", "avvii": null, "exe": "Napoleon.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Europa Universalis V", "size": "20 GB", "steamdbid": "3450310", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/xY6i7LWG", "avvii": null, "exe": "eu5.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
