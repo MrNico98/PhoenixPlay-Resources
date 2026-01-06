@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "HITMAN 3", "size": "71.9 GB", "steamdbid": "1829591", "versione": "v.3.230", "online": "false", "download": "https://pixeldrain.com/u/QfewZa4d", "avvii": null, "exe": "Launcher.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Bodycam", "size": "2.3 GB", "steamdbid": "2406770", "versione": "v.19052025", "online": "true", "download": "https://pixeldrain.com/u/7nPpUdrB", "avvii": null, "exe": "Bodycam.exe", "dipendenze": "steam.exe", "disinstallazione": null},
-    {"nome_gioco": "Total War: NAPOLEON – Definitive Edition", "size": "30 GB", "steamdbid": "34030", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/8mbvx1RS", "avvii": null, "exe": "Napoleon.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Europa Universalis V", "size": "20 GB", "steamdbid": "3450310", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/xY6i7LWG", "avvii": null, "exe": "eu5.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Shape of Dreams", "size": "12 GB", "steamdbid": "2444750", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/uZr1gMDw", "avvii": null, "exe": "Shape of Dreams.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "The Operator", "size": "3 GB", "steamdbid": "1771980", "versione": "v.2.3", "online": "false", "download": "https://pixeldrain.com/u/qJNdbRvH", "avvii": null, "exe": "OPERATOR.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "A Plague Tale: Requiem", "size": "55 GB", "steamdbid": "1182900", "versione": "v.1.4", "online": "false", "download": "https://pixeldrain.com/u/L8bgkvA5", "avvii": null, "exe": "APlagueTaleRequiem_x64.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Metro 2033 Redux", "size": "10 GB", "steamdbid": "286690", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/xQAcok6m", "avvii": null, "exe": "metro.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
