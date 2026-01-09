@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Lossless Scaling", "size": "1 GB", "steamdbid": "993090", "versione": "v.3.2", "online": "false", "download": "https://pixeldrain.com/u/Jz8Uexxs", "avvii": null, "exe": "LosslessScaling.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "BeamNG.drive", "size": "18 GB", "steamdbid": "284160", "versione": "v.0.36.2.0", "online": "true", "download": "https://pixeldrain.com/u/u9P6QpWD", "avvii": null, "exe": "BeamNG.drive.exe", "dipendenze": "steam.exe", "disinstallazione": null},
-    {"nome_gioco": "PEAK", "size": "4 GB", "steamdbid": "3527290", "versione": "v.1.46", "online": "true", "download": "https://pixeldrain.com/u/CTnLMZ2H", "avvii": null, "exe": "PEAK.exe", "dipendenze": "steam.exe", "disinstallazione": null},
-    {"nome_gioco": "Drive Beyond Horizons", "size": "9.8 GB", "steamdbid": "2625420", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/L8Mi1xS8", "avvii": null, "exe": "DriveBeyondHorizons.exe", "dipendenze": "steam.exe", "disinstallazione": null}
+    {"nome_gioco": "Gears of War: Reloaded", "size": "70 GB", "steamdbid": "2523720", "versione": "v.1.0.1.3689997", "online": "false", "download": "https://pixeldrain.com/u/Utuu35LG", "avvii": ["Install_EasyAntiCheat.bat"], "exe": "Launch_GOWDE.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "PAYDAY 3", "size": "65 GB", "steamdbid": "1272080", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/95Lx9fPm", "avvii": null, "exe": "PAYDAY3Client.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "Formula Legends", "size": "7 GB", "steamdbid": "3194360", "versione": "v.20017489", "online": "false", "download": "https://pixeldrain.com/u/gmT2XAT3", "avvii": null, "exe": "ASC.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Far Cry Primal", "size": "20 GB", "steamdbid": "371660", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/sbwFGBd8", "avvii": null, "exe": "FCPrimal.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
