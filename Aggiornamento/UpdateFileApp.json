@@ -1,13 +1,11 @@
 {
-  "version": "0.0.1.0",
+  "version": "0.0.1.1",
   "releaseNotes": {
     "IT": [
-      "Aggiunta ripresa download in caso di pausa o disconnessione",
-      "Migliorato cambio DNS"
+      "Fix estrazione 7z"
     ],
     "EN": [
-      "Added download resume when paused or disconnected",
-      "Improved changed DNS management"
+      "Add support extraction 7z"
     ]
   },
   "updateUrl": "https://github.com/MrNico98/PhoenixPlay-Resources/releases/download/Requisiti/Phoenix.Play.exe"
