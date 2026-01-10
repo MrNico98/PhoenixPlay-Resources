@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Gears of War: Reloaded", "size": "70 GB", "steamdbid": "2523720", "versione": "v.1.0.1.3689997", "online": "false", "download": "https://pixeldrain.com/u/Utuu35LG", "avvii": ["Install_EasyAntiCheat.bat"], "exe": "Launch_GOWDE.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "PAYDAY 3", "size": "65 GB", "steamdbid": "1272080", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/95Lx9fPm", "avvii": null, "exe": "PAYDAY3Client.exe", "dipendenze": "steam.exe", "disinstallazione": null},
-    {"nome_gioco": "Formula Legends", "size": "7 GB", "steamdbid": "3194360", "versione": "v.20017489", "online": "false", "download": "https://pixeldrain.com/u/gmT2XAT3", "avvii": null, "exe": "ASC.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Far Cry Primal", "size": "20 GB", "steamdbid": "371660", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/sbwFGBd8", "avvii": null, "exe": "FCPrimal.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Vampire: The Masquerade – Bloodlines 2", "size": "30 GB", "steamdbid": "1096410", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/rcfw3nMK", "avvii": null, "exe": "Bloodlines2.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Arctic Motel Simulator", "size": "19 GB", "steamdbid": "3098470", "versione": "v.3.0.2", "online": "false", "download": "https://pixeldrain.com/u/KwYdi3oy", "avvii": null, "exe": "Arctic Motel Simulator.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "NBA 2K23", "size": "110 GB", "steamdbid": "1919590", "versione": "v.10159500", "online": "false", "download1": ["https://pixeldrain.com/u/327JLjoo", "https://pixeldrain.com/u/KkFDNAt1"], "avvii": null, "exe": "NBA2K23.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Hollow Knight", "size": "9 GB", "steamdbid": "367520", "versione": "v.1.5", "online": "false", "download": "https://pixeldrain.com/u/8B2U6jT1", "avvii": null, "exe": "Hollow Knight.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
