@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Vampire: The Masquerade – Bloodlines 2", "size": "30 GB", "steamdbid": "1096410", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/rcfw3nMK", "avvii": null, "exe": "Bloodlines2.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Arctic Motel Simulator", "size": "19 GB", "steamdbid": "3098470", "versione": "v.3.0.2", "online": "false", "download": "https://pixeldrain.com/u/KwYdi3oy", "avvii": null, "exe": "Arctic Motel Simulator.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "NBA 2K23", "size": "110 GB", "steamdbid": "1919590", "versione": "v.10159500", "online": "false", "download1": ["https://pixeldrain.com/u/327JLjoo", "https://pixeldrain.com/u/KkFDNAt1"], "avvii": null, "exe": "NBA2K23.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Hollow Knight", "size": "9 GB", "steamdbid": "367520", "versione": "v.1.5", "online": "false", "download": "https://pixeldrain.com/u/8B2U6jT1", "avvii": null, "exe": "Hollow Knight.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Contraband Police", "size": "12 GB", "steamdbid": "756800", "versione": "v.10.6", "online": "false", "download": "https://pixeldrain.com/u/HtJ2bGAE", "avvii": null, "exe": "ContrabandPolice.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "DARK SOULS: REMASTERED", "size": "8 GB", "steamdbid": "570940", "versione": "v.1.03", "online": "false", "download": "https://pixeldrain.com/u/jA94ZgmU", "avvii": null, "exe": "DarkSoulsRemastered.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "My Summer Car", "size": "1 GB", "steamdbid": "516750", "versione": "v.250120-01", "online": "false", "download": "https://pixeldrain.com/u/hUTZ2R7t", "avvii": null, "exe": "mysummercar.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "SWAT Commander", "size": "30 GB", "steamdbid": "1619310", "versione": "v.14143389", "online": "true", "download": "https://pixeldrain.com/u/QGqUEC8x", "avvii": null, "exe": "SWATCommander.exe", "dipendenze": "steam.exe", "disinstallazione": null}
   ]
 }
