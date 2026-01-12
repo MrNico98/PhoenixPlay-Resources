@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Contraband Police", "size": "12 GB", "steamdbid": "756800", "versione": "v.10.6", "online": "false", "download": "https://pixeldrain.com/u/HtJ2bGAE", "avvii": null, "exe": "ContrabandPolice.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "DARK SOULS: REMASTERED", "size": "8 GB", "steamdbid": "570940", "versione": "v.1.03", "online": "false", "download": "https://pixeldrain.com/u/jA94ZgmU", "avvii": null, "exe": "DarkSoulsRemastered.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "My Summer Car", "size": "1 GB", "steamdbid": "516750", "versione": "v.250120-01", "online": "false", "download": "https://pixeldrain.com/u/hUTZ2R7t", "avvii": null, "exe": "mysummercar.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "SWAT Commander", "size": "30 GB", "steamdbid": "1619310", "versione": "v.14143389", "online": "true", "download": "https://pixeldrain.com/u/QGqUEC8x", "avvii": null, "exe": "SWATCommander.exe", "dipendenze": "steam.exe", "disinstallazione": null}
+    {"nome_gioco": "Dead Rising 2", "size": "30 GB", "steamdbid": "45740", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/qTzyAuZP", "avvii": null, "exe": "deadrising2.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Vampire: The Masquerade – Bloodlines 2", "size": "30 GB", "steamdbid": "1096410", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/rcfw3nMK", "avvii": null, "exe": "Bloodlines2.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Far Cry Primal", "size": "20 GB", "steamdbid": "371660", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/sbwFGBd8", "avvii": null, "exe": "FCPrimal.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "F1 2012", "steamdbid": "208500", "versione": "v.1.3.3.0", "online": "false", "download": "https://pixeldrain.com/u/7KJ6Fkx6", "avvii": null, "exe": "F1_2012.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
