@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Dead Rising 2", "size": "30 GB", "steamdbid": "45740", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/qTzyAuZP", "avvii": null, "exe": "deadrising2.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Vampire: The Masquerade – Bloodlines 2", "size": "30 GB", "steamdbid": "1096410", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/rcfw3nMK", "avvii": null, "exe": "Bloodlines2.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Far Cry Primal", "size": "20 GB", "steamdbid": "371660", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/sbwFGBd8", "avvii": null, "exe": "FCPrimal.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "F1 2012", "steamdbid": "208500", "versione": "v.1.3.3.0", "online": "false", "download": "https://pixeldrain.com/u/7KJ6Fkx6", "avvii": null, "exe": "F1_2012.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "HER STORY", "size": "2 GB", "steamdbid": "368370", "versione": "v.1470325", "online": "false", "download": "https://pixeldrain.com/u/zF1ivXXM", "avvii": null, "exe": "HerStory.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Alien: Rogue Incursion Evolved Edition", "size": "30 GB", "steamdbid": "3655390", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/QKGqgtBc", "avvii": null, "exe": "Midnight.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "The Last of Us Part I", "size": "100 GB", "steamdbid": "1888930", "versione": "v.1.1", "online": "false", "download": "https://pixeldrain.com/u/HzVKRydw", "avvii": null, "exe": "launcher.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Killing Floor 3", "size": "30 GB", "steamdbid": "1430190", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/4EneXkbA", "avvii": ["EasyAntiCheat_EOS_Setup.exe"], "exe": "start_protected_game.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
