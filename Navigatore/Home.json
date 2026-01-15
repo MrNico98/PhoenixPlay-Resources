@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Farthest Frontier", "size": "4 GB", "steamdbid": "1044720", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/jjygorWX", "avvii": null, "exe": "Farthest Frontier.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "HITMAN 3", "size": "71.9 GB", "steamdbid": "1829591", "versione": "v.3.230", "online": "false", "download": "https://pixeldrain.com/u/QfewZa4d", "avvii": null, "exe": "Launcher.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "PAC-MAN WORLD 2 Re-PAC", "size": "11 GB", "steamdbid": "2324290", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/xscR3MoN", "avvii": null, "exe": "PAC-MAN WORLD 2 Re-PAC.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Nioh 2 – The Complete Edition", "size": "85 GB", "steamdbid": "1325200", "versione": "v.1.28", "online": "false", "download": "https://pixeldrain.com/u/oRLgnjMk", "avvii": null, "exe": "nioh2.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Jurassic World Evolution 2", "size": "14 GB", "steamdbid": "1244460", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/iwcSqbx4", "avvii": null, "exe": "JWE2.release.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Geometry Dash", "size": "100 MB", "steamdbid": "322170", "versione": "v.2.2074", "online": "false", "download": "https://pixeldrain.com/u/ohuPka9q", "avvii": null, "exe": "GeometryDash.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Dead Rising 3 Apocalypse Edition", "size": "30 GB", "steamdbid": "265550", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/nSV8k5Pb", "avvii": null, "exe": "deadrising3.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Dune: Imperium", "size": "2 GB", "steamdbid": "1689500", "versione": "v.3.3.1", "online": "false", "download": "https://pixeldrain.com/u/4cXYbh54", "avvii": null, "exe": "DuneImperium.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
