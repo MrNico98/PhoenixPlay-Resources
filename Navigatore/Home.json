@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Dead Rising 3 Apocalypse Edition", "size": "30 GB", "steamdbid": "265550", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/nSV8k5Pb", "avvii": null, "exe": "deadrising3.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Alien: Rogue Incursion Evolved Edition", "size": "30 GB", "steamdbid": "3655390", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/QKGqgtBc", "avvii": null, "exe": "Midnight.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Max Payne 3", "steamdbid": "204100", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/yHtN33rk", "avvii": null, "exe": "MaxPayne3.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Clair Obscur: Expedition 33", "size": "55 GB", "steamdbid": "1903340", "versione": "v.57069", "online": "false", "download": "https://pixeldrain.com/u/E6vFTBBA", "avvii": null, "exe": "Expedition33_Steam.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Lost Soul Aside", "size": "80 GB", "steamdbid": "3378960", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/aZPCU9Pn", "avvii": null, "exe": "LostSoulAside.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "PowerWash Simulator 2", "size": "8 GB", "steamdbid": "2968420", "versione": "v.1.1", "online": "false", "download": "https://pixeldrain.com/u/cCyJHyCc", "avvii": null, "exe": "PowerWash Simulator 2.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Total War: ROME II Emperor Edition", "steamdbid": "214950", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/KC9btnwF", "avvii": null, "exe": "Rome2.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Kindergarten", "size": "300 MB", "steamdbid": "589590", "versione": "v.2.04", "online": "false", "download": "https://pixeldrain.com/u/zHq8Wu8f", "avvii": null, "exe": "Kindergarten.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
