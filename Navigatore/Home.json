@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Kindergarten 3", "size": "300 MB", "steamdbid": "2695570", "versione": "v.1.01", "online": "false", "download": "https://pixeldrain.com/u/rjCLUqSx", "avvii": null, "exe": "Kindergarten3.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "DARK SOULS II", "size": "14.8 GB", "steamdbid": "236430", "versione": "v.1.02", "online": "false", "download": "https://pixeldrain.com/u/d5g8jzTL", "avvii": null, "exe": "DarkSoulsII.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Horizon Zero Dawn Complete Edition", "size": "100 GB", "steamdbid": "1151640", "versione": "v.1.11", "online": "false", "download": "https://pixeldrain.com/u/tfkaWcst", "avvii": null, "exe": "HorizonZeroDawn.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "SCUM", "size": "80 GB", "steamdbid": "513710", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/LDNHFeGK", "avvii": null, "exe": "SCUM_Launcher.exe", "dipendenze": "steam.exe", "disinstallazione": null}
+    {"nome_gioco": "Hell is Us", "size": "30 GB", "steamdbid": "1620730", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/MCz9H62D", "avvii": null, "exe": "HellIsUs.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Storage Hunter Simulator", "size": "8.6 GB", "steamdbid": "1442430", "versione": "v.17512746", "online": "false", "download": "https://pixeldrain.com/u/5cwcUZVg", "avvii": null, "exe": "StorageHunter.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Ghost Of Tsushima DIRECTOR’S CUT", "size": "65 GB", "steamdbid": "2215430", "versione": "v.1053.7", "online": "false", "download": "https://pixeldrain.com/u/WwLuEGP8", "avvii": null, "exe": "GhostOfTsushima.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Papers, Please", "size": "131 MB", "steamdbid": "239030", "versione": "v.1.4.11.124", "online": "false", "download": "https://pixeldrain.com/u/9Kfe1xEn", "avvii": null, "exe": "PapersPlease.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
