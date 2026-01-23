@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Hell is Us", "size": "30 GB", "steamdbid": "1620730", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/MCz9H62D", "avvii": null, "exe": "HellIsUs.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Storage Hunter Simulator", "size": "8.6 GB", "steamdbid": "1442430", "versione": "v.17512746", "online": "false", "download": "https://pixeldrain.com/u/5cwcUZVg", "avvii": null, "exe": "StorageHunter.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Ghost Of Tsushima DIRECTOR’S CUT", "size": "65 GB", "steamdbid": "2215430", "versione": "v.1053.7", "online": "false", "download": "https://pixeldrain.com/u/WwLuEGP8", "avvii": null, "exe": "GhostOfTsushima.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Papers, Please", "size": "131 MB", "steamdbid": "239030", "versione": "v.1.4.11.124", "online": "false", "download": "https://pixeldrain.com/u/9Kfe1xEn", "avvii": null, "exe": "PapersPlease.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Ninja Gaiden 4", "size": "100 GB", "steamdbid": "2627260", "versione": "v.1.0.1.0", "online": "false", "download": "https://pixeldrain.com/u/pzdK51Ro", "avvii": null, "exe": "NINJAGAIDEN4-Steam.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Marvels Spider-Man Miles Morales", "size": "75 GB", "steamdbid": "1817190", "versione": "v.3.617.1.0", "online": "false", "download": "https://pixeldrain.com/u/ihJkrFdC", "avvii": null, "exe": "MilesMorales.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Sifu", "size": "24 GB", "steamdbid": "2138710", "versione": "v.1.28", "online": "false", "download": "https://pixeldrain.com/u/n484A5oG", "avvii": null, "exe": "Sifu.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Canvas of Kings", "size": "2 GB", "steamdbid": "2498570", "versione": "v.0.0", "online": "false", "download": "https://pixeldrain.com/u/3KoAMrNf", "avvii": null, "exe": "CanvasOfKings.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
