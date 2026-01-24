@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Ninja Gaiden 4", "size": "100 GB", "steamdbid": "2627260", "versione": "v.1.0.1.0", "online": "false", "download": "https://pixeldrain.com/u/pzdK51Ro", "avvii": null, "exe": "NINJAGAIDEN4-Steam.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Marvels Spider-Man Miles Morales", "size": "75 GB", "steamdbid": "1817190", "versione": "v.3.617.1.0", "online": "false", "download": "https://pixeldrain.com/u/ihJkrFdC", "avvii": null, "exe": "MilesMorales.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Sifu", "size": "24 GB", "steamdbid": "2138710", "versione": "v.1.28", "online": "false", "download": "https://pixeldrain.com/u/n484A5oG", "avvii": null, "exe": "Sifu.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Canvas of Kings", "size": "2 GB", "steamdbid": "2498570", "versione": "v.0.0", "online": "false", "download": "https://pixeldrain.com/u/3KoAMrNf", "avvii": null, "exe": "CanvasOfKings.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Euro Truck Simulator 2", "size": "29.5 GB", "steamdbid": "227300", "versione": "v.1.55", "online": "true", "download": "https://pixeldrain.com/u/J5M7Fh1A", "avvii": null, "exe": "eurotrucks2.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "The Precinct", "size": "8 GB", "steamdbid": "490110", "versione": "v.1.9", "online": "false", "download": "https://pixeldrain.com/u/N6mfeyZZ", "avvii": null, "exe": "Precinct.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "NBA 2K23", "size": "110 GB", "steamdbid": "1919590", "versione": "v.10159500", "online": "false", "download1": ["https://pixeldrain.com/u/327JLjoo", "https://pixeldrain.com/u/KkFDNAt1"], "avvii": null, "exe": "NBA2K23.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Stick It to the Stickman", "size": "6 GB", "steamdbid": "2085540", "versione": "v.19661041", "online": "false", "download": "https://pixeldrain.com/u/zX1qg7AC", "avvii": null, "exe": "Stick It To The Stickman.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
