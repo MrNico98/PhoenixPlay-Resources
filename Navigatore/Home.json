@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Devil May Cry 5", "size": "40.6 GB", "steamdbid": "601150", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/hPRJ27bP", "avvii": null, "exe": "DevilMayCry5.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Call of Duty Black Ops II", "size": "25 GB", "steamdbid": "202970", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/w9BmBzRq", "avvii": null, "exe": "t6sp.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Mafia III: Definitive Edition", "size": "50 GB", "steamdbid": "360430", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/1Q1usxyb", "avvii": null, "exe": "Launcher.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Drive Beyond Horizons", "size": "9.8 GB", "steamdbid": "2625420", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/L8Mi1xS8", "avvii": null, "exe": "DriveBeyondHorizons.exe", "dipendenze": "steam.exe", "disinstallazione": null}
+    {"nome_gioco": "Quadrilateral Cowboy", "size": "1 GB", "steamdbid": "240440", "versione": "v.0.0", "online": "false", "download": "https://pixeldrain.com/u/LXVNhfQr", "avvii": null, "exe": "qc.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "DARK SOULS II", "size": "14.8 GB", "steamdbid": "236430", "versione": "v.1.02", "online": "false", "download": "https://pixeldrain.com/u/d5g8jzTL", "avvii": null, "exe": "DarkSoulsII.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Grand Theft Auto IV", "size": "150 MB", "steamdbid": "12210", "versione": "v.1.2", "online": "false", "download": "https://pixeldrain.com/u/UBiVsZkk", "avvii": null, "exe": "GTAIV.exe", "dipendenze": null, "disinstallazione": null, "xbox_support": false},
+    {"nome_gioco": "Schedule I", "size": "8 GB", "steamdbid": "3164500", "versione": "v.0.4", "online": "true", "download": "https://pixeldrain.com/u/GidsaN5T", "avvii": null, "exe": "Schedule I.exe", "dipendenze": "steam.exe", "disinstallazione": null}
   ]
 }
