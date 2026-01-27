@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Quadrilateral Cowboy", "size": "1 GB", "steamdbid": "240440", "versione": "v.0.0", "online": "false", "download": "https://pixeldrain.com/u/LXVNhfQr", "avvii": null, "exe": "qc.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "DARK SOULS II", "size": "14.8 GB", "steamdbid": "236430", "versione": "v.1.02", "online": "false", "download": "https://pixeldrain.com/u/d5g8jzTL", "avvii": null, "exe": "DarkSoulsII.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Grand Theft Auto IV", "size": "150 MB", "steamdbid": "12210", "versione": "v.1.2", "online": "false", "download": "https://pixeldrain.com/u/UBiVsZkk", "avvii": null, "exe": "GTAIV.exe", "dipendenze": null, "disinstallazione": null, "xbox_support": false},
-    {"nome_gioco": "Schedule I", "size": "8 GB", "steamdbid": "3164500", "versione": "v.0.4", "online": "true", "download": "https://pixeldrain.com/u/GidsaN5T", "avvii": null, "exe": "Schedule I.exe", "dipendenze": "steam.exe", "disinstallazione": null}
+    {"nome_gioco": "DARK SOULS: REMASTERED", "size": "8 GB", "steamdbid": "570940", "versione": "v.1.03", "online": "false", "download": "https://pixeldrain.com/u/jA94ZgmU", "avvii": null, "exe": "DarkSoulsRemastered.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Mount & Blade II: Bannerlord", "size": "60 GB", "steamdbid": "261550", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/f5yaW1M7", "avvii": null, "exe": "Bannerlord.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Dying Light: The Beast", "size": "70 GB", "steamdbid": "3008130", "versione": "v.1.2", "online": "true", "download": "https://pixeldrain.com/u/4UNefDYC", "avvii": null, "exe": "DyingLightGame_TheBeast_x64_rwdi.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "SILENT HILL 2", "size": "50 GB", "steamdbid": "2124490", "versione": "v.1.1", "online": "false", "download": "https://pixeldrain.com/u/E8G6KexS", "avvii": null, "exe": "SHProto.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
