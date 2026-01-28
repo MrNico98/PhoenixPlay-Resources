@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "DARK SOULS: REMASTERED", "size": "8 GB", "steamdbid": "570940", "versione": "v.1.03", "online": "false", "download": "https://pixeldrain.com/u/jA94ZgmU", "avvii": null, "exe": "DarkSoulsRemastered.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Mount & Blade II: Bannerlord", "size": "60 GB", "steamdbid": "261550", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/f5yaW1M7", "avvii": null, "exe": "Bannerlord.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Dying Light: The Beast", "size": "70 GB", "steamdbid": "3008130", "versione": "v.1.2", "online": "true", "download": "https://pixeldrain.com/u/4UNefDYC", "avvii": null, "exe": "DyingLightGame_TheBeast_x64_rwdi.exe", "dipendenze": "steam.exe", "disinstallazione": null},
-    {"nome_gioco": "SILENT HILL 2", "size": "50 GB", "steamdbid": "2124490", "versione": "v.1.1", "online": "false", "download": "https://pixeldrain.com/u/E8G6KexS", "avvii": null, "exe": "SHProto.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Batman Arkham Knight Premium", "size": "52.3 GB", "steamdbid": "208650", "versione": "v.1.999", "online": "false", "download": "https://pixeldrain.com/u/t4Gj2JWM", "avvii": ["LanguageSelector.exe"], "exe": "BatmanAK.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Formula Legends", "size": "7 GB", "steamdbid": "3194360", "versione": "v.20017489", "online": "false", "download": "https://pixeldrain.com/u/gmT2XAT3", "avvii": null, "exe": "ASC.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Satisfactory", "size": "15 GB", "steamdbid": "526870", "versione": "v.1.1", "online": "true", "download": "https://pixeldrain.com/u/LADtQxGA", "avvii": null, "exe": "FactoryGameSteam.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "Six Days in Fallujah", "size": "22 GB", "steamdbid": "1548850", "versione": "v.0.4", "online": "false", "download": "https://pixeldrain.com/u/3WPEMoK1", "avvii": null, "exe": "SixDays.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
