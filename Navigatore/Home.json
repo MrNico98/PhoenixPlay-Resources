@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Papers, Please", "size": "131 MB", "steamdbid": "239030", "versione": "v.1.4.11.124", "online": "false", "download": "https://pixeldrain.com/u/9Kfe1xEn", "avvii": null, "exe": "PapersPlease.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "HER STORY", "size": "2 GB", "steamdbid": "368370", "versione": "v.1470325", "online": "false", "download": "https://pixeldrain.com/u/zF1ivXXM", "avvii": null, "exe": "HerStory.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Cuphead", "size": "4.6 GB", "steamdbid": "268910", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/Mv2qcaz8", "avvii": null, "exe": "Cuphead.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "PEAK", "size": "4 GB", "steamdbid": "3527290", "versione": "v.1.46", "online": "true", "download": "https://pixeldrain.com/u/CTnLMZ2H", "avvii": null, "exe": "PEAK.exe", "dipendenze": "steam.exe", "disinstallazione": null}
+    {"nome_gioco": "Dune: Imperium", "size": "2 GB", "steamdbid": "1689500", "versione": "v.3.3.1", "online": "false", "download": "https://pixeldrain.com/u/4cXYbh54", "avvii": null, "exe": "DuneImperium.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "DREDGE", "size": "2 GB", "steamdbid": "1562430", "versione": "v.1.5", "online": "false", "download": "https://pixeldrain.com/u/Yr7nBAsR", "avvii": null, "exe": "DREDGE.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "inZOI", "size": "26 GB", "steamdbid": "2456740", "versione": "v.20251030.8384", "online": "false", "download": "https://pixeldrain.com/u/7HBk9BUw", "avvii": null, "exe": "inZOI.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Vintage Story", "size": "3 GB", "versione": "v.1.20", "online": "false", "download": "https://pixeldrain.com/u/FHqWtfpu", "avvii": null, "exe": "Vintagestory.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
