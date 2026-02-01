@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "inZOI", "size": "26 GB", "steamdbid": "2456740", "versione": "v.20251030.8384", "online": "false", "download": "https://pixeldrain.com/u/7HBk9BUw", "avvii": null, "exe": "inZOI.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Vintage Story", "size": "3 GB", "versione": "v.1.20", "online": "false", "download": "https://pixeldrain.com/u/FHqWtfpu", "avvii": null, "exe": "Vintagestory.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Kindergarten 2", "size": "300 MB", "steamdbid": "1067850", "versione": "v.2.00", "online": "false", "download": "https://pixeldrain.com/u/V1t8bGvP", "avvii": null, "exe": "Kindergarten2.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Hollow Knight", "size": "9 GB", "steamdbid": "367520", "versione": "v.1.5", "online": "false", "download": "https://pixeldrain.com/u/8B2U6jT1", "avvii": null, "exe": "Hollow Knight.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Escape the Backrooms", "size": "6 GB", "steamdbid": "1943950", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/9i6YdAua", "avvii": null, "exe": "Backrooms.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "Townscaper", "size": "400 MB", "steamdbid": "1291340", "versione": "v.1.2.1", "online": "false", "download": "https://pixeldrain.com/u/Yhiv2VVP", "avvii": null, "exe": "Townscaper.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Satisfactory", "size": "15 GB", "steamdbid": "526870", "versione": "v.1.1", "online": "true", "download": "https://pixeldrain.com/u/LADtQxGA", "avvii": null, "exe": "FactoryGameSteam.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "Marvel’s Spider-Man Remastered", "size": "75 GB", "steamdbid": "1817070", "versione": "v.2.1012", "online": "false", "download": "https://pixeldrain.com/u/D1mg2MDb", "avvii": null, "exe": "Spider-Man.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
