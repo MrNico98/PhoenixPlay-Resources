@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Project Motor Racing", "size": "50 GB", "steamdbid": "299970", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/ULrPqRgL", "avvii": null, "exe": "ProjectMotorRacing.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Ghost Of Tsushima DIRECTOR’S CUT", "size": "65 GB", "steamdbid": "2215430", "versione": "v.1053.7", "online": "false", "download": "https://pixeldrain.com/u/WwLuEGP8", "avvii": null, "exe": "GhostOfTsushima.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Daemon X Machina: Titanic Scion", "size": "50 GB", "steamdbid": "1342490", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/f7KxGr8R", "avvii": null, "exe": "Game.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Fast Food Simulator", "size": "5 GB", "steamdbid": "2916430", "versione": "v.0.5", "online": "true", "download": "https://pixeldrain.com/u/pVsLqgqK", "avvii": null, "exe": "Fast Food Simulator.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Vintage Story", "size": "3 GB", "versione": "v.1.20", "online": "false", "download": "https://pixeldrain.com/u/FHqWtfpu", "avvii": null, "exe": "Vintagestory.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Grand Theft Auto IV", "size": "150 MB", "steamdbid": "12210", "versione": "v.1.2", "online": "false", "download": "https://pixeldrain.com/u/UBiVsZkk", "avvii": null, "exe": "GTAIV.exe", "dipendenze": null, "disinstallazione": null, "xbox_support": false},
+    {"nome_gioco": "Marvels Spider-Man Miles Morales", "size": "75 GB", "steamdbid": "1817190", "versione": "v.3.617.1.0", "online": "false", "download": "https://pixeldrain.com/u/ihJkrFdC", "avvii": null, "exe": "MilesMorales.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Need for Speed Most Wanted Limited Edition", "size": "20 GB", "steamdbid": "270880", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/CpQVjzHm", "avvii": null, "exe": "NFS13.exe", "dipendenze": null, "disinstallazione": null, "xbox_support": false}
   ]
 }
