@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Total War: WARHAMMER II", "size": "60 GB", "steamdbid": "594570", "versione": "v.1.12", "online": "false", "download": "https://pixeldrain.com/u/sBkeVUYv", "avvii": null, "exe": "Warhammer2.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Formula Legends", "size": "7 GB", "steamdbid": "3194360", "versione": "v.20017489", "online": "false", "download": "https://pixeldrain.com/u/gmT2XAT3", "avvii": null, "exe": "ASC.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Mount & Blade II: Bannerlord", "size": "60 GB", "steamdbid": "261550", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/f5yaW1M7", "avvii": null, "exe": "Bannerlord.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "The Operator", "size": "3 GB", "steamdbid": "1771980", "versione": "v.2.3", "online": "false", "download": "https://pixeldrain.com/u/qJNdbRvH", "avvii": null, "exe": "OPERATOR.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Indiana Jones e l'Antico Cerchio", "size": "137 GB", "steamdbid": "2677660", "versione": "v.1.0.9.0", "online": "false", "download1": ["https://pixeldrain.com/u/szBoHvyy", "https://pixeldrain.com/u/wkWvd3cV"], "avvii": ["language.changer.exe"], "exe": "TheGreatCircle.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Days Gone", "size": "70 GB", "steamdbid": "1259420", "versione": "v1.36.187.0", "online": "false", "download": "https://pixeldrain.com/u/2XciXtmd", "avvii": null, "exe": "Launcher.bat", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Dune: Imperium", "size": "2 GB", "steamdbid": "1689500", "versione": "v.3.3.1", "online": "false", "download": "https://pixeldrain.com/u/4cXYbh54", "avvii": null, "exe": "DuneImperium.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Watch Dogs 2", "size": "44 GB", "steamdbid": "447040", "versione": "v.1.17", "online": "false", "download": "https://pixeldrain.com/u/ymKqQbXy", "avvii": null, "exe": "WatchDogs2.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
