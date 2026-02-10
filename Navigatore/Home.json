@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Bodycam", "size": "2.3 GB", "steamdbid": "2406770", "versione": "v.19052025", "online": "true", "download": "https://pixeldrain.com/u/7nPpUdrB", "avvii": null, "exe": "Bodycam.exe", "dipendenze": "steam.exe", "disinstallazione": null},
-    {"nome_gioco": "Broken Arrow", "size": "85 GB", "steamdbid": "1604270", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/GVjQL4wg", "avvii": null, "exe": "BrokenArrow.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Dragon’s Dogma 2", "size": "60 GB", "steamdbid": "2054970", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/RWBnoF3S", "avvii": null, "exe": "DD2.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Fast Food Simulator", "size": "5 GB", "steamdbid": "2916430", "versione": "v.0.5", "online": "true", "download": "https://pixeldrain.com/u/pVsLqgqK", "avvii": null, "exe": "Fast Food Simulator.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Papers, Please", "size": "131 MB", "steamdbid": "239030", "versione": "v.1.4.11.124", "online": "false", "download": "https://pixeldrain.com/u/9Kfe1xEn", "avvii": null, "exe": "PapersPlease.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Vintage Story", "size": "3 GB", "versione": "v.1.20", "online": "false", "download": "https://pixeldrain.com/u/FHqWtfpu", "avvii": null, "exe": "Vintagestory.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Ready or Not", "size": "50 GB", "steamdbid": "1144200", "versione": "v.19222255", "online": "true", "download": "https://pixeldrain.com/u/ew7XEZtR", "avvii": ["InstallEOSServices.bat", "ReadyOrNot.exe"], "exe": "ReadyOrNot.exe", "dipendenze": "", "disinstallazione": "UnistallEOSServices.bat"},
+    {"nome_gioco": "DARK SOULS III", "size": "25.2 GB", "steamdbid": "374320", "versione": "v.1.15", "online": "false", "download": "https://pixeldrain.com/u/GfaCgGBw", "avvii": null, "exe": "DarkSoulsIII.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
