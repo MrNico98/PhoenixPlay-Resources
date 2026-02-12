@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Persona 5 Strikers", "size": "25 GB", "steamdbid": "1382330", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/SfMxa4Ha", "avvii": null, "exe": "game.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Dead Rising 3 Apocalypse Edition", "size": "30 GB", "steamdbid": "265550", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/nSV8k5Pb", "avvii": null, "exe": "deadrising3.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "A.I.L.A", "size": "35 GB", "steamdbid": "2695430", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/xLA3ewsf", "avvii": null, "exe": "AILA.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "The Precinct", "size": "8 GB", "steamdbid": "490110", "versione": "v.1.9", "online": "false", "download": "https://pixeldrain.com/u/N6mfeyZZ", "avvii": null, "exe": "Precinct.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Marvels Spider-Man Miles Morales", "size": "75 GB", "steamdbid": "1817190", "versione": "v.3.617.1.0", "online": "false", "download": "https://pixeldrain.com/u/ihJkrFdC", "avvii": null, "exe": "MilesMorales.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "RV There Yet", "size": "3200 MB", "steamdbid": "3949040", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/oSRNZXtu", "avvii": null, "exe": "Ride.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "Age of Mythology: Extended", "size": "3 GB", "steamdbid": "266840", "versione": "v.2.8", "online": "false", "download": "https://pixeldrain.com/u/QwGLQqaS", "avvii": null, "exe": "AoMX.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Wolfenstein: Youngblood", "size": "40 GB", "steamdbid": "1056960", "versione": "v.11991189", "online": "false", "download": "https://pixeldrain.com/u/zdw1n7So", "avvii": null, "exe": "Youngblood_x64vk.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
