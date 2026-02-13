@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Marvels Spider-Man Miles Morales", "size": "75 GB", "steamdbid": "1817190", "versione": "v.3.617.1.0", "online": "false", "download": "https://pixeldrain.com/u/ihJkrFdC", "avvii": null, "exe": "MilesMorales.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "RV There Yet", "size": "3200 MB", "steamdbid": "3949040", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/oSRNZXtu", "avvii": null, "exe": "Ride.exe", "dipendenze": "steam.exe", "disinstallazione": null},
-    {"nome_gioco": "Age of Mythology: Extended", "size": "3 GB", "steamdbid": "266840", "versione": "v.2.8", "online": "false", "download": "https://pixeldrain.com/u/QwGLQqaS", "avvii": null, "exe": "AoMX.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Wolfenstein: Youngblood", "size": "40 GB", "steamdbid": "1056960", "versione": "v.11991189", "online": "false", "download": "https://pixeldrain.com/u/zdw1n7So", "avvii": null, "exe": "Youngblood_x64vk.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Storage Hunter Simulator", "size": "8.6 GB", "steamdbid": "1442430", "versione": "v.17512746", "online": "false", "download": "https://pixeldrain.com/u/5cwcUZVg", "avvii": null, "exe": "StorageHunter.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Of Ash and Steel", "size": "45 GB", "steamdbid": "2893820", "versione": "v.1.04", "online": "false", "download": "https://pixeldrain.com/u/JLgBng7A", "avvii": null, "exe": "ofAshAndSteelGame.exe", "dipendenze": null, "disinstallazione": null, "xbox_support": false},
+    {"nome_gioco": "A Plague Tale: Innocence", "size": "50 GB", "steamdbid": "752590", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/sNiCFst1", "avvii": null, "exe": "APlagueTaleInnocence_x64.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Kindergarten 2", "size": "300 MB", "steamdbid": "1067850", "versione": "v.2.00", "online": "false", "download": "https://pixeldrain.com/u/V1t8bGvP", "avvii": null, "exe": "Kindergarten2.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
