@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Devil May Cry 5", "size": "40.6 GB", "steamdbid": "601150", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/hPRJ27bP", "avvii": null, "exe": "DevilMayCry5.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Sons Of The Forest", "size": "20 GB", "steamdbid": "1326470", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/KX2jHpdq", "avvii": null, "exe": "SonsOfTheForest.exe", "dipendenze": "steam.exe", "disinstallazione": null},
-    {"nome_gioco": "Watch Dogs 2", "size": "44 GB", "steamdbid": "447040", "versione": "v.1.17", "online": "false", "download": "https://pixeldrain.com/u/ymKqQbXy", "avvii": null, "exe": "WatchDogs2.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Far Cry Primal", "size": "20 GB", "steamdbid": "371660", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/sbwFGBd8", "avvii": null, "exe": "FCPrimal.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Broken Arrow", "size": "85 GB", "steamdbid": "1604270", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/GVjQL4wg", "avvii": null, "exe": "BrokenArrow.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "The Operator", "size": "3 GB", "steamdbid": "1771980", "versione": "v.2.3", "online": "false", "download": "https://pixeldrain.com/u/qJNdbRvH", "avvii": null, "exe": "OPERATOR.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Marvels Spider-Man Miles Morales", "size": "75 GB", "steamdbid": "1817190", "versione": "v.3.617.1.0", "online": "false", "download": "https://pixeldrain.com/u/ihJkrFdC", "avvii": null, "exe": "MilesMorales.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Raft", "size": "10 GB", "steamdbid": "648800", "versione": "v.1.09", "online": "true", "download": "https://pixeldrain.com/u/aqL5La5d", "avvii": null, "exe": "Raft.exe", "dipendenze": "steam.exe", "disinstallazione": null}
   ]
 }
