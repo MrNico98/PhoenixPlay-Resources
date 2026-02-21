@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Marvel’s Spider-Man Remastered", "size": "75 GB", "steamdbid": "1817070", "versione": "v.2.1012", "online": "false", "download": "https://pixeldrain.com/u/D1mg2MDb", "avvii": null, "exe": "Spider-Man.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Mount & Blade II: Bannerlord", "size": "60 GB", "steamdbid": "261550", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/f5yaW1M7", "avvii": null, "exe": "Bannerlord.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "SILENT HILL f", "size": "50 GB", "steamdbid": "2947440", "versione": "v.1.1", "online": "false", "download": "https://pixeldrain.com/u/iV5dewt2", "avvii": null, "exe": "SILENT HILL f Launcher.bat", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Resident Evil Village", "size": "34.8 GB", "steamdbid": "1196590", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/mFwedpW5", "avvii": null, "exe": "re8.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Conan Exiles", "size": "115 GB", "steamdbid": "440900", "versione": "v.4.7", "online": "true", "download": "https://pixeldrain.com/u/HrwSr6Fr", "avvii": null, "exe": "ConanSandbox.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "Project Motor Racing", "size": "50 GB", "steamdbid": "299970", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/ULrPqRgL", "avvii": null, "exe": "ProjectMotorRacing.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Total War: THREE KINGDOMS", "size": "60 GB", "steamdbid": "779340", "versione": "v.1.5", "online": "false", "download": "https://pixeldrain.com/u/gwfovmML", "avvii": null, "exe": "Three_Kingdoms.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "F1 22", "size": "80 GB", "steamdbid": "1692250", "versione": "v.1.05", "online": "false", "download": "https://pixeldrain.com/u/onZf3sec", "avvii": null, "exe": "F1_22.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
