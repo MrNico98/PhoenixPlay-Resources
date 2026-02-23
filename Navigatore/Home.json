@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Door Kickers 2: Task Force North", "size": "1 GB", "steamdbid": "1239080", "versione": "v.1.10", "online": "false", "download": "https://pixeldrain.com/u/H2PQkWyB", "avvii": null, "exe": "DoorKickers2.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Watch Dogs 2", "size": "44 GB", "steamdbid": "447040", "versione": "v.1.17", "online": "false", "download": "https://pixeldrain.com/u/ymKqQbXy", "avvii": null, "exe": "WatchDogs2.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Resident Evil Village", "size": "34.8 GB", "steamdbid": "1196590", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/mFwedpW5", "avvii": null, "exe": "re8.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Supermarket Simulator", "size": "5 GB", "steamdbid": "2670630", "versione": "v.1.0.2", "online": "false", "download": "https://pixeldrain.com/u/eFgVxcB2", "avvii": null, "exe": "Supermarket Simulator.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Batman Arkham Origins", "size": "45 GB", "steamdbid": "209000", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/EdVehgrE", "avvii": null, "exe": "BatmanOrigins.exe", "dipendenze": null, "disinstallazione": null, "xbox_support": false},
+    {"nome_gioco": "A Plague Tale: Requiem", "size": "55 GB", "steamdbid": "1182900", "versione": "v.1.4", "online": "false", "download": "https://pixeldrain.com/u/L8bgkvA5", "avvii": null, "exe": "APlagueTaleRequiem_x64.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "R.E.P.O.", "size": "1 GB", "steamdbid": "3241660", "versione": "v.0.2", "online": "true", "download": "https://pixeldrain.com/u/nwpzpu4j", "avvii": null, "exe": "REPO.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "Town to City", "size": "3 GB", "steamdbid": "3115220", "versione": "v.0.1", "online": "false", "download": "https://pixeldrain.com/u/3ssX4qig", "avvii": null, "exe": "TownToCity.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
