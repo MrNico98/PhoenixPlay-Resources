@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Tourist Bus Simulator", "size": "25 GB", "steamdbid": "953580", "versione": "v.1.10", "online": "false", "download": "https://pixeldrain.com/u/pzxPzW5s", "avvii": null, "exe": "TouristBusSimulator.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Formula Legends", "size": "7 GB", "steamdbid": "3194360", "versione": "v.20017489", "online": "false", "download": "https://pixeldrain.com/u/gmT2XAT3", "avvii": null, "exe": "ASC.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Contraband Police", "size": "12 GB", "steamdbid": "756800", "versione": "v.10.6", "online": "false", "download": "https://pixeldrain.com/u/HtJ2bGAE", "avvii": null, "exe": "ContrabandPolice.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Grand Theft Auto IV", "size": "150 MB", "steamdbid": "12210", "versione": "v.1.2", "online": "false", "download": "https://pixeldrain.com/u/UBiVsZkk", "avvii": null, "exe": "GTAIV.exe", "dipendenze": null, "disinstallazione": null, "xbox_support": false}
+    {"nome_gioco": "Terraria", "size": "552 MB", "steamdbid": "105600", "versione": "v.1.4", "online": "true", "download": "https://pixeldrain.com/u/oMnMgmqv", "avvii": null, "exe": "Terraria.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "Elden Ring Deluxe Edition", "size": "67 GB", "steamdbid": "1245620", "versione": "v.1.16.1", "online": "false", "download": "https://pixeldrain.com/u/yRjCLcRG", "avvii": ["Language Selector.exe - collegamento.lnk"], "exe": "eldenring.exe - collegamento.lnk", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "HER STORY", "size": "2 GB", "steamdbid": "368370", "versione": "v.1470325", "online": "false", "download": "https://pixeldrain.com/u/zF1ivXXM", "avvii": null, "exe": "HerStory.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Total War: WARHAMMER II", "size": "60 GB", "steamdbid": "594570", "versione": "v.1.12", "online": "false", "download": "https://pixeldrain.com/u/sBkeVUYv", "avvii": null, "exe": "Warhammer2.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
