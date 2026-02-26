@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Terraria", "size": "552 MB", "steamdbid": "105600", "versione": "v.1.4", "online": "true", "download": "https://pixeldrain.com/u/oMnMgmqv", "avvii": null, "exe": "Terraria.exe", "dipendenze": "steam.exe", "disinstallazione": null},
-    {"nome_gioco": "Elden Ring Deluxe Edition", "size": "67 GB", "steamdbid": "1245620", "versione": "v.1.16.1", "online": "false", "download": "https://pixeldrain.com/u/yRjCLcRG", "avvii": ["Language Selector.exe - collegamento.lnk"], "exe": "eldenring.exe - collegamento.lnk", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "HER STORY", "size": "2 GB", "steamdbid": "368370", "versione": "v.1470325", "online": "false", "download": "https://pixeldrain.com/u/zF1ivXXM", "avvii": null, "exe": "HerStory.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Total War: WARHAMMER II", "size": "60 GB", "steamdbid": "594570", "versione": "v.1.12", "online": "false", "download": "https://pixeldrain.com/u/sBkeVUYv", "avvii": null, "exe": "Warhammer2.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Europa Universalis V", "size": "20 GB", "steamdbid": "3450310", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/xY6i7LWG", "avvii": null, "exe": "eu5.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Sekiro: Shadows Die Twice", "size": "25 GB", "steamdbid": "814380", "versione": "v.1.06", "online": "false", "download": "https://pixeldrain.com/u/FyEMMLmx", "avvii": null, "exe": "sekiro.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Balatro", "size": "50 MB", "steamdbid": "2379780", "versione": "v.1.0.1o", "online": "false", "download": "https://pixeldrain.com/u/aoqrqm7C", "avvii": null, "exe": "Balatro.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Tourist Bus Simulator", "size": "25 GB", "steamdbid": "953580", "versione": "v.1.10", "online": "false", "download": "https://pixeldrain.com/u/pzxPzW5s", "avvii": null, "exe": "TouristBusSimulator.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
