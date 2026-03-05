@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS", "size": "30.36 GB", "steamdbid": "1020790", "versione": "v.1.50", "online": "false", "download": "https://pixeldrain.com/u/a3BjVyVW", "avvii": null, "exe": "NSUNSC.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Tourist Bus Simulator", "size": "25 GB", "steamdbid": "953580", "versione": "v.1.10", "online": "false", "download": "https://pixeldrain.com/u/pzxPzW5s", "avvii": null, "exe": "TouristBusSimulator.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Batman Arkham Origins", "size": "45 GB", "steamdbid": "209000", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/EdVehgrE", "avvii": null, "exe": "BatmanOrigins.exe", "dipendenze": null, "disinstallazione": null, "xbox_support": false},
-    {"nome_gioco": "VOID/BREAKER", "size": "11 GB", "steamdbid": "2615540", "versione": "v.0.9.59", "online": "false", "download": "https://pixeldrain.com/u/PazoNMoz", "avvii": null, "exe": "VOIDBREAKER.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Horizon Zero Dawn Complete Edition", "size": "100 GB", "steamdbid": "1151640", "versione": "v.1.11", "online": "false", "download": "https://pixeldrain.com/u/tfkaWcst", "avvii": null, "exe": "HorizonZeroDawn.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Marvels Spider-Man Miles Morales", "size": "75 GB", "steamdbid": "1817190", "versione": "v.3.617.1.0", "online": "false", "download": "https://pixeldrain.com/u/ihJkrFdC", "avvii": null, "exe": "MilesMorales.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Grocery Store Simulator", "size": "6 GB", "steamdbid": "2961880", "versione": "v.1.1 ", "online": "true", "download": "https://pixeldrain.com/u/bAySiAXb", "avvii": null, "exe": "Simulatorita.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "Resident Evil / biohazard HD REMASTER", "size": "20 GB", "steamdbid": "304240", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/PZPL3KSN", "avvii": null, "exe": "bhd.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
