@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Horizon Zero Dawn Complete Edition", "size": "100 GB", "steamdbid": "1151640", "versione": "v.1.11", "online": "false", "download": "https://pixeldrain.com/u/tfkaWcst", "avvii": null, "exe": "HorizonZeroDawn.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Marvels Spider-Man Miles Morales", "size": "75 GB", "steamdbid": "1817190", "versione": "v.3.617.1.0", "online": "false", "download": "https://pixeldrain.com/u/ihJkrFdC", "avvii": null, "exe": "MilesMorales.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Grocery Store Simulator", "size": "6 GB", "steamdbid": "2961880", "versione": "v.1.1 ", "online": "true", "download": "https://pixeldrain.com/u/bAySiAXb", "avvii": null, "exe": "Simulatorita.exe", "dipendenze": "steam.exe", "disinstallazione": null},
-    {"nome_gioco": "Resident Evil / biohazard HD REMASTER", "size": "20 GB", "steamdbid": "304240", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/PZPL3KSN", "avvii": null, "exe": "bhd.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "BEYBLADE X EVOBATTLE", "size": "6 GB", "steamdbid": "3818010", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/sH6bWufm", "avvii": null, "exe": "BEYBLADE X EVOBATTLE.exe", "dipendenze": null, "disinstallazione": null, "xbox_support": false},
+    {"nome_gioco": "Until Dawn", "size": "70 GB", "steamdbid": "2172010", "versione": "v.1.08", "online": "false", "download": "https://pixeldrain.com/u/n6pKgfd4", "avvii": null, "exe": "Bates.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "The Witcher 3: Wild Hunt", "size": "50.1 GB", "steamdbid": "292030", "versione": "v.4.04", "online": "false", "download": "https://pixeldrain.com/u/QB2jzXm6", "avvii": null, "exe": "REDprelauncher.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Formula Legends", "size": "7 GB", "steamdbid": "3194360", "versione": "v.20017489", "online": "false", "download": "https://pixeldrain.com/u/gmT2XAT3", "avvii": null, "exe": "ASC.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
