@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "BEYBLADE X EVOBATTLE", "size": "6 GB", "steamdbid": "3818010", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/sH6bWufm", "avvii": null, "exe": "BEYBLADE X EVOBATTLE.exe", "dipendenze": null, "disinstallazione": null, "xbox_support": false},
-    {"nome_gioco": "Until Dawn", "size": "70 GB", "steamdbid": "2172010", "versione": "v.1.08", "online": "false", "download": "https://pixeldrain.com/u/n6pKgfd4", "avvii": null, "exe": "Bates.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "The Witcher 3: Wild Hunt", "size": "50.1 GB", "steamdbid": "292030", "versione": "v.4.04", "online": "false", "download": "https://pixeldrain.com/u/QB2jzXm6", "avvii": null, "exe": "REDprelauncher.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Formula Legends", "size": "7 GB", "steamdbid": "3194360", "versione": "v.20017489", "online": "false", "download": "https://pixeldrain.com/u/gmT2XAT3", "avvii": null, "exe": "ASC.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Wolfenstein: Youngblood", "size": "40 GB", "steamdbid": "1056960", "versione": "v.11991189", "online": "false", "download": "https://pixeldrain.com/u/zdw1n7So", "avvii": null, "exe": "Youngblood_x64vk.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Gears of War: Reloaded", "size": "70 GB", "steamdbid": "2523720", "versione": "v.1.0.1.3689997", "online": "false", "download": "https://pixeldrain.com/u/Utuu35LG", "avvii": ["Install_EasyAntiCheat.bat"], "exe": "Launch_GOWDE.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Ninja Gaiden 4", "size": "100 GB", "steamdbid": "2627260", "versione": "v.1.0.1.0", "online": "false", "download": "https://pixeldrain.com/u/pzdK51Ro", "avvii": null, "exe": "NINJAGAIDEN4-Steam.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "BEYBLADE X EVOBATTLE", "size": "6 GB", "steamdbid": "3818010", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/sH6bWufm", "avvii": null, "exe": "BEYBLADE X EVOBATTLE.exe", "dipendenze": null, "disinstallazione": null, "xbox_support": false}
   ]
 }
