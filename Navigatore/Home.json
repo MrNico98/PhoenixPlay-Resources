@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Wolfenstein: Youngblood", "size": "40 GB", "steamdbid": "1056960", "versione": "v.11991189", "online": "false", "download": "https://pixeldrain.com/u/zdw1n7So", "avvii": null, "exe": "Youngblood_x64vk.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Gears of War: Reloaded", "size": "70 GB", "steamdbid": "2523720", "versione": "v.1.0.1.3689997", "online": "false", "download": "https://pixeldrain.com/u/Utuu35LG", "avvii": ["Install_EasyAntiCheat.bat"], "exe": "Launch_GOWDE.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Ninja Gaiden 4", "size": "100 GB", "steamdbid": "2627260", "versione": "v.1.0.1.0", "online": "false", "download": "https://pixeldrain.com/u/pzdK51Ro", "avvii": null, "exe": "NINJAGAIDEN4-Steam.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "BEYBLADE X EVOBATTLE", "size": "6 GB", "steamdbid": "3818010", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/sH6bWufm", "avvii": null, "exe": "BEYBLADE X EVOBATTLE.exe", "dipendenze": null, "disinstallazione": null, "xbox_support": false}
+    {"nome_gioco": "Grand Theft Auto IV", "size": "150 MB", "steamdbid": "12210", "versione": "v.1.2", "online": "false", "download": "https://pixeldrain.com/u/UBiVsZkk", "avvii": null, "exe": "GTAIV.exe", "dipendenze": null, "disinstallazione": null, "xbox_support": false},
+    {"nome_gioco": "Nioh 2 – The Complete Edition", "size": "85 GB", "steamdbid": "1325200", "versione": "v.1.28", "online": "false", "download": "https://pixeldrain.com/u/oRLgnjMk", "avvii": null, "exe": "nioh2.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Injustice 2 Legendary Edition", "size": "52 GB", "steamdbid": "627270", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/bLDiTeU4", "avvii": null, "exe": "Injustice2.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Kindergarten 3", "size": "300 MB", "steamdbid": "2695570", "versione": "v.1.01", "online": "false", "download": "https://pixeldrain.com/u/rjCLUqSx", "avvii": null, "exe": "Kindergarten3.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
