@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Project Motor Racing", "size": "50 GB", "steamdbid": "299970", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/ULrPqRgL", "avvii": null, "exe": "ProjectMotorRacing.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Satisfactory", "size": "15 GB", "steamdbid": "526870", "versione": "v.1.1", "online": "true", "download": "https://pixeldrain.com/u/LADtQxGA", "avvii": null, "exe": "FactoryGameSteam.exe", "dipendenze": "steam.exe", "disinstallazione": null},
-    {"nome_gioco": "Six Days in Fallujah", "size": "22 GB", "steamdbid": "1548850", "versione": "v.0.4", "online": "false", "download": "https://pixeldrain.com/u/3WPEMoK1", "avvii": null, "exe": "SixDays.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Palworld", "size": "40 GB", "steamdbid": "1623730", "versione": "v.0.6", "online": "true", "download": "https://pixeldrain.com/u/CGe1z8Sn", "avvii": null, "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Thief Simulator 2", "size": "12 GB", "steamdbid": "1332720", "versione": "v.1.27c", "online": "false", "download": "https://pixeldrain.com/u/gvVkSTnq", "avvii": null, "exe": "Thief Simulator 2.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Alien: Rogue Incursion Evolved Edition", "size": "30 GB", "steamdbid": "3655390", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/QKGqgtBc", "avvii": null, "exe": "Midnight.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "DARK SOULS: REMASTERED", "size": "8 GB", "steamdbid": "570940", "versione": "v.1.03", "online": "false", "download": "https://pixeldrain.com/u/jA94ZgmU", "avvii": null, "exe": "DarkSoulsRemastered.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Mindseye", "size": "70 GB", "steamdbid": "3265250", "versione": "v.4598223", "online": "false", "download": "https://pixeldrain.com/u/er7sUQ1r", "avvii": ["InstallPrerequisites.bat"], "exe": "MindsEye.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
