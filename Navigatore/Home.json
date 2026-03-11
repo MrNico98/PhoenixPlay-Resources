@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Thief Simulator 2", "size": "12 GB", "steamdbid": "1332720", "versione": "v.1.27c", "online": "false", "download": "https://pixeldrain.com/u/gvVkSTnq", "avvii": null, "exe": "Thief Simulator 2.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Alien: Rogue Incursion Evolved Edition", "size": "30 GB", "steamdbid": "3655390", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/QKGqgtBc", "avvii": null, "exe": "Midnight.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "DARK SOULS: REMASTERED", "size": "8 GB", "steamdbid": "570940", "versione": "v.1.03", "online": "false", "download": "https://pixeldrain.com/u/jA94ZgmU", "avvii": null, "exe": "DarkSoulsRemastered.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Mindseye", "size": "70 GB", "steamdbid": "3265250", "versione": "v.4598223", "online": "false", "download": "https://pixeldrain.com/u/er7sUQ1r", "avvii": ["InstallPrerequisites.bat"], "exe": "MindsEye.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Family Guy Back to the Multiverse", "steamdbid": "214230", "versione": "v.28086", "online": "false", "download": "https://pixeldrain.com/u/fY9rUphv", "avvii": null, "exe": "FGUY.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Grand Theft Auto IV", "size": "150 MB", "steamdbid": "12210", "versione": "v.1.2", "online": "false", "download": "https://pixeldrain.com/u/UBiVsZkk", "avvii": null, "exe": "GTAIV.exe", "dipendenze": null, "disinstallazione": null, "xbox_support": false},
+    {"nome_gioco": "Gears of War: Reloaded", "size": "70 GB", "steamdbid": "2523720", "versione": "v.1.0.1.3689997", "online": "false", "download": "https://pixeldrain.com/u/Utuu35LG", "avvii": ["Install_EasyAntiCheat.bat"], "exe": "Launch_GOWDE.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Watch Dogs 2", "size": "44 GB", "steamdbid": "447040", "versione": "v.1.17", "online": "false", "download": "https://pixeldrain.com/u/ymKqQbXy", "avvii": null, "exe": "WatchDogs2.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
