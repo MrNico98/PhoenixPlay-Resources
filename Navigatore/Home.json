@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "The Operator", "size": "3 GB", "steamdbid": "1771980", "versione": "v.2.3", "online": "false", "download": "https://pixeldrain.com/u/qJNdbRvH", "avvii": null, "exe": "OPERATOR.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Cuphead", "size": "4.6 GB", "steamdbid": "268910", "versione": "v.1.3", "online": "false", "download": "https://pixeldrain.com/u/Mv2qcaz8", "avvii": null, "exe": "Cuphead.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Metro 2033 Redux", "size": "10 GB", "steamdbid": "286690", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/xQAcok6m", "avvii": null, "exe": "metro.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Drive Beyond Horizons", "size": "9.8 GB", "steamdbid": "2625420", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/L8Mi1xS8", "avvii": null, "exe": "DriveBeyondHorizons.exe", "dipendenze": "steam.exe", "disinstallazione": null}
+    {"nome_gioco": "Mage Arena", "size": "2 GB", "steamdbid": "3716600", "versione": "v.0.7", "online": "true", "download": "https://pixeldrain.com/u/QSMgzQ73", "avvii": null, "exe": "MageArena.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "Total War: ROME II Emperor Edition", "steamdbid": "214950", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/KC9btnwF", "avvii": null, "exe": "Rome2.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Resident Evil / biohazard HD REMASTER", "size": "20 GB", "steamdbid": "304240", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/PZPL3KSN", "avvii": null, "exe": "bhd.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "A Total War Saga: THRONES OF BRITANNIA", "size": "30 GB", "steamdbid": "712100", "versione": "v.1.2", "online": "false", "download": "https://pixeldrain.com/u/1NF9QZD5", "avvii": null, "exe": "thrones.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
