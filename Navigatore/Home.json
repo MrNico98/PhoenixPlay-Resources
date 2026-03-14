@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Mage Arena", "size": "2 GB", "steamdbid": "3716600", "versione": "v.0.7", "online": "true", "download": "https://pixeldrain.com/u/QSMgzQ73", "avvii": null, "exe": "MageArena.exe", "dipendenze": "steam.exe", "disinstallazione": null},
-    {"nome_gioco": "Total War: ROME II Emperor Edition", "steamdbid": "214950", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/KC9btnwF", "avvii": null, "exe": "Rome2.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Resident Evil / biohazard HD REMASTER", "size": "20 GB", "steamdbid": "304240", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/PZPL3KSN", "avvii": null, "exe": "bhd.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "A Total War Saga: THRONES OF BRITANNIA", "size": "30 GB", "steamdbid": "712100", "versione": "v.1.2", "online": "false", "download": "https://pixeldrain.com/u/1NF9QZD5", "avvii": null, "exe": "thrones.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Days Gone", "size": "70 GB", "steamdbid": "1259420", "versione": "v1.36.187.0", "online": "false", "download": "https://pixeldrain.com/u/2XciXtmd", "avvii": null, "exe": "Launcher.bat", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Sons Of The Forest", "size": "20 GB", "steamdbid": "1326470", "versione": "v.1.0", "online": "true", "download": "https://pixeldrain.com/u/KX2jHpdq", "avvii": null, "exe": "SonsOfTheForest.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "The Elder Scrolls V: Skyrim Legendary Edition", "size": "12 GB", "steamdbid": "489830", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/YXqX7MMh", "avvii": null, "exe": "SkyrimLauncher.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "HITMAN 3", "size": "71.9 GB", "steamdbid": "1829591", "versione": "v.3.230", "online": "false", "download": "https://pixeldrain.com/u/QfewZa4d", "avvii": null, "exe": "Launcher.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
