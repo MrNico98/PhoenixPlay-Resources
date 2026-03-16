@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Megabonk", "size": "500 MB", "steamdbid": "3405340", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/USYfmo4o", "avvii": null, "exe": "Megabonk.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Pioneers of Pagonia", "size": "5 GB", "steamdbid": "2155180", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/WA5Z5WPG", "avvii": null, "exe": "Pioneers of Pagonia.exe", "dipendenze": null, "disinstallazione": null, "xbox_support": false},
-    {"nome_gioco": "Dead Island 2 Gold Edition", "size": "70 GB", "steamdbid": "701160", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/D9PB5k2a", "avvii": null, "exe": "DeadIsland.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "God of War", "size": "70 GB", "steamdbid": "1593500", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/KKLQrdkm", "avvii": null, "exe": "GoW.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "inZOI", "size": "26 GB", "steamdbid": "2456740", "versione": "v.20251030.8384", "online": "false", "download": "https://pixeldrain.com/u/7HBk9BUw", "avvii": null, "exe": "inZOI.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Town to City", "size": "3 GB", "steamdbid": "3115220", "versione": "v.0.1", "online": "false", "download": "https://pixeldrain.com/u/3ssX4qig", "avvii": null, "exe": "TownToCity.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "BEYBLADE X EVOBATTLE", "size": "6 GB", "steamdbid": "3818010", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/sH6bWufm", "avvii": null, "exe": "BEYBLADE X EVOBATTLE.exe", "dipendenze": null, "disinstallazione": null, "xbox_support": false},
+    {"nome_gioco": "Age of Empires II: Definitive", "size": "30 GB", "steamdbid": "813780", "versione": "v.101.103", "online": "false", "download": "https://pixeldrain.com/u/s5usoZUv", "avvii": null, "exe": "AoE2DE_s.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
