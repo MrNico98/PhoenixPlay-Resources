@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "ARMORED CORE VI FIRES OF RUBICON", "size": "60 GB", "steamdbid": "1888160", "versione": "v.1.07", "online": "false", "download": "https://pixeldrain.com/u/N54boFq7", "avvii": null, "exe": "start_protected_game.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Sifu", "size": "24 GB", "steamdbid": "2138710", "versione": "v.1.28", "online": "false", "download": "https://pixeldrain.com/u/n484A5oG", "avvii": null, "exe": "Sifu.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Max Payne 3", "steamdbid": "204100", "versione": "v.1.0", "online": "false", "download": "https://pixeldrain.com/u/yHtN33rk", "avvii": null, "exe": "MaxPayne3.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Minutescape", "size": "330 MB", "steamdbid": "3327170", "versione": "v.1.0.5", "online": "false", "download": "https://pixeldrain.com/u/GZdMbZQ5", "avvii": null, "exe": "Minutescape.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "Thief Simulator 2", "size": "12 GB", "steamdbid": "1332720", "versione": "v.1.27c", "online": "false", "download": "https://pixeldrain.com/u/gvVkSTnq", "avvii": null, "exe": "Thief Simulator 2.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Ready or Not", "size": "50 GB", "steamdbid": "1144200", "versione": "v.19222255", "online": "true", "download": "https://pixeldrain.com/u/ew7XEZtR", "avvii": ["InstallEOSServices.bat", "ReadyOrNot.exe"], "exe": "ReadyOrNot.exe", "dipendenze": "", "disinstallazione": "UnistallEOSServices.bat"},
+    {"nome_gioco": "MIMESIS", "size": "4 GB", "steamdbid": "2827200", "versione": "v.0.2", "online": "true", "download": "https://pixeldrain.com/u/Tc4KGj6f", "avvii": null, "exe": "MIMESIS.exe", "dipendenze": "steam.exe", "disinstallazione": null},
+    {"nome_gioco": "SILENT HILL 2", "size": "50 GB", "steamdbid": "2124490", "versione": "v.1.1", "online": "false", "download": "https://pixeldrain.com/u/E8G6KexS", "avvii": null, "exe": "SHProto.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
