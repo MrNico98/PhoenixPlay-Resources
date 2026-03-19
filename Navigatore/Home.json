@@ -1,8 +1,8 @@
 {
   "Home": [
-    {"nome_gioco": "Thief Simulator 2", "size": "12 GB", "steamdbid": "1332720", "versione": "v.1.27c", "online": "false", "download": "https://pixeldrain.com/u/gvVkSTnq", "avvii": null, "exe": "Thief Simulator 2.exe", "dipendenze": "", "disinstallazione": null},
-    {"nome_gioco": "Ready or Not", "size": "50 GB", "steamdbid": "1144200", "versione": "v.19222255", "online": "true", "download": "https://pixeldrain.com/u/ew7XEZtR", "avvii": ["InstallEOSServices.bat", "ReadyOrNot.exe"], "exe": "ReadyOrNot.exe", "dipendenze": "", "disinstallazione": "UnistallEOSServices.bat"},
-    {"nome_gioco": "MIMESIS", "size": "4 GB", "steamdbid": "2827200", "versione": "v.0.2", "online": "true", "download": "https://pixeldrain.com/u/Tc4KGj6f", "avvii": null, "exe": "MIMESIS.exe", "dipendenze": "steam.exe", "disinstallazione": null},
-    {"nome_gioco": "SILENT HILL 2", "size": "50 GB", "steamdbid": "2124490", "versione": "v.1.1", "online": "false", "download": "https://pixeldrain.com/u/E8G6KexS", "avvii": null, "exe": "SHProto.exe", "dipendenze": "", "disinstallazione": null}
+    {"nome_gioco": "VOID/BREAKER", "size": "11 GB", "steamdbid": "2615540", "versione": "v.0.9.59", "online": "false", "download": "https://pixeldrain.com/u/PazoNMoz", "avvii": null, "exe": "VOIDBREAKER.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "The Precinct", "size": "8 GB", "steamdbid": "490110", "versione": "v.1.9", "online": "false", "download": "https://pixeldrain.com/u/N6mfeyZZ", "avvii": null, "exe": "Precinct.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "Contraband Police", "size": "12 GB", "steamdbid": "756800", "versione": "v.10.6", "online": "false", "download": "https://pixeldrain.com/u/HtJ2bGAE", "avvii": null, "exe": "ContrabandPolice.exe", "dipendenze": "", "disinstallazione": null},
+    {"nome_gioco": "DARK SOULS III", "size": "25.2 GB", "steamdbid": "374320", "versione": "v.1.15", "online": "false", "download": "https://pixeldrain.com/u/GfaCgGBw", "avvii": null, "exe": "DarkSoulsIII.exe", "dipendenze": "", "disinstallazione": null}
   ]
 }
