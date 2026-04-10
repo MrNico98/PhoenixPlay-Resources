@@ -1,11 +1,11 @@
 {
-  "version": "0.0.1.1",
+  "version": "0.0.1.2",
   "releaseNotes": {
     "IT": [
-      "Fix estrazione 7z"
+      "Inserita nuova logica per adattamento al nuovo catalogo"
     ],
     "EN": [
-      "Add support extraction 7z"
+      "New logic added to adapt to the new catalog"
     ]
   },
   "updateUrl": "https://github.com/MrNico98/PhoenixPlay-Resources/releases/download/Requisiti/Phoenix.Play.exe"
