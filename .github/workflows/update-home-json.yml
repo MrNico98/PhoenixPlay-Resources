@@ -1,43 +1,53 @@
-name: Update Home Games Daily
+name: Auto Update Catalog
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Esegui ogni giorno a mezzanotte UTC
-  workflow_dispatch:      # Permette l'esecuzione manuale
-
-permissions:
-  contents: write        # Aggiungi questa sezione per i permessi
+    # Mattina (08:00)
+    - cron: "0 8 * * *"
+    # Mezzanotte
+    - cron: "0 0 * * *"
+  workflow_dispatch: # avvio manuale
 
 jobs:
-  update-games:
+  update:
     runs-on: ubuntu-latest
-    
+
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
-        token: ${{ secrets.GITHUB_TOKEN }}  # Esplicita il token per checkout
-      
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
-        
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install PyGithub requests
-        
-    - name: Run update script
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: python UpdateNew/AggiornamentoNew.py
-      
-    - name: Commit and push changes
-      if: success()
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git add .
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update Home games [skip ci]" && git push)
+      - name: 📥 Checkout repo
+        uses: actions/checkout@v4
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 📦 Installa dipendenze
+        run: pip install requests
+
+      - name: 🔑 Imposta token
+        run: echo "GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }}" >> $GITHUB_ENV
+
+      - name: 🕒 Esegui script corretto
+        run: |
+          HOUR=$(date -u +%H)
+
+          echo "Ora UTC: $HOUR"
+
+          if [ "$HOUR" -eq "08" ]; then
+            echo "Eseguo AggiornamentoNew.py"
+            python UpdateNew/AggiornamentoNew.py
+          elif [ "$HOUR" -eq "00" ]; then
+            echo "Eseguo AggiornamentoCatalogoVecchio.py"
+            python UpdateNew/AggiornamentoCatalogoVecchio.py
+          else
+            echo "Nessuno script da eseguire"
+          fi
+
+      - name: 💾 Commit e push se cambiamenti
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add .
+          git diff --cached --quiet || git commit -m "🤖 Auto update catalog"
+          git push
