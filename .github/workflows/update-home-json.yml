@@ -2,11 +2,9 @@ name: Auto Update Catalog
 
 on:
   schedule:
-    # Mattina (08:00)
-    - cron: "0 8 * * *"
-    # Mezzanotte
-    - cron: "0 0 * * *"
-  workflow_dispatch: # avvio manuale
+    - cron: "0 8 * * *"   # 08:00 UTC
+    - cron: "0 0 * * *"   # 00:00 UTC
+  workflow_dispatch:      # avvio manuale
 
 jobs:
   update:
@@ -27,20 +25,32 @@ jobs:
       - name: 🔑 Imposta token
         run: echo "GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }}" >> $GITHUB_ENV
 
-      - name: 🕒 Esegui script corretto
+      - name: 🕒 Esegui script in base all'orario o manuale
         run: |
-          HOUR=$(date -u +%H)
-
-          echo "Ora UTC: $HOUR"
-
-          if [ "$HOUR" -eq "08" ]; then
+          # Se è esecuzione manuale, esegui entrambi
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Esecuzione manuale rilevata - eseguo entrambi gli script"
+            
             echo "Eseguo AggiornamentoNew.py"
             python UpdateNew/AggiornamentoNew.py
-          elif [ "$HOUR" -eq "00" ]; then
+            
             echo "Eseguo AggiornamentoCatalogoVecchio.py"
             python UpdateNew/AggiornamentoCatalogoVecchio.py
+            
           else
-            echo "Nessuno script da eseguire"
+            # Esecuzione schedulata - comportamento normale
+            HOUR=$(date -u +%H)
+            echo "Ora UTC: $HOUR"
+
+            if [ "$HOUR" -eq "08" ]; then
+              echo "Eseguo AggiornamentoNew.py"
+              python UpdateNew/AggiornamentoNew.py
+            elif [ "$HOUR" -eq "00" ]; then
+              echo "Eseguo AggiornamentoCatalogoVecchio.py"
+              python UpdateNew/AggiornamentoCatalogoVecchio.py
+            else
+              echo "Nessuno script da eseguire"
+            fi
           fi
 
       - name: 💾 Commit e push se cambiamenti
