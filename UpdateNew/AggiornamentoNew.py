@@ -34,9 +34,9 @@ def filter_and_keep_latest(data):
     latest_games = {}
 
     for item in data.get("downloads", []):
-        # Filtra buzzheavier
-        buzz_links = [u for u in item.get("uris", []) if "buzzheavier" in u.lower()]
-        if not buzz_links:
+        # Filtra buzzheavier, gofile, pixeldrain
+        valid_links = [u for u in item.get("uris", []) if any(x in u.lower() for x in ["buzzheavier", "buzzhavier", "bzzhr", "gofile.io", "pixeldrain"])]
+        if not valid_links:
             continue
 
         base_title = clean_title(item.get("title", ""))
@@ -54,7 +54,7 @@ def filter_and_keep_latest(data):
                     "title": item.get("title"),
                     "uploadDate": item.get("uploadDate"),
                     "fileSize": item.get("fileSize"),
-                    "uris": buzz_links
+                    "uris": valid_links
                 }
             }
 
@@ -90,7 +90,7 @@ def update_github_file(content_json):
     content_b64 = base64.b64encode(content_str.encode("utf-8")).decode("utf-8")
 
     data = {
-        "message": "Aggiornamento automatico Catalogo.json (latest only)",
+        "message": "Aggiornamento automatico Catalogo.json (buzzheavier + gofile + pixeldrain)",
         "content": content_b64,
         "sha": sha,
         "branch": BRANCH

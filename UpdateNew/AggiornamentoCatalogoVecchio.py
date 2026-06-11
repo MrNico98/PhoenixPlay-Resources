@@ -37,7 +37,7 @@ def update_file(path, new_content, sha):
     ).decode("utf-8")
 
     payload = {
-        "message": "Auto update CatalogoOld.json (aggiunti mancanti)",
+        "message": "Auto update CatalogoOld.json (buzzheavier + gofile + pixeldrain)",
         "content": encoded_content,
         "sha": sha,
         "branch": BRANCH
