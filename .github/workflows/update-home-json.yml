@@ -2,9 +2,11 @@ name: Auto Update Catalog
 
 on:
   schedule:
-    - cron: "0 8 * * *"   # 08:00 UTC
-    - cron: "0 0 * * *"   # 00:00 UTC
-  workflow_dispatch:      # avvio manuale
+    # Mattina (08:00)
+    - cron: "0 8 * * *"
+    # Mezzanotte
+    - cron: "0 0 * * *"
+  workflow_dispatch: # avvio manuale
 
 jobs:
   update:
@@ -13,6 +15,8 @@ jobs:
     steps:
       - name: 📥 Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Importante per avere tutta la cronologia
 
       - name: 🐍 Setup Python
         uses: actions/setup-python@v5
@@ -53,11 +57,68 @@ jobs:
             fi
           fi
 
-      - name: 💾 Commit e push se cambiamenti
+      - name: 💾 Commit e push se cambiamenti (con gestione conflitti)
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-
+          
+          # Salva l'hash del commit corrente
+          CURRENT_COMMIT=$(git rev-parse HEAD)
+          
+          # Aggiungi tutti i cambiamenti
           git add .
-          git diff --cached --quiet || git commit -m "🤖 Auto update catalog"
-          git push
+          
+          # Se non ci sono cambiamenti, esci
+          if git diff --cached --quiet; then
+            echo "Nessun cambiamento da committare"
+            exit 0
+          fi
+          
+          # Crea il commit
+          git commit -m "🤖 Auto update catalog"
+          
+          # Scarica i cambiamenti remoti
+          echo "Scarico cambiamenti remoti..."
+          git fetch origin main
+          
+          # Controlla se il remoto ha nuovi commit
+          LOCAL=$(git rev-parse HEAD)
+          REMOTE=$(git rev-parse origin/main)
+          
+          if [ "$LOCAL" != "$REMOTE" ]; then
+            echo "Rilevati cambiamenti remoti, eseguo rebase..."
+            if git rebase origin/main; then
+              echo "Rebase completato con successo"
+            else
+              echo "Conflitto durante rebase, risoluzione automatica..."
+              git rebase --abort
+              echo "Eseguo merge invece di rebase..."
+              git pull origin main --no-rebase
+            fi
+          else
+            echo "Nessun cambiamento remoto rilevato"
+          fi
+          
+          # Push finale con retry in caso di conflitti temporanei
+          MAX_RETRIES=3
+          RETRY_COUNT=0
+          
+          while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
+            if git push origin main; then
+              echo "✅ Push completato con successo!"
+              exit 0
+            else
+              RETRY_COUNT=$((RETRY_COUNT + 1))
+              if [ $RETRY_COUNT -lt $MAX_RETRIES ]; then
+                echo "⚠️ Push fallito, tentativo $RETRY_COUNT di $MAX_RETRIES..."
+                echo "Aspetto 5 secondi prima di riprovare..."
+                sleep 5
+                # Riscarica i cambiamenti remoti prima di riprovare
+                git fetch origin main
+                git pull --rebase origin main || true
+              fi
+            fi
+          done
+          
+          echo "❌ Impossibile pushare dopo $MAX_RETRIES tentativi"
+          exit 1
