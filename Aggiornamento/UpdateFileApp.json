@@ -1,15 +1,13 @@
 {
-  "version": "0.0.1.3",
+  "version": "0.0.1.4",
   "releaseNotes": {
     "IT": [
-      "Risolto il problema con il download di buzzhavier",
-      "Aggiunta logica gestione download GoFile e Pixeldrain",
-      "Correzione della scheda immagini"
+      "Aggiunta cartella possibilità di scelta cartella download",
+      "Fix vari a GoFile"
     ],
     "EN": [
-      "Fixed Buzzhavier download issue",
-      "Added GoFile and Pixeldrain download management logic",
-      "Fixed the image tab"
+      "Added option to select download folder",
+      "AVarious fixes for GoFile"
     ]
   },
   "updateUrl": "https://github.com/MrNico98/PhoenixPlay-Resources/releases/download/Requisiti/Phoenix.Play.exe"
