@@ -1,13 +1,15 @@
 {
-  "version": "0.0.1.4",
+  "version": "0.0.1.5",
   "releaseNotes": {
     "IT": [
-      "Aggiunta cartella possibilità di scelta cartella download",
-      "Fix vari a GoFile"
+      "Nuova UI",
+      "Nuovo codice app",
+      "Gestione dei .torrent"
     ],
     "EN": [
-      "Added option to select download folder",
-      "AVarious fixes for GoFile"
+      "New user interface",
+      "New app code",
+      ".torrent management"
     ]
   },
   "updateUrl": "https://github.com/MrNico98/PhoenixPlay-Resources/releases/download/Requisiti/Phoenix.Play.exe"
