@@ -1,15 +1,11 @@
 {
-  "version": "0.0.1.5",
+  "version": "0.0.1.6",
   "releaseNotes": {
     "IT": [
-      "Nuova UI",
-      "Nuovo codice app",
-      "Gestione dei .torrent"
+      "Fix download e dipendenze app"
     ],
     "EN": [
-      "New user interface",
-      "New app code",
-      ".torrent management"
+      "Fix download and app addictions"
     ]
   },
   "updateUrl": "https://github.com/MrNico98/PhoenixPlay-Resources/releases/download/Requisiti/Phoenix.Play.exe"
