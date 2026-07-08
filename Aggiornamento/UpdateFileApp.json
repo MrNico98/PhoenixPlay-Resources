@@ -1,11 +1,11 @@
 {
-  "version": "0.0.1.6",
+  "version": "0.0.1.7",
   "releaseNotes": {
     "IT": [
-      "Fix download e dipendenze app"
+      "Fix download lunghi"
     ],
     "EN": [
-      "Fix download and app addictions"
+      "Fix long download"
     ]
   },
   "updateUrl": "https://github.com/MrNico98/PhoenixPlay-Resources/releases/download/Requisiti/Phoenix.Play.exe"
