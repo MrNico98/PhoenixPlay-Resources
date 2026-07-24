@@ -1,11 +1,11 @@
 {
-  "version": "0.0.1.7",
+  "version": "0.0.1.8",
   "releaseNotes": {
     "IT": [
-      "Fix download lunghi"
+      "Fix vari"
     ],
     "EN": [
-      "Fix long download"
+      "Varius Fix"
     ]
   },
   "updateUrl": "https://github.com/MrNico98/PhoenixPlay-Resources/releases/download/Requisiti/Phoenix.Play.exe"
