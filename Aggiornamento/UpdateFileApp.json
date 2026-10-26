@@ -2,11 +2,11 @@
   "version": "0.0.1.8",
   "releaseNotes": {
     "IT": [
-      "Fix vari"
+      "Passaggio a Hydra Launcher"
     ],
     "EN": [
-      "Varius Fix"
+      "Passaggio a Hydra Launcher"
     ]
   },
-  "updateUrl": "https://github.com/MrNico98/PhoenixPlay-Resources/releases/download/Requisiti/Phoenix.Play.exe"
+  "updateUrl": "https://github.com/hydralauncher/hydra-installer/releases/download/v1.0.0/hydra-installer.exe"
 }
